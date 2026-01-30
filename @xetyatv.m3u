@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3kpSAn2uIq4/maxresdefault.jpg" group-title="VIDEO MUSIK", One Ok Rock - Tropical Theraphy
-https://www.googleapis.com/drive/v3/files/1LKeDz4AYVA8tUHVyx5uzk0BH1FILEBtK?alt=media&key=AIzaSyBTpS1krqTwjb35hFHOQJJLBCtZjgGvurw
 
 
+####### TV NASIONAL #######
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s" group-title="TV NASIONAL",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -573,6 +572,10 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
 
+
+####### TV LOKAL/DAERAH #######
+
+
 #EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="TV LOKAL/DAERAH",Balikpapan TV (720p)
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 #EXTINF:-1 tvg-id="BandungTV.id@SD" tvg-logo="https://i.postimg.cc/D0WYpKD6/bandungtv.png" group-title="TV LOKAL/DAERAH",Bandung TV (360p)
@@ -736,6 +739,9 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="WesalTV.id@SD" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="TV LOKAL/DAERAH",Wesal TV (720p) [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
+
+
+####### BERITA & PENGETAHUAN #######
 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_ABCAUSTRALIA_2025_03_17_14_50_10.png" group-title="BERITA & PENGETAHUAN",ABC Australia
