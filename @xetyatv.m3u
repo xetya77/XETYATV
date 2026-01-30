@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3kpSAn2uIq4/maxresdefault.jpg" group-title="VIDEO MUSIK", One Ok Rock - Tropical Theraphy
+https://www.googleapis.com/drive/v3/files/1LKeDz4AYVA8tUHVyx5uzk0BH1FILEBtK?alt=media&key=AIzaSyBTpS1krqTwjb35hFHOQJJLBCtZjgGvurw
+
+
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s" group-title="TV NASIONAL",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
