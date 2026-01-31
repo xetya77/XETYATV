@@ -1,9 +1,4 @@
 #EXTM3U
-
-
-
-####### TV NASIONAL #######
-
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s" group-title="TV NASIONAL",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -507,6 +502,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 
 
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV PASAR SEGIRI
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DMwMLSwMDW2SEwzStFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A/output.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV SIMPANG 3 SURYANATA
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DMwMLSwMDW2SDKxMNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A/output.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="TVRParlemen.id@SD" tvg-logo="https://i.imgur.com/2XYpmHL.png" group-title="PEMERINTAH",TVR Parlemen (720p) [Not 24/7]
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
@@ -570,10 +576,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@Yogyakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP",TVRI Yogyakarta (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
-
-
-
-####### TV LOKAL/DAERAH #######
 
 
 #EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="TV LOKAL/DAERAH",Balikpapan TV (720p)
@@ -739,9 +741,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="WesalTV.id@SD" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="TV LOKAL/DAERAH",Wesal TV (720p) [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-
-
-####### BERITA & PENGETAHUAN #######
 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_ABCAUSTRALIA_2025_03_17_14_50_10.png" group-title="BERITA & PENGETAHUAN",ABC Australia
