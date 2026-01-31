@@ -1,0 +1,296 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+
+####### INDONESIA #######
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSos5wXjL-QZ7iievuU7LoDI22gaf4kCd6FUSOTxf0KupjYixJmv2IP12M&s=10" group-title="INDONESIA" http-referrer="https://20.detik.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",TransTV HD (TRANSCORP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexTvPrfG8E3lo-tcCfBSOb50TDzjLUyVVFHeiAZC1vPFQPoRHlp7moVg&s=10" group-title="INDONESIA" http-referrer="https://20.detik.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",Trans7 HD (TRANSCORP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w127267210_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDONESIA" http-referrer="https://www.cnnindonesia.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",CNN Indonesia (ChannelFeed)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="INDONESIA" http-referrer="https://www.visionplus.id/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0",TVRI Nasional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dPzbeoIP2w-ZMB4MTvc2xZhYHp7_BN0CjrG5thpt2aTbi5C4BAAJ_wFe&s=10" group-title="INDONESIA" http-referrer="https://www.cnbcindonesia.com/" http-user-agent="VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",CNBC Indonesia (ChannelFeed)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1242192746_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNB9OGzinChxmzFzLV0VlS6qsNMtGsO5hTGVYjn4Sf_zB2M6UF8neicI&s=10" group-title="INDONESIA" http-referrer="https://garuda.tv/" http-user-agent="",Garuda TV (ChannelFeed)
+#EXTVLCOPT:http-referrer=https://garuda.tv/
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGj7L_AqkfDlAbmTevWiKJTdxGAXDLLdfL8KMLhL9RZXiETm131Z3smLHb&s=10" group-title="INDONESIA" http-referrer="" http-user-agent="",JAGANTARA HD
+http://103.172.71.153:9981/stream/channelid/1697990290?profile=pass
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="INDONESIA" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGGEPkFbOq2zNIQS4Imeq4avBxklOVTmQ5p8n3-9o3D-GdIMAwZ_HkeZz&s=10" group-title="INDONESIA" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="INDONESIA" http-referrer="" http-user-agent="YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3",VTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Uj3cD2zvKeJV4bBN4Z7SepFf9a58Au2xDNPBsWi4Shi66Kn20X7wVxo&s=10" group-title="INDONESIA" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",SINPO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSos5wXjL-QZ7iievuU7LoDI22gaf4kCd6FUSOTxf0KupjYixJmv2IP12M&s=10" group-title="INDONESIA" http-referrer="" http-user-agent="",TransTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexTvPrfG8E3lo-tcCfBSOb50TDzjLUyVVFHeiAZC1vPFQPoRHlp7moVg&s=10" group-title="INDONESIA" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7zVESAz7YqXygMvWjedwKOixvHYGb3pXXnj8ZBD-qf00RH8_Ad0RKlI&s=10" group-title="INDONESIA" http-referrer="" http-user-agent="",MetroTV
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOOXHzTEMbDw1YdQG5v5Gp5AU-Z9GuVV8eA&s" group-title="INDONESIA" http-referrer="https://www.visionplus.id/" http-user-agent="",BTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dPzbeoIP2w-ZMB4MTvc2xZhYHp7_BN0CjrG5thpt2aTbi5C4BAAJ_wFe&s=10" group-title="INDONESIA" http-referrer="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",SCTV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_INEWS_2025_03_17_15_13_44.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",iNEWS
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",BTV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_KOMPASTV_2025_03_17_14_56_36.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",KOMPASTV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_NUSANTARATV_2025_03_17_15_11_54.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",Nusantara TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",RTV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_SINDONEWSTV_2025_03_17_15_14_55.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",SindoNews
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_TVONE_2025_03_17_14_49_56.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",TVOne
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",TVRI
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_ANTARATV_2025_03_17_15_21_30.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",Antara
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_BALI-TV_2025_03_17_15_01_03.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",Bali TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_JAKTV_2025_03_17_14_50_11.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",JakTV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_JAWAPOSTV_2025_03_17_14_53_33.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",Jawa Pos TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_JTV_2025_03_17_15_01_58.png" group-title="INDONESIA" http-referrer="https://www.indihometv.com/" http-user-agent="",JTV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+
+
+
+
+
+
+
+
+
+####### TVRI GRUP #######
+
+#EXTINF:-1 tvg-id="TVRI.id@Aceh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Aceh (720p)
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Bali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Bali (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@BangkaBelitung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Bangka Belitung (480p)
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Bengkulu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Bengkulu (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Gorontalo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Gorontalo (480p)
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Jambi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Jambi (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestJava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Jawa Barat (480p)
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@CentralJava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Jawa Tengah (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@EastJava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Jawa Timur (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestKalimantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Kalimantan Barat (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SouthKalimantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Kalimantan Selatan (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@CentralKalimantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Kalimantan Tengah (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@EastKalimantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Kalimantan Timur (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Lampung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Lampung (720p)
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Maluku" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Maluku (480p)
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@NorthSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Sulawesi Utara (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@NorthSumatra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Sumatra Utara (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Papua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Papua (480p)
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Riau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Riau (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://i.postimg.cc/PrqBt2h1/tvrisport.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Sport (720p)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Sulawesi Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SouthSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Sulawesi Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@CentralSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Sulawesi Tengah (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SoutheastSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Sulawesi Tenggara (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestSumatra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Sumatera Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SouthSumatra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Sumatera Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestPapua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Papua Barat (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Yogyakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP" http-referrer="" http-user-agent="",TVRI Yogyakarta (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+
+
+
+
+
+
+
+
+
+####### LOKAL #######
+
+#EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="LOKAL" http-referrer="" http-user-agent="",Balikpapan TV (720p)
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+#EXTINF:-1 tvg-id="BatamTV.id@SD" tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="LOKAL" http-referrer="" http-user-agent="",Batam TV (480p) [Not 24/7]
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BETV.id@SD" tvg-logo="https://i.imgur.com/3EX0zax.png" group-title="LOKAL" http-referrer="https://youtv.live/" http-user-agent="",BE TV (720p)
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch58.m3u8
+#EXTINF:-1 tvg-id="BeritaSatuEnglish.id@SD" tvg-logo="https://i.postimg.cc/SRDWxRGs/13092012142252.jpg" group-title="LOKAL" http-referrer="" http-user-agent="",BeritaSatu English
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="BNChannel.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/512px-BN_Channel.png" group-title="LOKAL" http-referrer="https://youtv.live/" http-user-agent="",BN Channel (720p)
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch112.m3u8
+#EXTINF:-1 tvg-id="BRTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="LOKAL" http-referrer="" http-user-agent="",BRTV (720p)
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="LOKAL" http-referrer="" http-user-agent="",BTV (720p)
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="LOKAL" http-referrer="" http-user-agent="",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="LOKAL" http-referrer="" http-user-agent="",JTV (480p)
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV.id@SD" tvg-logo="https://i.imgur.com/j3wtaDc.png" group-title="LOKAL" http-referrer="https://youtv.live/" http-user-agent="",KTV (720p)
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch118.m3u8
+#EXTINF:-1 tvg-id="LingkarTV.id@SD" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="LOKAL" http-referrer="" http-user-agent="",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-id="MAXStream.id@SD" tvg-logo="https://i.postimg.cc/QxbFGWcM/maxstream.png" group-title="LOKAL" http-referrer="" http-user-agent="",MAX Stream (720p)
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTINF:-1 tvg-id="MDTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png" group-title="LOKAL" http-referrer="" http-user-agent="",MDTV (1080p)
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1 tvg-id="MGSTV.id@SD" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="LOKAL" http-referrer="" http-user-agent="",MGS TV (720p) [Not 24/7]
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#EXTINF:-1 tvg-id="MQTV.id@SD" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="LOKAL" http-referrer="" http-user-agent="",MQTV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PadangTV.id@SD" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="LOKAL" http-referrer="" http-user-agent="",Padang TV (720p) [Not 24/7]
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="PKTV.id@SD" tvg-logo="https://i.imgur.com/mldv8Sf.png" group-title="LOKAL" http-referrer="https://pktvkaltim.com/acara/live-content/?noamp=mobile" http-user-agent="",PKTV (480p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://pktvkaltim.com/acara/live-content/?noamp=mobile
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+#EXTINF:-1 tvg-id="RakyatBengkuluTV.id@SD" tvg-logo="https://i.imgur.com/5L2q081.png" group-title="LOKAL" http-referrer="https://youtv.live/" http-user-agent="",Rakyat Bengkulu TV (720p)
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch59.m3u8
+#EXTINF:-1 tvg-id="RCTV.id@SD" tvg-logo="https://i.postimg.cc/DZRB5rpD/rctv.png" group-title="LOKAL" http-referrer="" http-user-agent="",RCTV (576p) [Not 24/7]
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RodjaTV.id@SD" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="LOKAL" http-referrer="" http-user-agent="",Rodja TV (720p)
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="SalamTV.id@SD" tvg-logo="https://i.imgur.com/00Ifzgo.png" group-title="LOKAL" http-referrer="" http-user-agent="",Salam TV (1080p)
+https://salamtv.siar.us/live/salamtv.m3u8
+#EXTINF:-1 tvg-id="SampitTV.id@SD" tvg-logo="https://i.imgur.com/8cFJa8G.png" group-title="LOKAL" http-referrer="" http-user-agent="",Sampit TV (720p) [Not 24/7]
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
+#EXTINF:-1 tvg-id="SangajiTV.id@SD" tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="LOKAL" http-referrer="" http-user-agent="",Sangaji TV (720p) [Not 24/7]
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTINF:-1 tvg-id="SemarangTV.id@SD" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="LOKAL" http-referrer="" http-user-agent="",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 tvg-id="SriwijayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="LOKAL" http-referrer="" http-user-agent="",Sriwijaya TV (576p) [Not 24/7]
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+#EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://i.imgur.com/CKoxcWL.png" group-title="LOKAL" http-referrer="" http-user-agent="",Surau TV (720p)
+https://surautv.siar.us/live/surautv.m3u8
+#EXTINF:-1 tvg-id="TVTabalong.id@SD" tvg-logo="https://i.imgur.com/2YhDH98.png" group-title="LOKAL" http-referrer="" http-user-agent="",TV Tabalong (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 tvg-id="TVKU.id@SD" tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="LOKAL" http-referrer="" http-user-agent="",TVKU (720p)
+https://tvku.tv/hlsstream/hls/live.m3u8
+#EXTINF:-1 tvg-id="UChannel.id@SD" tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="LOKAL" http-referrer="https://www.u-channel.tv/" http-user-agent="",U Channel (720p)
+#EXTVLCOPT:http-referrer=https://www.u-channel.tv/
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
+#EXTINF:-1 tvg-id="UGTV.id@SD" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="LOKAL" http-referrer="" http-user-agent="",UGTV (720p)
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-id="VTV.id@SD" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" group-title="LOKAL" http-referrer="https://youtv.live/" http-user-agent="",VTV (720p)
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-id="WesalTV.id@SD" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="LOKAL" http-referrer="" http-user-agent="",Wesal TV (720p) [Not 24/7]
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+
+
+
+
+
+
+
+
+####### TV MALAYSIA #######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/znFJy1M.jpeg" group-title="MALAYSIA" http-referrer="" http-user-agent="",TV1
+https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrGnHkH.jpeg" group-title="MALAYSIA" http-referrer="" http-user-agent="",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SyVOcgi.jpeg" group-title="MALAYSIA" http-referrer="" http-user-agent="",TV3
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8H0j3N.jpeg" group-title="MALAYSIA" http-referrer="" http-user-agent="",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg" group-title="MALAYSIA" http-referrer="" http-user-agent="",TV9
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgoxpIW.jpeg" group-title="MALAYSIA" http-referrer="" http-user-agent="",TV OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5P7IDyr.png" group-title="MALAYSIA" http-referrer="" http-user-agent="",DRAMA HOTPOT
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Xu4g0K.png" group-title="MALAYSIA" http-referrer="" http-user-agent="",FILEM MANTAP
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwskxR6.png" group-title="MALAYSIA" http-referrer="" http-user-agent="",LAWAK SENTRAL
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iQq1DA8.png" group-title="MALAYSIA" http-referrer="" http-user-agent="",DRAMA HEBAT
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ketHEET.png" group-title="MALAYSIA" http-referrer="" http-user-agent="",JOM NGAJI
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOtlvmz.png" group-title="MALAYSIA" http-referrer="" http-user-agent="",OH MY CERIA!
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIvKdnh.jpeg" group-title="MALAYSIA" http-referrer="" http-user-agent="",RTB ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiFy9Sr.png" group-title="MALAYSIA" http-referrer="" http-user-agent="",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsC4z6a.jpeg" group-title="MALAYSIA" http-referrer="" http-user-agent="",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
