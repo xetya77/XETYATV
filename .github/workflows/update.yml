@@ -1,1 +1,30 @@
+name: Auto Update SNRTV Playlist
 
+on:
+  schedule:
+    - cron: '5 17 * * *'   # 00:05 WIB
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: |
+          npm init -y
+          npm install playwright
+          npx playwright install chromium
+
+      - run: node update.js
+
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add playlist.m3u
+          git commit -m "auto update playlist"
+          git push
