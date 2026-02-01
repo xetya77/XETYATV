@@ -1,41 +1,53 @@
 import { chromium } from 'playwright';
 import fs from 'fs';
 
+const FILE = '@xetyatv.m3u';
+
+const channels = [
+  {
+    name: 'SNRTV',
+    page: 'https://WEBSITE_SNRTV',
+    match: 'sxbc-star'
+  }
+];
+
 (async () => {
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
 
-  let m3u8Url = null;
+  let autoContent = '';
 
-  page.on('request', req => {
-    const url = req.url();
-    if (
-      url.includes('.m3u8') &&
-      url.includes('stream.snrtv.com') &&
-      url.includes('sxbc-star')
-    ) {
-      m3u8Url = url;
+  for (const ch of channels) {
+    let found = null;
+
+    page.removeAllListeners('request');
+    page.on('request', r => {
+      const url = r.url();
+      if (url.includes('.m3u8') && url.includes(ch.match)) {
+        found = url;
+      }
+    });
+
+    await page.goto(ch.page, { waitUntil: 'networkidle' });
+    await page.waitForTimeout(5000);
+
+    if (found) {
+      autoContent += `#EXTINF:-1,${ch.name}\n${found}\n\n`;
     }
-  });
-
-  // GANTI URL INI DENGAN WEBSITE ASLI TEMPAT STREAM DIMUAT
-  await page.goto('http://live.snrtv.com/star', {
-    waitUntil: 'networkidle'
-  });
-
-  await page.waitForTimeout(5000);
-
-  if (!m3u8Url) {
-    console.log('M3U8 tidak ditemukan');
-    process.exit(1);
   }
 
-  const playlist = `#EXTM3U
-#EXTINF:-1,Shandong Satelit TV
-${m3u8Url}
-`;
-
-  fs.writeFileSync('playlist.m3u', playlist);
   await browser.close();
+
+  let text = fs.readFileSync(FILE, 'utf8');
+
+  const start = '#AUTO_UPDATE_START';
+  const end = '#AUTO_UPDATE_END';
+
+  const regex = new RegExp(`${start}[\\s\\S]*?${end}`, 'm');
+
+  const replacement = `${start}\n${autoContent}${end}`;
+
+  text = text.replace(regex, replacement);
+
+  fs.writeFileSync(FILE, text);
 })();
-  
