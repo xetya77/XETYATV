@@ -19,7 +19,7 @@ import fs from 'fs';
   });
 
   // GANTI URL INI DENGAN WEBSITE ASLI TEMPAT STREAM DIMUAT
-  await page.goto('https://WEBSITE_STREAM_ASLI', {
+  await page.goto('http://live.snrtv.com/star', {
     waitUntil: 'networkidle'
   });
 
@@ -31,7 +31,7 @@ import fs from 'fs';
   }
 
   const playlist = `#EXTM3U
-#EXTINF:-1,SNRTV
+#EXTINF:-1,Shandong Satelit TV
 ${m3u8Url}
 `;
 
