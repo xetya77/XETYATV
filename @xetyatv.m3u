@@ -3041,6 +3041,14 @@ https://cdn-1.pishow.tv/live/276/master.m3u8
 
 
 
+
+
+
+
+
+####### TV VIETNAM #######
+
+
 #EXTINF:-1 tvg-id="CaMauTV.vn@SD" tvg-logo="" group-title="TV VIETNAM",Cà Mau TV (720p) [Geo-blocked]
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn@SD" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="TV VIETNAM",Cao Bang TV (480p)
@@ -3082,20 +3090,35 @@ https://liveh12.vtvprime.vn/hls/VTV5_TN/03.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpT7w44n9_uz-LV7WoPQV9XLyPkbT7elH00w&s" group-title="TV CINA",Hunan Kids
-https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09NCZxaWQ9JnJhdXRoX2VuYWJsZT1vZmYmY2RuZXhfaWQ9YWxfcGhvbmU0JmNocz0mZGVmPTEmcz1jZWFmOTc1MWM5MWJkMmRkNjk0ZmQ2YThmMDVlYzFkNyZ1aWQ9JnV1aWQ9NDA4ODg3ZDRkZTUzYmZiMjhhZmYyMTE0OTRhYzcyOWYtOGNkNTQzOTQmdj0yJmFzPTAmZXM9MTc2OTgxNzE5OQ,,/JYKTMPP360.m3u8?sftc=v6.8.2ds1_vtp2&ftc=webP1
+
+
+
+
+####### TV CHINA #######
+
+
 #EXTINF:-1 group-title="TV CINA",Shopping TV China
 https://tfsy1gr3uomttgr31hcjogczdcqbpp7tswctqppizg5m8f3ts65e.100ycdn.com/ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=3c667ff05ad7d36ed1af2585-176967172286295&wsIPSercert=97f785f4cbd38b93b9cea56b8ed6aaa8&wsiphost=local&wsBindIP=1
 https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09NCZxaWQ9JnJhdXRoX2VuYWJsZT1vbiZjZG5leF9pZD1hbF9waG9uZTQmY2hzPSZkZWY9MSZzPWFmMTg0Y2VkNGIyNThiM2NmNzRjNzE1ZTk5Y2RhZjEzJnVpZD0mdXVpZD0wMTNjOTVkZjEwNzMxMWMzZDkwMjQwNDY2NmQxMjY0OC04Y2Q1NDM5NCZ2PTImYXM9MCZlcz0xNzY5ODE3Nzg4/HNJSMPP360.m3u8?sftc=v6.8.2ds1_vtp2&ftc=webP1
 #EXTINF:-1 group-title="TV CINA",GO TV
 https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09NCZxaWQ9JmNkbmV4X2lkPWFsX3Bob25lNCZjaHM9JmRlZj0xJnM9ZTAwYzViZWQ2YTM0YTBmMTA0ZDcyODQ1ZmQ2MzI1NmMmdWlkPSZ1dWlkPTQ2Y2RiNGM3MWUwYTQxNjAzMzNiZjdiOTgxYTZlZDA2LThjZDU0Mzk0JnY9MiZhcz0wJmVzPTE3Njk4MTc5NzU,/KLGMPP360.m3u8?sftc=v6.8.2ds1_vtp2&ftc=webP1
 https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09NCZxaWQ9JnJhdXRoX2VuYWJsZT1vZmYmY2RuZXhfaWQ9YWxfcGhvbmU0JmNocz0mZGVmPTEmcz03OTRmM2IyNTUzYjIwODcxOTFkMDkxMDA1ZjQ2YzRlYSZ1aWQ9JnV1aWQ9MjRjMTBkYjIxOGJmMWI3ZDk0OGVlNjk4ZjNiNWRmZjctOGNkNTQzOTQmdj0yJmFzPTAmZXM9MTc2OTgxODA4MA,,/HNYLMPP360.m3u8?sftc=v6.8.2ds1_vtp2&ftc=webP1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpT7w44n9_uz-LV7WoPQV9XLyPkbT7elH00w&s" group-title="TV CINA",Hunan TV1 
-https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09NCZxaWQ9JnJhdXRoX2VuYWJsZT1vZmYmY2RuZXhfaWQ9YWxfcGhvbmU0JmNocz0mZGVmPTEmcz0zMzcxZmZhNzQzYzAzYTViZWQ2YmJkYmU2Njg2YjU5YiZ1aWQ9JnV1aWQ9MDU1OWMwOWQ3NGZlZGU3ZDg3ODE4ZDE0MDQwYzY4OGUtOGNkNTQzOTQmdj0yJmFzPTAmZXM9MTc2OTgxODI0NA,,/HNDSJMPP360.m3u8?sftc=v6.8.2ds1_vtp2&ftc=webP1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpT7w44n9_uz-LV7WoPQV9XLyPkbT7elH00w&s" group-title="TV CINA",Hunan TV2 
-https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09NCZxaWQ9JmNkbmV4X2lkPWFsX3Bob25lNCZjaHM9JmRlZj0xJnM9NmNkOGFmOTMxOGNhN2ViY2NhMmE3MzljYjEzOWQ1YWMmdWlkPSZ1dWlkPTkzMmMxYmRhODQ2MGIyOGEyOGFlZTI4YjBhY2VjNmZlLThjZDU0Mzk0JnY9MiZhcz0wJmVzPTE3Njk4MTgzNzM,/JYJSMPP360.m3u8?sftc=v6.8.2ds1_vtp2&ftc=webP1
-https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09NCZxaWQ9JnJhdXRoX2VuYWJsZT1vZmYmY2RuZXhfaWQ9YWxfcGhvbmU0JmNocz0mZGVmPTEmcz0wZDkxYTFiYzAyYjdjNmYxZmNlNWM4M2MzM2RiOGYzYiZ1aWQ9JnV1aWQ9OTRjNDNiMzI1MTExMWE1MjdiZGY5NGYzYmI4NzQwZmMtOGNkNTQzOTQmdj0yJmFzPTAmZXM9MTc2OTgxODQzNw,,/HNGGMPP360.m3u8?sftc=v6.8.2ds1_vtp2&ftc=webP1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpT7w44n9_uz-LV7WoPQV9XLyPkbT7elH00w&s" group-title="TV CINA",Hunan TV3
-https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09NCZxaWQ9JnJhdXRoX2VuYWJsZT1vZmYmY2RuZXhfaWQ9YWxfcGhvbmU0JmNocz0mZGVmPTEmcz0xMTk4MDI0OTk4YWFiOGY4MjkxZWE4NWVhNzkxNzEyZiZ1aWQ9JnV1aWQ9MGZjYWY3MmQ2MGNiOTg3Mjg2ZGNlNjk5ZjIyOWQ5NmItOGNkNTQzOTQmdj0yJmFzPTAmZXM9MTc2OTgxODczOQ,,/HNGJMPP360.m3u8?sftc=v6.8.2ds1_vtp2&ftc=webP1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpT7w44n9_uz-LV7WoPQV9XLyPkbT7elH00w&s" group-title="TV CINA",Hunan TV4
-https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09NCZxaWQ9JnJhdXRoX2VuYWJsZT1vZmYmY2RuZXhfaWQ9YWxfcGhvbmU0JmNocz0mZGVmPTEmcz0yZDU1ODM2NDUyY2RjZWE3NmRiNGUzNWY5MjY2NjViNCZ1aWQ9JnV1aWQ9MzYzYjdmOGZlYzQ2MDZhY2I5NzBlMTIyMDE1ZTdkNmYtOGNkNTQzOTQmdj0yJmFzPTAmZXM9MTc2OTgxODgxNw,,/JYJSMPP360.m3u8?sftc=v6.8.2ds1_vtp2&ftc=webP1
+#EXTINF:-1 ,Qilu Channel
+https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8?k=c5d394d52f7be8bf7bd3be2e55e5589b&t=1769932671
+#EXTINF:-1 ,Qilu Sports
+https://tstreamlive302.iqilu.com/291/d9c0aba79a944b41a7f4f1ac422d9808/playlist.m3u8?k=b05e034f1505057fb6bc0f7d64c93f76&t=1769932823
+#EXTINF:-1 ,Qilu Life
+https://tstreamlive302.iqilu.com/291/6e9efb8f95a543db8246f1cf06ba960b/playlist.m3u8?k=9ddcdd148a44353f872c016c938e1fe1&t=1769932960
+#EXTINF:-1 ,Qilu Variety
+https://tstreamlive302.iqilu.com/291/dad8e4743fcf48ed925d01e64868cc7c/playlist.m3u8?k=13c3cc8e4a1b25d9b795fa261dd350fa&t=1769933058
+#EXTINF:-1 ,Qilu News
+https://tft11gr3uomttgr31hcjogczdqcbpqp48r3mbpisg17ufgcadrmujqfwsa7e.100ycdn.com/streamlive302.iqilu.com/21/ae3cd441fafb45f29168af2a3bf8e116/playlist.m3u8?n=466e215a2c0dc6a13d0bbea45d1eec4e&m=1769933169&wsSession=f4e630affb0783dc6d902874-176993317044243&wsIPSercert=165eda34b0c6427afa09edc60eb01ba6&wsiphost=local&wsBindIP=1
+#EXTINF:-1 ,Qilu Agricultur
+https://tstreamlive302.iqilu.com/291/9664dd18b42b4b129a71fbfb68a80e3b/playlist.m3u8?k=1519a4730bc4bba9b2084d4a9aadc962&t=1769933272
+#EXTINF:-1 ,Qilu Tourist
+https://tstreamlive302.iqilu.com/291/71637943d1f841c78edd6abfa120bee2/playlist.m3u8?k=ef17ba3a901bab1524b61875558ff389&t=1769933528
+#EXTINF:-1 ,Qilu Kids
+https://tstreamlive302.iqilu.com/21/990de3c3748848848daf5a96743f9c57/playlist.m3u8?k=e4d3540983458fe06debe214e33a9850&t=1769933533
+#EXTINF:-1 ,Shandong Satelit TV
+https://tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee/playlist.m3u8?k=6e4ea2e32c8bb7c9ff261df312a330da&t=1769931876
+
