@@ -3132,4 +3132,7 @@ http://stream.snrtv.com/sxbc-star-elHPQY.m3u8
 
 
 #AUTO_UPDATE_START
+#EXTINF:-1,Shannxi Satellite TV
+http://stream.snrtv.com/sxbc-star-elHPQY.m3u8
+
 #AUTO_UPDATE_END
