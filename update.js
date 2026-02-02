@@ -28,6 +28,41 @@ const channels = [
     name: 'Fujian Comprehensive CH',
     page: 'https://live.fjtv.net/zhpd/',
     match: 'live2-fuyun.fjtv.net/zhpd/hd/live'
+  },
+  {
+    name: 'Fujian Public TV',
+    page: 'https://live.fjtv.net/ggpd/',
+    match: 'live2-fuyun.fjtv.net/ggxcpd/hd/live'
+  },
+  {
+    name: 'Fujian News TV',
+    page: 'https://live.fjtv.net/xwpd/',
+    match: 'live1-fuyun.fjtv.net/xwpd/hd/live'
+  },
+  {
+    name: 'Fujian Travel TV',
+    page: 'https://live.fjtv.net/dspd/',
+    match: 'live1-fuyun.fjtv.net/dspd/hd/live'
+  },
+  {
+    name: 'Fujian Life TV',
+    page: 'https://live.fjtv.net/jspd/',
+    match: 'live2-fuyun.fjtv.net/jjpd/hd/live'
+  },
+  {
+    name: 'Fujian Sports TV',
+    page: 'https://live.fjtv.net/typd/',
+    match: 'live1-fuyun.fjtv.net/typd/hd/live'
+  },
+  {
+    name: 'Fujian Kids TV',
+    page: 'https://live.fjtv.net/sepd/',
+    match: 'live2-fuyun.fjtv.net/child/hd/live'
+  },
+  {
+    name: 'Fujian Straits TV',
+    page: 'https://live.fjtv.net/hxtv/',
+    match: 'live1-fuyun.fjtv.net/haixiapd/hd/live'
   }
 ];
 
