@@ -25,9 +25,9 @@ const channels = [
     match: 'nn_live/nn_x64'
   },
   {
-    name: 'GO SHOPPING TV',
-    page: 'https://www.mgtv.com/live/',
-    match: 'KLGMPP'
+    name: 'Fujian Comprehensive CH',
+    page: 'https://live.fjtv.net/zhpd/',
+    match: 'live2-fuyun.fjtv.net/zhpd/hd/live'
   }
 ];
 
