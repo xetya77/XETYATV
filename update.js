@@ -24,7 +24,8 @@ const channels = [
 (async () => {
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
-
+  await page.setViewportSize({ width: 1280, height: 720 });
+  page.setExtraHTTPHeaders({ 'Accept-Language':'en-US,en;q=0.9' });
   let autoContent = '';
 
   for (const ch of channels) {
@@ -38,8 +39,7 @@ const channels = [
       }
     });
 
-    await page.goto(ch.page, { waitUntil: 'domcontentloaded' });
-    await page.waitForTimeout(60000);
+    await page.goto(ch.page, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
     if (found) {
       autoContent += `#EXTINF:-1,${ch.name}\n${found}\n\n`;
