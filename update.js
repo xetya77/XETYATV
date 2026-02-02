@@ -65,9 +65,14 @@ const channels = [
     match: 'live1-fuyun.fjtv.net/haixiapd/hd/live'
   },
   {
-    name: 'Shannxi Urban TV',
-    page: 'http://live.snrtv.com/star',
-    match: 'stream.snrtv.com/sxbc-2'
+    name: 'Dragon TV',
+    page: 'https://www.kds.tw/tv/china-tv-channels-online/dragon-television/',
+    match: 'cdn.inteltelevision.com/4987/dongfangweishi_twn/playlist'
+  },
+  {
+    name: 'Sichuan Satellite TV',
+    page: 'https://www.kds.tw/tv/china-tv-channels-online/sichuan-satellite-tv/',
+    match: 'cdn.inteltelevision.com/4987/sichuan_twn/playlist'
   }
 ];
 
