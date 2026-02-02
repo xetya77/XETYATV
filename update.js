@@ -38,8 +38,8 @@ const channels = [
       }
     });
 
-    await page.goto(ch.page, { waitUntil: 'networkidle' });
-    await page.waitForTimeout(5000);
+    await page.goto(ch.page, { waitUntil: 'domcontentloaded' });
+    await page.waitForTimeout(60000);
 
     if (found) {
       autoContent += `#EXTINF:-1,${ch.name}\n${found}\n\n`;
