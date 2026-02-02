@@ -23,6 +23,12 @@ jobs:
         with:
           node-version: 20
 
+      - name: Pull latest changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git pull --rebase
+
       - name: Install dependencies
         run: |
           npm init -y
@@ -34,9 +40,6 @@ jobs:
 
       - name: Commit & push changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git pull --rebase
           git add @xetyatv.m3u
           git commit -m "auto update m3u playlist" || echo "No changes"
           git push
