@@ -14,7 +14,7 @@ const channels = [
     page: 'https://v.iqilu.com/live/sdtv/',
     match: 'iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee'
   },
-   {
+  {
     name: 'Shandong Qilu',
     page: 'https://v.iqilu.com/live/qlpd/',
     match: 'iqilu.com/291/5de861e29cdd4f9589327c8dd783172a'
@@ -28,7 +28,7 @@ const channels = [
   name: 'GO SHOPPING TV',
   page: 'https://www.mgtv.com/live/',
   match: 'KLGMPP360'
-}
+  }
 ];
 
 (async () => {
