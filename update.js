@@ -40,7 +40,7 @@ const channels = [
     });
 
     await page.goto(ch.page, { waitUntil: 'domcontentloaded', timeout: 60000 });
-
+    await page.waitForTimeout(15000);
     if (found) {
       autoContent += `#EXTINF:-1,${ch.name}\n${found}\n\n`;
     }
