@@ -13,6 +13,11 @@ const channels = [
     name: 'Shandong Satellite TV',
     page: 'https://v.iqilu.com/',
     match: 'playlist.m3u8'
+  },
+   {
+    name: 'Shandong Qilu',
+    page: 'https://v.iqilu.com/live/qlpd/',
+    match: 'playlist.m3u8'
   }
 ];
 
