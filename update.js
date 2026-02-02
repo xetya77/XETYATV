@@ -23,6 +23,11 @@ const channels = [
   name: 'Hunan TV Kids',
   page: 'https://www.mgtv.com/live/', // halaman player asli
   match: 'nn_live/nn_x64'
+  },
+  {
+  name: 'GO SHOPPING TV',
+  page: 'https://www.mgtv.com/live/', // halaman player asli
+  match: 'KLGMPP360'
 }
 ];
 
