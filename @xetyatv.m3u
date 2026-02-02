@@ -504,10 +504,45 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV JEMBATAN MAHAKAM
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDVMNTI1N9BLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A/output.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV MAHAKAM TUGU PLN
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDVMNTI1T9VLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A/output.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV SIMPANG RING ROAD SURYANATA
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDU2NzJKNNFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A/output.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV TAMAN SAMARENDAH
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/49Ix0UtLS0tJS0lK1jUzMrTUTUuzMNW1ME8z0DUESRiZmaVZJKfoJSfmGhgICTRPbH0equ8jvq1VZqvf2qMeAA/output.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV TERAS SAMARINDA 3
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DNOTjU2S0ozMUqxtNRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A/output.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV TERAS SAMARINDA 5
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1EszSTJMNkpKsUg0NdZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A/output.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV TERAS SAMARINDA 7
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DNOTjU2S0ozMTQ3N9VLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A/output.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV TERAS SAMARINDA 9
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1EszSTJMNkpKsUg0tdBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A/output.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV PASAR SEGIRI
 https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DMwMLSwMDW2SEwzStFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A/output.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV SIMPANG 3 SURYANATA
 https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DMwMLSwMDW2SDKxMNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A/output.m3u8
+
+
+
+
+
 
 
 
