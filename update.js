@@ -27,7 +27,7 @@ const channels = [
   {
   name: 'GO SHOPPING TV',
   page: 'https://www.mgtv.com/live/',
-  match: 'KLGMPP'
+  match: '/KLGMPP'
   }
 ];
 
