@@ -3109,4 +3109,10 @@ https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09
 #EXTINF:-1,Shannxi Satellite TV
 http://stream.snrtv.com/sxbc-star-elHPQY.m3u8
 
+#EXTINF:-1,Shandong Satellite TV
+https://tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee/playlist.m3u8?k=e52af9c18b60eda1e556c2bf7bada042&t=1769997499
+
+#EXTINF:-1,Shandong Qilu
+https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8?k=9dcb2d39016b6b29e39baf9eb9a8fbaa&t=1769997515
+
 #AUTO_UPDATE_END
