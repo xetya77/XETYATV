@@ -32,7 +32,6 @@ jobs:
 
       - name: Install deps
         run: |
-          npm init -y
           npm install playwright
           npx playwright install chromium
 
