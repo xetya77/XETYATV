@@ -9,6 +9,12 @@ const channels = [
     page: 'http://live.snrtv.com/star',
     match: 'sxbc-star'
   }
+  {
+    name: 'Shandong Satellite TV',
+    page: 'https://v.iqilu.com/',
+    match: 'playlist.m3u8'
+  }
+  
 ];
 
 (async () => {
