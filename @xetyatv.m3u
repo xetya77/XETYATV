@@ -3110,15 +3110,36 @@ https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09
 http://stream.snrtv.com/sxbc-star-elHPQY.m3u8
 
 #EXTINF:-1,Shandong Satellite TV
-https://tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee/playlist.m3u8?k=afd9e2a5cc0027cbc08de07750bf9ccf&t=1770012350
+https://tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee/playlist.m3u8?k=03228a3921aaed251a741b0f681adaf9&t=1770013836
 
 #EXTINF:-1,Shandong Qilu
-https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8?k=2a71b6bd79db4b80c464250c371f82b4&t=1770012372
+https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8?k=3ae186c01109c10e24f961746726dd2c&t=1770013857
 
 #EXTINF:-1,Hunan TV Kids
-https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTUyLjE1NC4xOS4yMjgmdGVybT00JnFpZD0mcmF1dGhfZW5hYmxlPW9mZiZjZG5leF9pZD1hbF9waG9uZTQmY2hzPSZkZWY9MSZzPWUzNzM1YWI1OGIyNDk3YTI0MzI1N2NjYmI1ZTc2ZDI0JnVpZD0mdXVpZD05ZTIzODA2NGRhMmU1NGQ1YTliZjM1YWJiYTg0OWM2Ni0zNDlhMTNlNCZ2PTImYXM9MCZlcz0xNzcwMTQyMDIx/JYKTMPP360.m3u8?sftc=v6.8.2ds0_vtp2&ftc=webP1
+https://padqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3Mi4xODIuMjAyLjE5MyZ0ZXJtPTQmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTk3YzNkNThmZjY0YzUxNTIxYzJjYTM3NzRhZmFiNjRmJnVpZD0mdXVpZD04OWQzZGI3OWY4MDc4NDQzNzdjMzIwNGZlMjc4NDUwYS1hY2I2Y2FjMSZ2PTImYXM9MCZlcz0xNzcwMDQyNjc2/JYKTMPP360.m3u8?sftc=v6.8.2ds0_vtp2&ftc=webP1
 
 #EXTINF:-1,Fujian Comprehensive CH
-https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=c9da728f1770022442
+https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=eb2147181770023891
+
+#EXTINF:-1,Fujian Public TV
+https://live2-fuyun.fjtv.net/ggxcpd/hd/live.m3u8?_upt=be6306641770023906
+
+#EXTINF:-1,Fujian News TV
+https://live1-fuyun.fjtv.net/xwpd/hd/live.m3u8?_upt=a15b4a691770023922
+
+#EXTINF:-1,Fujian Travel TV
+https://live1-fuyun.fjtv.net/dspd/hd/live.m3u8?_upt=3bad60c71770023937
+
+#EXTINF:-1,Fujian Life TV
+https://live2-fuyun.fjtv.net/jjpd/hd/live.m3u8?_upt=acb3d3a61770023953
+
+#EXTINF:-1,Fujian Sports TV
+https://live1-fuyun.fjtv.net/typd/hd/live.m3u8?_upt=172361fd1770023968
+
+#EXTINF:-1,Fujian Kids TV
+https://live2-fuyun.fjtv.net/child/hd/live.m3u8?_upt=2d4a86c41770023984
+
+#EXTINF:-1,Fujian Straits TV
+https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=63cd4c321770023999
 
 #AUTO_UPDATE_END
