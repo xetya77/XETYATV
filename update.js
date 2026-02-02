@@ -63,6 +63,11 @@ const channels = [
     name: 'Fujian Straits TV',
     page: 'https://live.fjtv.net/hxtv/',
     match: 'live1-fuyun.fjtv.net/haixiapd/hd/live'
+  },
+  {
+    name: 'Shannxi Urban TV',
+    page: 'http://live.snrtv.com/star',
+    match: 'stream.snrtv.com/sxbc-2'
   }
 ];
 
