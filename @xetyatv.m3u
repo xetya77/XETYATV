@@ -3142,39 +3142,42 @@ https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09
 
 #AUTO_UPDATE_START
 #EXTINF:-1,Shannxi Satellite TV
-http://stream.snrtv.com/sxbc-star-elHPQY.m3u8
+http://stream.snrtv.com/sxbc-star-pvzMU5.m3u8
+
+#EXTINF:-1,Shandong Satellite TV
+https://tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee/playlist.m3u8?k=a0d8745613d5b6ffe1fad4713ba6ebc6&t=1770074091
 
 #EXTINF:-1,Shandong Qilu
-https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8?k=c19dba11f76385c97130abe8cb8a1897&t=1770020937
+https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8?k=1da39856cc548ff45f2cd150c547a246&t=1770074107
 
 #EXTINF:-1,Hunan TV Kids
-https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTUyLjE3Ni4xOS4xOTYmdGVybT00JnFpZD0mcmF1dGhfZW5hYmxlPW9mZiZjZG5leF9pZD1hbF9waG9uZTQmY2hzPSZkZWY9MSZzPTQxNzI4NjBiY2FlN2QxOGQ0YzA5NjY4MzYyZTY0OWIwJnVpZD0mdXVpZD1mYmIzZjI3ZmUwYWZkYzQ3ZWYyYzAxZjYzNDExYjM2OS0zNGIwMTNjNCZ2PTImYXM9MCZlcz0xNzcwMTUwNTU3/JYKTMPP360.m3u8?sftc=v6.8.2ds0_vtp2&ftc=webP1
+https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3Mi4yMDguNjIuMTY4JnRlcm09NCZxaWQ9JnJhdXRoX2VuYWJsZT1vZmYmY2RuZXhfaWQ9YWxfcGhvbmU0JmNocz0mZGVmPTEmcz0yYjdlNGI2MGQwZWU3ZjEyNTZhYjIyZDIwMzUxYjJkYiZ1aWQ9JnV1aWQ9ZmE0Zjc5ZDQ0ZjllMWM5YjljM2U4ZWRkOWNiNDIyMGQtYWNkMDNlYTgmdj0yJmFzPTAmZXM9MTc3MDIwMzcyNw,,/JYKTMPP360.m3u8?sftc=v6.8.2ds0_vtp2&ftc=webP1
 
 #EXTINF:-1,Fujian Comprehensive CH
-https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=8fdf83c11770030882
+https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=29348d981770083662
 
 #EXTINF:-1,Fujian Public TV
-https://live2-fuyun.fjtv.net/ggxcpd/hd/live.m3u8?_upt=928fbab41770030987
+https://live2-fuyun.fjtv.net/ggxcpd/hd/live.m3u8?_upt=2dabc1c11770084158
 
 #EXTINF:-1,Fujian News TV
-https://live1-fuyun.fjtv.net/xwpd/hd/live.m3u8?_upt=50b62eb81770031003
+https://live1-fuyun.fjtv.net/xwpd/hd/live.m3u8?_upt=d006cbc71770084174
 
 #EXTINF:-1,Fujian Travel TV
-https://live1-fuyun.fjtv.net/dspd/hd/live.m3u8?_upt=1f841cce1770031018
+https://live1-fuyun.fjtv.net/dspd/hd/live.m3u8?_upt=8aa6ebe91770084189
 
 #EXTINF:-1,Fujian Life TV
-https://live2-fuyun.fjtv.net/jjpd/hd/live.m3u8?_upt=81072fd41770031034
+https://live2-fuyun.fjtv.net/jjpd/hd/live.m3u8?_upt=adbff39b1770084205
 
 #EXTINF:-1,Fujian Sports TV
-https://live1-fuyun.fjtv.net/typd/hd/live.m3u8?_upt=4c60957f1770031050
+https://live1-fuyun.fjtv.net/typd/hd/live.m3u8?_upt=c90155691770084221
 
 #EXTINF:-1,Fujian Kids TV
-https://live2-fuyun.fjtv.net/child/hd/live.m3u8?_upt=79d0a0261770031066
+https://live2-fuyun.fjtv.net/child/hd/live.m3u8?_upt=debaaa351770084237
 
 #EXTINF:-1,Fujian Straits TV
-https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=f3b82e411770031081
+https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=06a45f7b1770084252
 
 #EXTINF:-1,Dragon TV
-https://cdn.inteltelevision.com/4987/dongfangweishi_twn/playlist.m3u8?t=1770021097&token=1e6340aeb59900085f1f7cbcbdbdc544
+https://cdn.inteltelevision.com/4987/dongfangweishi_twn/playlist.m3u8?t=1770074269&token=d4a3ab7b0fb9d1787e94fa99b13799e0
 
 #AUTO_UPDATE_END
