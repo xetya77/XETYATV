@@ -5,8 +5,8 @@ const FILE = '@xetyatv.m3u';
 
 const channels = [
   {
-    name: 'SNRTV',
-    page: 'https://WEBSITE_SNRTV',
+    name: 'Shannxi Satellite TV',
+    page: 'http://live.snrtv.com/star',
     match: 'sxbc-star'
   }
 ];
