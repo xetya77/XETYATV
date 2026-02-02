@@ -20,14 +20,14 @@ const channels = [
     match: 'iqilu.com/291/5de861e29cdd4f9589327c8dd783172a'
   },
   {
-  name: 'Hunan TV Kids',
-  page: 'https://www.mgtv.com/live/',
-  match: 'nn_live/nn_x64'
+    name: 'Hunan TV Kids',
+    page: 'https://www.mgtv.com/live/',
+    match: 'nn_live/nn_x64'
   },
   {
-  name: 'GO SHOPPING TV',
-  page: 'https://www.mgtv.com/live/',
-  match: '/KLGMPP'
+    name: 'GO SHOPPING TV',
+    page: 'https://www.mgtv.com/live/',
+    match: 'KLGMPP'
   }
 ];
 
