@@ -1,30 +1,39 @@
-name: Auto Update SNRTV Playlist
+name: Auto Update Playlist
 
 on:
   schedule:
     - cron: '5 17 * * *'   # 00:05 WIB
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - run: |
+      - name: Install dependencies
+        run: |
           npm init -y
           npm install playwright
           npx playwright install chromium
 
-      - run: node update.js
+      - name: Run update script
+        run: node update.js
 
-      - run: |
+      - name: Commit & push changes
+        run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add playlist.m3u
-          git commit -m "auto update playlist"
+          git add @xetyatv.m3u
+          git commit -m "auto update m3u playlist" || echo "No changes"
           git push
