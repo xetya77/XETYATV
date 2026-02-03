@@ -3132,9 +3132,14 @@ https://liveh12.vtvprime.vn/hls/VTV5_TN/03.m3u8
 ####### TV CHINA #######
 
 
-#EXTINF:-1 group-title="TV CINA",Shopping TV China
+#EXTINF:-1 group-title="TV CINA",OCJ 2 TV China
 https://tfsy1gr3uomttgr31hcjogczdcqbpp7tswctqppizg5m8f3ts65e.100ycdn.com/ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=3c667ff05ad7d36ed1af2585-176967172286295&wsIPSercert=97f785f4cbd38b93b9cea56b8ed6aaa8&wsiphost=local&wsBindIP=1
-https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09NCZxaWQ9JnJhdXRoX2VuYWJsZT1vbiZjZG5leF9pZD1hbF9waG9uZTQmY2hzPSZkZWY9MSZzPWFmMTg0Y2VkNGIyNThiM2NmNzRjNzE1ZTk5Y2RhZjEzJnVpZD0mdXVpZD0wMTNjOTVkZjEwNzMxMWMzZDkwMjQwNDY2NmQxMjY0OC04Y2Q1NDM5NCZ2PTImYXM9MCZlcz0xNzY5ODE3Nzg4/HNJSMPP360.m3u8?sftc=v6.8.2ds1_vtp2&ftc=webP1
+#EXTINF:-1 group-title="TV CINA",OCJ 1 TV China
+https://tft31gr3uomttgr31hcjogczdqcjpp7tswctqppizg5m8f3ts65e.100ycdn.com/ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=a9c966573a4625e4a1e135b0-177009196115192&wsIPSercert=0d139412fb0068dc842830e02df2363f&wsiphost=local&wsBindIP=1 
+#EXTINF:-1 group-title="TV CINA",Heyuan General TV
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="TV CINA",Heyuan Public TV
+https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 
 
 
