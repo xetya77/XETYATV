@@ -3145,39 +3145,51 @@ https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE0MC4yMTMuNjcuMTQ4JnRlcm09
 http://stream.snrtv.com/sxbc-star-pvzMU5.m3u8
 
 #EXTINF:-1,Shandong Satellite TV
-https://tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee/playlist.m3u8?k=a0d8745613d5b6ffe1fad4713ba6ebc6&t=1770074091
+https://tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee/playlist.m3u8?k=db11d8a47ab3ecfc33db6c5771f5d70c&t=1770089507
 
 #EXTINF:-1,Shandong Qilu
-https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8?k=1da39856cc548ff45f2cd150c547a246&t=1770074107
-
-#EXTINF:-1,Hunan TV Kids
-https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3Mi4yMDguNjIuMTY4JnRlcm09NCZxaWQ9JnJhdXRoX2VuYWJsZT1vZmYmY2RuZXhfaWQ9YWxfcGhvbmU0JmNocz0mZGVmPTEmcz0yYjdlNGI2MGQwZWU3ZjEyNTZhYjIyZDIwMzUxYjJkYiZ1aWQ9JnV1aWQ9ZmE0Zjc5ZDQ0ZjllMWM5YjljM2U4ZWRkOWNiNDIyMGQtYWNkMDNlYTgmdj0yJmFzPTAmZXM9MTc3MDIwMzcyNw,,/JYKTMPP360.m3u8?sftc=v6.8.2ds0_vtp2&ftc=webP1
-
-#EXTINF:-1,Fujian Comprehensive CH
-https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=29348d981770083662
+https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8?k=5008d37b1b30ca542539c444bffb297d&t=1770089524
 
 #EXTINF:-1,Fujian Public TV
-https://live2-fuyun.fjtv.net/ggxcpd/hd/live.m3u8?_upt=2dabc1c11770084158
+https://live2-fuyun.fjtv.net/ggxcpd/hd/live.m3u8?_upt=13c5ed651770099573
 
 #EXTINF:-1,Fujian News TV
-https://live1-fuyun.fjtv.net/xwpd/hd/live.m3u8?_upt=d006cbc71770084174
+https://live1-fuyun.fjtv.net/xwpd/hd/live.m3u8?_upt=2f1d8b431770099589
 
 #EXTINF:-1,Fujian Travel TV
-https://live1-fuyun.fjtv.net/dspd/hd/live.m3u8?_upt=8aa6ebe91770084189
+https://live1-fuyun.fjtv.net/dspd/hd/live.m3u8?_upt=991f36481770099604
 
 #EXTINF:-1,Fujian Life TV
-https://live2-fuyun.fjtv.net/jjpd/hd/live.m3u8?_upt=adbff39b1770084205
+https://live2-fuyun.fjtv.net/jjpd/hd/live.m3u8?_upt=a10599621770099620
 
 #EXTINF:-1,Fujian Sports TV
-https://live1-fuyun.fjtv.net/typd/hd/live.m3u8?_upt=c90155691770084221
+https://live1-fuyun.fjtv.net/typd/hd/live.m3u8?_upt=da8f40991770099635
 
 #EXTINF:-1,Fujian Kids TV
-https://live2-fuyun.fjtv.net/child/hd/live.m3u8?_upt=debaaa351770084237
+https://live2-fuyun.fjtv.net/child/hd/live.m3u8?_upt=a2073b741770099651
 
 #EXTINF:-1,Fujian Straits TV
-https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=06a45f7b1770084252
+https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=f8ae8b781770099666
 
-#EXTINF:-1,Dragon TV
-https://cdn.inteltelevision.com/4987/dongfangweishi_twn/playlist.m3u8?t=1770074269&token=d4a3ab7b0fb9d1787e94fa99b13799e0
+#EXTINF:-1,Shannxi Urban Youth TV
+http://stream.snrtv.com/sxbc-2-hBFRUX.m3u8
+
+#EXTINF:-1,Shannxi News TV
+http://stream.snrtv.com/sxbc-1-FKMUZ4.m3u8
+
+#EXTINF:-1,Shannxi Silver Age CH
+http://stream.snrtv.com/sxbc-3-eBGV27.m3u8
+
+#EXTINF:-1,Qinqiang Channel
+http://stream.snrtv.com/sxbc-5-bltCD2.m3u8
+
+#EXTINF:-1,Shannxi Sports TV
+http://stream.snrtv.com/sxbc-7-itBJN8.m3u8
+
+#EXTINF:-1,SNRTV Agriculture
+http://stream.snrtv.com/sxbc-nl-ahpvOV.m3u8
+
+#EXTINF:-1,Ugo Shop TV
+https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=1770089800-0-0-7de91483133fbd6a2686ecd24a786f1c
 
 #AUTO_UPDATE_END
