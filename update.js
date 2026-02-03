@@ -218,11 +218,6 @@ const channels = [
     name: 'Heyuan Comprehensive TV',
     page: 'https://www.hyrtv.cn/itv/ggds/',
     match: 'tmpstream.hyrtv.cn/hygg/sd/live'
-  },
-  {
-    name: 'Anshun Comprehensive TV',
-    page: 'http://www.gzastv.cn/live/live.shtml',
-    match: 'livehwc4.com/hplayer1.juyun.tv/camera'
   }
 ];
 
