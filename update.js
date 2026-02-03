@@ -148,6 +148,66 @@ const channels = [
     name: 'GRTN Cultural TV',
     page: 'https://www.gdtv.cn/tvChannelDetail/75',
     match: 'lbplay.grtn.cn/live/wenhua'
+  },
+  {
+    name: 'Guangdong Pearl River TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/44',
+    match: 'tcdn.itouchtv.cn/live/gdzj'
+  },
+  {
+    name: 'Guangdong Film TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/53',
+    match: 'tcdn.itouchtv.cn/live/gdys'
+  },
+  {
+    name: 'Guangdong Mobile TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/74',
+    match: 'tcdn.itouchtv.cn/live/ydpd'
+  },
+  {
+    name: 'GRTN Life TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/102',
+    match: 'tcdn.itouchtv.cn/live/life'
+  },
+  {
+    name: 'GRTN News TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/45',
+    match: 'tcdn.itouchtv.cn/live/xwpd'
+  },
+  {
+    name: 'GRTN 4K TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/16',
+    match: 'tcdn.itouchtv.cn/live/gdzy'
+  },
+  {
+    name: 'Guangdong Education TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/111',
+    match: 'tcdn.itouchtv.cn/live/xdjy'
+  },
+  {
+    name: 'Guangdong People TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/48',
+    match: 'tcdn.itouchtv.cn/live/gdgg'
+  },
+  {
+    name: 'Guangdong Children TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/54',
+    match: 'tcdn.itouchtv.cn/live/gdse'
+  },
+  {
+    name: 'Guangdong Drama Classic TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/100',
+    match: 'tcdn.itouchtv.cn/live/lizhi'
+  },
+  {
+    name: 'Guangdong Sports TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/47',
+    match: 'tcdn.itouchtv.cn/live/gdty'
+  },
+  {
+    name: 'Guangdong Shopping TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/42',
+    match: 'tcdn.itouchtv.cn/live/nfgw'
   }
 ];
 
