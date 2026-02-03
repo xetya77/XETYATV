@@ -208,6 +208,21 @@ const channels = [
     name: 'Guangdong Shopping TV',
     page: 'https://www.gdtv.cn/tvChannelDetail/42',
     match: 'tcdn.itouchtv.cn/live/nfgw'
+  },
+  {
+    name: 'Heyuan General TV',
+    page: 'https://www.hyrtv.cn/itv/zhds/',
+    match: 'tmpstream.hyrtv.cn/xwzh/sd/live'
+  },
+  {
+    name: 'Heyuan Comprehensive TV',
+    page: 'https://www.hyrtv.cn/itv/ggds/',
+    match: 'tmpstream.hyrtv.cn/hygg/sd/live'
+  },
+  {
+    name: 'Anshun Comprehensive TV',
+    page: 'http://www.gzastv.cn/live/live.shtml',
+    match: 'livehwc4.com/hplayer1.juyun.tv/camera'
   }
 ];
 
