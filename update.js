@@ -65,14 +65,39 @@ const channels = [
     match: 'live1-fuyun.fjtv.net/haixiapd/hd/live'
   },
   {
-    name: 'Dragon TV',
-    page: 'https://www.kds.tw/tv/china-tv-channels-online/dragon-television/',
-    match: 'dongfangweishi_twn/playlist'
+    name: 'Shannxi Urban Youth TV',
+    page: 'http://live.snrtv.com/2',
+    match: 'stream.snrtv.com/sxbc-2'
   },
   {
-    name: 'Sichuan Satellite TV',
-    page: 'https://www.kds.tw/tv/china-tv-channels-online/sichuan-satellite-tv/',
-    match: '1770020665'
+    name: 'Shannxi News TV',
+    page: 'http://live.snrtv.com/1',
+    match: 'stream.snrtv.com/sxbc-1'
+  },
+  {
+    name: 'Shannxi Silver Age CH',
+    page: 'http://live.snrtv.com/3',
+    match: 'stream.snrtv.com/sxbc-3'
+  },
+  {
+    name: 'Qinqiang Channel',
+    page: 'http://live.snrtv.com/5',
+    match: 'stream.snrtv.com/sxbc-5'
+  },
+  {
+    name: 'Shannxi Sports TV',
+    page: 'http://live.snrtv.com/7',
+    match: 'stream.snrtv.com/sxbc-7'
+  },
+  {
+    name: 'SNRTV Agriculture',
+    page: 'http://live.snrtv.com/nl',
+    match: 'stream.snrtv.com/sxbc-nl'
+  },
+  {
+    name: 'Ugo Shop TV',
+    page: 'https://www.huimai.com.cn/tvList/',
+    match: 'tvlive.ugoshop.com/ugotvlive/ugotv01'
   }
 ];
 
