@@ -98,6 +98,56 @@ const channels = [
     name: 'Ugo Shop TV',
     page: 'https://www.huimai.com.cn/tvList/',
     match: 'tvlive.ugoshop.com/ugotvlive/ugotv01'
+  },
+  {
+    name: 'Macau TV',
+    page: 'https://www.tdm.com.mo/zh-hant/live?Channel=1&type=tv',
+    match: 'globallive.tdm.com.mo/ch1/ch1.live'
+  },
+  {
+    name: 'Macau Infomation TV',
+    page: 'https://www.tdm.com.mo/zh-hant/live?Channel=5&type=tv',
+    match: 'globallive.tdm.com.mo/ch5/info_ch5.live'
+  },
+  {
+    name: 'Macau Sports TV',
+    page: 'https://www.tdm.com.mo/zh-hant/live?Channel=6&type=tv',
+    match: 'globallive.tdm.com.mo/ch4/sport_ch4.live'
+  },
+  {
+    name: 'Macau Entertainment TV',
+    page: 'https://www.tdm.com.mo/zh-hant/live?Channel=7&type=tv',
+    match: 'globallive.tdm.com.mo/ch6/hd_ch6.live'
+  },
+  {
+    name: 'Ou Mun-Macau Satéllite',
+    page: 'https://www.tdm.com.mo/zh-hant/live?Channel=8&type=tv',
+    match: 'globallive.tdm.com.mo/ch3/ch3.live'
+  },
+  {
+    name: 'Canal Macau',
+    page: 'https://www.tdm.com.mo/zh-hant/live?Channel=2&type=tv',
+    match: 'globallive.tdm.com.mo/ch2/ch2.live'
+  },
+  {
+    name: 'Guangdong Satellite TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/43',
+    match: 'tcdn.itouchtv.cn/live/gdws'
+  },
+  {
+    name: 'Great Bay Area TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/46',
+    match: 'tcdn.itouchtv.cn/live/gdgj'
+  },
+  {
+    name: 'Lingnan Opera TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/15',
+    match: 'tcdn.itouchtv.cn/live/lnxq'
+  },
+  {
+    name: 'GRTN Cultural TV',
+    page: 'https://www.gdtv.cn/tvChannelDetail/75',
+    match: 'lbplay.grtn.cn/live/wenhua'
   }
 ];
 
