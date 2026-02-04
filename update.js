@@ -343,6 +343,26 @@ const channels = [
     name: 'ZHEJIANG RECORDS TV',
     page: 'https://www.cztv.com/liveTV/112',
     match: 'zwebl02.cztv.com/live/channel12720Pnew'
+  },
+  {
+    name: 'GUANGXI TV',
+    page: 'https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html',
+    match: 'hlscdn.liangtv.cn/live'
+  },
+  {
+    name: 'INNER MONGOLIAN TV',
+    page: 'https://www.nmtv.cn/liveTv',
+    match: 'livestream-bt.nmtv.cn/nmtv/3208526general'
+  },
+  {
+    name: 'INNER MONGOLIAN TV2',
+    page: 'https://www.nmtv.cn/liveTv',
+    match: 'livestream-bt.nmtv.cn/nmtv/2315general'
+  },
+  {
+    name: 'NMTV NEWS',
+    page: 'https://www.nmtv.cn/liveTv',
+    match: 'livestream-bt.nmtv.cn/nmtv/2316general'
   }
 ];
 
