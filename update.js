@@ -288,6 +288,16 @@ const channels = [
     name: 'Shandong Life TV',
     page: 'https://v.iqilu.com/live/shpd/',
     match: 'tstreamlive302.iqilu.com/291/6e9efb8f95a543db8246f1cf06ba960b'
+  },
+  {
+    name: 'CDHT TV',
+    page: 'https://cando.cditv.cn/show-2762-722-1.html',
+    match: 'quxian.pull.cditv.cn/live/gaoxin.flv'
+  },
+  {
+    name: 'JINJIANG TV',
+    page: 'https://cando.cditv.cn/show-2762-1541-1.html',
+    match: 'quxian.pull.cditv.cn/live/jinjiang.flv'
   }
 ];
 
