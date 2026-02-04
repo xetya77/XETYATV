@@ -11,13 +11,13 @@ const channels = [
   },
   {
     name: 'Shandong Satellite TV',
-    page: 'https://v.iqilu.com/live/sdtv/',
-    match: 'iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee'
+    page: 'http://v.iqilu.com/live/sdtv/',
+    match: 'tstreamlive302.iqilu.com/21'
   },
   {
     name: 'Shandong Qilu',
     page: 'https://v.iqilu.com/live/qlpd/',
-    match: 'iqilu.com/291/5de861e29cdd4f9589327c8dd783172a'
+    match: 'tstreamlive302.iqilu.com/291'
   },
   {
     name: 'Hunan TV Kids',
