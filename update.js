@@ -12,12 +12,12 @@ const channels = [
   {
     name: 'Shandong Satellite TV',
     page: 'http://v.iqilu.com/live/sdtv/',
-    match: 'tstreamlive302.iqilu.com/21'
+    match: 'tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee'
   },
   {
     name: 'Shandong Qilu',
     page: 'https://v.iqilu.com/live/qlpd/',
-    match: 'tstreamlive302.iqilu.com/291'
+    match: 'tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a'
   },
   {
     name: 'Hunan TV Kids',
@@ -282,12 +282,12 @@ const channels = [
   {
     name: 'Shandong Sports TV',
     page: 'https://v.iqilu.com/live/typd/',
-    match: 'tstreamlive302.iqilu.com/291'
+    match: 'tstreamlive302.iqilu.com/291/d9c0aba79a944b41a7f4f1ac422d9808'
   },
   {
     name: 'Shandong Life TV',
     page: 'https://v.iqilu.com/live/shpd/',
-    match: 'tstreamlive302.iqilu.com/291'
+    match: 'tstreamlive302.iqilu.com/291/6e9efb8f95a543db8246f1cf06ba960b'
   }
 ];
 
