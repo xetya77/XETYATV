@@ -208,6 +208,86 @@ const channels = [
     name: 'Guangdong Shopping TV',
     page: 'https://www.gdtv.cn/tvChannelDetail/42',
     match: 'tcdn.itouchtv.cn/live/nfgw'
+  },
+  {
+    name: 'Henan Satellite TV',
+    page: 'https://static.hntv.tv/kds/#/',
+    match: 'tvcdn.stream3.hndt.com/tv'
+  },
+  {
+    name: 'Chenzhou TV',
+    page: 'https://www.ngcz.tv/folder83/folder86',
+    match: 'live.ngcz.tv/aczxw/20221028/live'
+  },
+  {
+    name: 'Nanchang News TV',
+    page: 'https://www.nctv.net.cn/live?channel=4',
+    match: 'live.nctv.net.cn/live/nctv1'
+  },
+  {
+    name: 'Hainan News TV',
+    page: 'https://www.hnntv.cn/live.html?playType=livePlay&channelId=3&referPage=home',
+    match: 'live2.hnntv.cn/srs/tv/xwpd'
+  },
+  {
+    name: 'Hainan Travel TV',
+    page: 'https://www.hnntv.cn/live.html?playType=livePlay&channelId=6&referPage=home',
+    match: 'live2.hnntv.cn/srs/tv/wlpd'
+  },
+  {
+    name: 'Hainan Satellite TV',
+    page: 'https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=home',
+    match: 'live2.hnntv.cn/srs/tv/lywsgq'
+  },
+  {
+    name: 'Sansha Satellite TV',
+    page: 'https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home',
+    match: 'livessws.hnntv.cn/live/ssws'
+  },
+  {
+    name: 'Hainan Public TV',
+    page: 'https://www.hnntv.cn/live.html?playType=livePlay&channelId=4&referPage=home',
+    match: 'live2.hnntv.cn/srs/tv/ggpd'
+  },
+  {
+    name: 'Hainan Children TV',
+    page: 'https://www.hnntv.cn/live.html?playType=livePlay&channelId=7&referPage=home',
+    match: 'live2.hnntv.cn/srs/tv/sepd'
+  },
+  {
+    name: 'Harbin News TV',
+    page: 'https://www.hrbtv.net/folder79/folder81/',
+    match: 'stream.hrbtv.net/xwzh'
+  },
+  {
+    name: 'Harbin Life TV',
+    page: 'https://www.hrbtv.net/folder79/folder85/',
+    match: 'stream.hrbtv.net/shpd'
+  },
+  {
+    name: 'Harbin Movie TV',
+    page: 'https://www.hrbtv.net/folder79/folder87/',
+    match: 'stream.hrbtv.net/yspd'
+  },
+  {
+    name: 'Huaian Public TV',
+    page: 'https://glive.habctv.com/tv/808?uin=1610',
+    match: 'live.hlsplay.aodianyun.com/tv_radio'
+  },
+  {
+    name: 'Yancheng TV1',
+    page: 'https://www.0515yc.cn/folder147/folder148/folder156/folder245/',
+    match: 'live1yc.0515yc.cn/sd/sd/live'
+  },
+  {
+    name: 'Shandong Sports TV',
+    page: 'https://v.iqilu.com/live/typd/',
+    match: 'tstreamlive302.iqilu.com/291'
+  },
+  {
+    name: 'Shandong Life TV',
+    page: 'https://v.iqilu.com/live/shpd/',
+    match: 'tstreamlive302.iqilu.com/291'
   }
 ];
 
