@@ -309,8 +309,13 @@ const channels = [
       }
     });
 
-    await page.goto(ch.page, { waitUntil: 'domcontentloaded', timeout: 60000 });
-    await page.waitForTimeout(15000);
+    try {
+  await page.goto(ch.page, { waitUntil: 'domcontentloaded', timeout: 60000 });
+  await page.waitForTimeout(15000);
+} catch (e) {
+  console.log(`Skip ${ch.name} (page timeout)`);
+  continue;
+}
     if (found) {
       autoContent += `#EXTINF:-1,${ch.name}\n${found}\n\n`;
     }
