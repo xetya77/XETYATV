@@ -298,6 +298,51 @@ const channels = [
     name: 'JINJIANG TV',
     page: 'https://cando.cditv.cn/show-2762-1541-1.html',
     match: 'quxian.pull.cditv.cn/live/jinjiang.flv'
+  },
+  {
+    name: 'ZHEJIANG SATELLITE TV',
+    page: 'https://www.cztv.com/liveTV/101',
+    match: 'zwebl03.cztv.com/live'
+  },
+  {
+    name: 'QINJIANG CITY TV',
+    page: 'https://www.cztv.com/liveTV/102',
+    match: 'zwebl02.cztv.com/live/'
+  },
+  {
+    name: 'ZHEJIANG ECONOMIC LIFE TV',
+    page: 'https://www.cztv.com/liveTV/103',
+    match: 'zwebl02.cztv.com/live/channel03720Pnew'
+  },
+  {
+    name: 'ZHEJIANG EDUCATION TV',
+    page: 'https://www.cztv.com/liveTV/104',
+    match: 'zwebl02.cztv.com/live/channel04720'
+  },
+  {
+    name: 'ZHEJIANG NEWS TV',
+    page: 'https://www.cztv.com/liveTV/107',
+    match: 'zwebl02.cztv.com/live/channel07720Pnew'
+  },
+  {
+    name: 'ZHEJIANG CHILDREN TV',
+    page: 'https://www.cztv.com/liveTV/108',
+    match: 'zwebl02.cztv.com/live/channel08720Pnew'
+  },
+  {
+    name: 'ZHEJIANG INTERNATIONAL TV',
+    page: 'https://www.cztv.com/liveTV/110',
+    match: 'zwebl02.cztv.com/live/channel10720Pnew'
+  },
+  {
+    name: 'ZHEJIANG SHOP TV',
+    page: 'https://www.cztv.com/liveTV/111',
+    match: 'zwebl02.cztv.com/live/channel11720Pnew'
+  },
+  {
+    name: 'ZHEJIANG RECORDS TV',
+    page: 'https://www.cztv.com/liveTV/112',
+    match: 'zwebl02.cztv.com/live/channel12720Pnew'
   }
 ];
 
