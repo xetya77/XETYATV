@@ -509,6 +509,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 
 
 
+####### TV KAMERA CCTV #######
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV JEMBATAN MAHAKAM
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -546,10 +548,21 @@ https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DMwMLSwMDW2SDKxMNFLTsw1MBAS
 
 
 
+####### TV PEMERINTAH #######
 
 
 #EXTINF:-1 tvg-id="TVRParlemen.id@SD" tvg-logo="https://i.imgur.com/2XYpmHL.png" group-title="PEMERINTAH",TVR Parlemen (720p) [Not 24/7]
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+####### TV TVRI GRUP #######
 
 
 #EXTINF:-1 tvg-id="TVRI.id@Aceh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP",TVRI Aceh (720p)
@@ -611,6 +624,15 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@Yogyakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP",TVRI Yogyakarta (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
+
+
+
+
+
+
+
+
+####### TV LOKAL/DAERAH #######
 
 
 #EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="TV LOKAL/DAERAH",Balikpapan TV (720p)
@@ -778,6 +800,15 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
 
+
+
+
+
+
+
+####### TV BERITA & PENGETAHUAN #######
+
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_ABCAUSTRALIA_2025_03_17_14_50_10.png" group-title="BERITA & PENGETAHUAN",ABC Australia
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -891,6 +922,15 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
+
+
+
+
+
+
+
+
+####### TV OLAHRAGA #######
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="OLAHRAGA",SpoTV (V+)
@@ -1470,6 +1510,15 @@ http://mains.services/live/bshorty/Zv5le07a0J/255a5c0b-98b8-48d3-96ac-2aa93ee480
 
 
 
+
+
+
+
+
+
+####### TV KARTUN & ANAK #######
+
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_CARTOONNETWORK_2025_03_17_14_49_56.png" group-title="KARTUN & ANAK",Cartoon Network
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1544,6 +1593,15 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 
 
+
+
+
+
+
+
+####### TV GAYA HIDUP #######
+
+
 #EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="GAYA HIDUP",Biznet Lifestyle (1080p)
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 #EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/foodtravel.jpg" group-title="GAYA HIDUP",FOOD TRAVEL
@@ -1570,6 +1628,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 #EXTINF:-1 tvg-id="TravelXP4k.mv" tvg-name="Travel XP" tvg-logo="https://8upload.com/image/6857bb65966ba/travelxphilay.png" group-title="GAYA HIDUP",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+
+
+
+
+
+
+
+
+####### TV HIBURAN & FILM #######
 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_ALLPLAYENT_2025_03_17_15_19_48.png" group-title="HIBURAN & FILM",AllPlay Ent
@@ -1931,6 +1998,14 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 
 
+
+
+
+
+
+####### TV AUSTRALIA #######
+
+
 #EXTINF:-1 tvg-id="10Bold.au@Sydney" tvg-logo="https://i.imgur.com/2xglh33.png" group-title="GAYA HIDUP;TV AUSTRALIA",10 Bold Adelaide (1080p)
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-id="ABCEntertains.au@Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/512px-ABC_Entertains_logo.svg.png" group-title="KARTUN & ANAK;TV AUSTRALIA",ABC Entertains (720p)
@@ -2008,6 +2083,15 @@ https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.au@SD" tvg-logo="https://i.imgur.com/GTxN2nH.png" group-title="BERITA & PENGETAHUAN;TV AUSTRALIA",WeatherSpy (720p)
 https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
 
+
+
+
+
+
+
+
+
+####### TV INGGRIS #######
 
 
 #EXTINF:-1 tvg-name="QVC UK Ⓢ" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-id="QVCUK.uk" group-title="TV INGGRIS",QVC UK Ⓢ
@@ -2125,6 +2209,14 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="YAAAS.uk@HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png" group-title="KARTUN & ANAK;TV INGGRIS",YAAAS! (720p) [Geo-blocked]
 https://jmp2.uk/stvp-GB340000289
 
+
+
+
+
+
+
+
+####### TV JEPANG #######
 
 
 #EXTINF:-1 group-title="TV JEPANG" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
@@ -2430,6 +2522,14 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 
 
 
+
+
+
+
+
+####### TV SINGAPURA #######
+
+
 #EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="TV SINGAPURA",CNA (1080p) [Geo-blocked]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg@SD" tvg-logo="https://i.imgur.com/ppxUDxB.png" group-title="TV SINGAPURA",meWATCH LIVE 1 (1080p)
@@ -2438,6 +2538,14 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 
+
+
+
+
+
+
+
+####### TV MALAYSIA #######
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/znFJy1M.jpeg" group-title="TV MALAYSIA",TV1
@@ -2520,6 +2628,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
+
+
+
+
+
+
+
+####### TV PRANCIS #######
 
 
 #EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="HIBURAN & FILM;TV PRANCIS",6ter (1080p) [Geo-blocked]
@@ -2660,6 +2776,14 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 
 
 
+
+
+
+
+
+####### TV JERMAN #######
+
+
 #EXTINF:-1 tvg-id="123tv.de@SD" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="GAYA HIDUP;TV JERMAN",1-2-3 TV (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="BERITA & PENGETAHUAN;TV JERMAN",Adventure Earth (1080p)
@@ -2742,6 +2866,14 @@ https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 
 
+
+
+
+
+
+####### TV BELANDA #######
+
+
 #EXTINF:-1 tvg-id="1AlmereTV.nl@SD" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="TV BELANDA",1Almere TV (720p)
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
 #EXTINF:-1 tvg-id="1TwenteTV.nl@SD" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="TV BELANDA",1Twente TV (1080p)
@@ -2778,6 +2910,14 @@ https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 
 
 
+
+
+
+
+
+####### TV SWISS #######
+
+
 #EXTINF:-1 tvg-id="BlueZoomF.ch@SD" tvg-logo="https://i.imgur.com/A5iwahB.png" group-title="TV SWISS",Blue Zoom F (720p)
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 #EXTINF:-1 tvg-id="Carac1.ch@SD" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="HIBURAN & FILM;TV SWISS",Carac 1 (1080p)
@@ -2810,6 +2950,14 @@ https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 
 
+
+
+
+
+
+
+
+####### TV ITALIA #######
 
 
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="OLAHRAGA;TV ITALIA",ACI Sport TV (1080p)
@@ -2864,6 +3012,14 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
 
 
+
+
+
+
+
+
+
+####### TV TAILAN #######
 
 
 #EXTINF:-1 tvg-id="13SiamThai.th@SD" tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="BERITA & PENGETAHUAN;TV TAILAN",13 Siam Thai (1080p)
@@ -2945,6 +3101,15 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 
 
 
+
+
+
+
+
+
+####### TV KOREA #######
+
+
 #EXTINF:-1 tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" tvg-id="EBS1TV.kr" group-title="TV KOREA",EBS 1 Ⓢ
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS 2 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" tvg-id="EBS2TV.kr" group-title="TV KOREA",EBS 2 Ⓢ
@@ -2994,12 +3159,28 @@ https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGN
 
 
 
+
+
+
+
+
+####### TV HONGKONG #######
+
+
 #EXTINF:-1 tvg-id="PetClubTV.hk@SD" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="HIBURAN & FILM;TV HONGKONG",Pet Club TV (1080p)
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="TV HONGKONG",RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 
+
+
+
+
+
+
+
+####### TV FILIPINA #######
 
 
 #EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="BERITA & PENGETAHUAN;TV FILIPINA",Abante TV (1080p)
@@ -3020,6 +3201,14 @@ https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
 
 
+
+
+
+
+
+
+
+####### TV INDIA #######
 
 
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" group-title="BERITA & PENGETAHUAN;TV INDIA",4TV News (576p)
