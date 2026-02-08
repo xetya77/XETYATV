@@ -225,11 +225,6 @@ const channels = [
     match: 'live.nctv.net.cn/live/nctv1'
   },
   {
-    name: 'Hainan News TV',
-    page: 'https://www.hnntv.cn/live.html?playType=livePlay&channelId=3&referPage=home',
-    match: 'live2.hnntv.cn/srs/tv/xwpd'
-  },
-  {
     name: 'Hainan Travel TV',
     page: 'https://www.hnntv.cn/live.html?playType=livePlay&channelId=6&referPage=home',
     match: 'live2.hnntv.cn/srs/tv/wlpd'
@@ -363,6 +358,11 @@ const channels = [
     name: 'NMTV NEWS',
     page: 'https://www.nmtv.cn/liveTv',
     match: 'livestream-bt.nmtv.cn/nmtv/2316general'
+  },
+  {
+    name: 'TV GO',
+    page: 'https://www.mgtv.com/live/',
+    match: 'KLGMPP360'
   }
 ];
 
