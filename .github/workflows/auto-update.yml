@@ -3,7 +3,7 @@ name: Auto Update Playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: '13 17 * * *'   # 00:13 WIB (bukan jam rame)
+    - cron: '0 */3 * * *'   # 00:13 WIB (bukan jam rame)
 
 permissions:
   contents: write
