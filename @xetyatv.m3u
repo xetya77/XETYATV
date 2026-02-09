@@ -3714,5 +3714,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 #EXTINF:-1 tvg-id="KukhnyaTV.ru@SD" tvg-logo="https://i.imgur.com/7jxZnuS.png" group-title="GAYA HIDUP",Кухня ТВ
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3kpSAn2uIq4/maxresdefault.jpg" group-title="VIDEO MUSIK", One Ok Rock - Tropical Theraphy
+https://www.googleapis.com/drive/v3/files/1LKeDz4AYVA8tUHVyx5uzk0BH1FILEBtK?alt=media&key=AIzaSyBTpS1krqTwjb35hFHOQJJLBCtZjgGvurw
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3kpSAn2uIq4/maxresdefault.jpg" group-title="VIDEO MUSIK", One Ok Rock - Tropical Theraphy
+https://www.googleapis.com/drive/v3/files/1LKeDz4AYVA8tUHVyx5uzk0BH1FILEBtK?alt=media&key=AIzaSyBTpS1krqTwjb35hFHOQJJLBCtZjgGvurw
+
 
 
