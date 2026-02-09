@@ -360,9 +360,9 @@ const channels = [
     match: 'livestream-bt.nmtv.cn/nmtv/2316general'
   },
   {
-    name: 'TV GO',
-    page: 'https://www.mgtv.com/live/',
-    match: 'KLGMPP360'
+    name: 'CCTV SYDNEY AUSTRALIA',
+    page: 'https://www.skylinewebcams.com/en/webcam/australia/new-south-wales/sydney/sydney.html',
+    match: 'hd-auth.skylinewebcams.com/live'
   }
 ];
 
