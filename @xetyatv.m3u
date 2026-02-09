@@ -3443,9 +3443,6 @@ https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="TV CINA",Heyuan Public TV
 https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 
-#EXTINF:-1 group-title="CCTV",CCTV GUNUNG
-https://hd-auth.skylinewebcams.com/live.m3u8?a=elcj11ou207mhk68jevftjplu7
-
 
 
 #AUTO_UPDATE_START
