@@ -3772,3 +3772,59 @@ https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DMwMLSwMDW2SEwzstBLTsw1MBAS
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV SP MAHAKAM BC
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DOxSE00M040tDAwSNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV TAMAN BEBAYA
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/49Ix0UtLS0tJMzUx0TVIsTDRTUuzSNM1NkpL1jUyB8okmhikGaYY6yUn5hoYCAk0T2x9HqrvI76tVWar39qjHgA/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV TANJAKAN SURYANATA
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/49Ix0UtLS0tJMzU11TUytjDRTUtLtNBNNEsz0U01BrKTk03STMxT9JITcw0MhASE07vKM4odvNvMHVSElz2LAwA/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV SP ANTASARI CENDANA
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/49Ix0UtLS0tJszQ10U0yMTDVTUtLNdK1NE0z0TUzTUtLNDVLTLM0TtRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="CCTV SAMARINDA",CCTV DS BUDAYA PAMPANG
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DOxSE00M7Y0MzM1MNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="KAMERA CCTV",CCTV KM53 BEKASI
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://streaming-cct.co.id/LiveApp/streams/728033679170510237677933.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="KAMERA CCTV",CCTV TERMINAL BEKASI
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://eofficev2.bekasikota.go.id/backupcctv/m3/terminal_bekasi.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="KAMERA CCTV",CCTV LANDMARK BEKASI
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://eofficev2.bekasikota.go.id/backupcctv/m3/area_cfd.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="KAMERA CCTV",CCTV BANDARA HAMBURG JERMAN
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://stream-5gw.1000eyes.de/cupertino/hamDDFB28.stream/chunklist_w1242828091.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="KAMERA CCTV",CCTV BANDARA HAMBURG 2 JERMAN
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://stream-5gw.1000eyes.de/cupertino/hamDDFBCE.stream/chunklist_w387438848.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="KAMERA CCTV",CCTV BANDARA DUSELLDORF
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://stream-5gw.1000eyes.de/cupertino/dus5abb.stream/chunklist_w1466740770.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="KAMERA CCTV",CCTV BANDARA DUSELLDORF 2
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/chunklist_w1553518748.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="KAMERA CCTV",CCTV BANDARA BONN JERMAN
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w1433946276.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="KAMERA CCTV",CCTV BANDARA BONN JERMAN 2
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/chunklist_w55909167.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zr46dXe6cmJ2zboLf1mlLAJIXTVpgAlhURnvku4E7_Pzktv85NBwGTCACt6DkdjsnV61" group-title="KAMERA CCTV",CCTV BANDARA CANBERRA KANADA
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://s62.ipcamlive.com/streams/3egdwlpeia9rdbg1x/stream.m3u8
