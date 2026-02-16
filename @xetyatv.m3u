@@ -152,8 +152,14 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGj7L_AqkfDlAbmTevWiKJTdxGAXDLLdfL8KMLhL9RZXiETm131Z3smLHb&s=10" group-title="TV NASIONAL",JAGANTARA HD
-http://103.172.71.153:9981/stream/channelid/1697990290?profile=pass
+#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-name="DENS Food Channel.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/densfood.jpg" group-title="TV NASIONAL;GAYA HIDUP",DENSFOOD CHANNEL
+https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=lite&chname=DensFood_Channel
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+
+#EXTINF:-1 group-title="TV NASIONAL;EDUKASI & DOKUMENTER" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS KNOWLEDGE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png" group-title="TV NASIONAL;BERITA",BTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1440,6 +1446,18 @@ https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
+
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RUSSIA TODAY  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h226/01.m3u8
+
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", WION  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
+
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TRT WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="BERITA",NBC NEWS
 https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
