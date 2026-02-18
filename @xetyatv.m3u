@@ -115,7 +115,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm8n0m15dXKFPvkf9SlhZCLlnnWL9ROZAB-z52g9KbwAl8kFquuVEtZm2S2GEazIDantBXNx8mf1DpC25grzUjP8obIsj0i0RHOaQK0t-PlWvbbgmqdDTdqAtOEqIFmYj2PtD5-jfaR4HkOPwzohyHfIbcIzQtB_HIPgm21hi1JBII3lKG8qXQWXWAY0s/s700/KidsTV.png" group-title="KARTUN & ANAK",Kids TV
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="KARTUN & ANAK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm8n0m15dXKFPvkf9SlhZCLlnnWL9ROZAB-z52g9KbwAl8kFquuVEtZm2S2GEazIDantBXNx8mf1DpC25grzUjP8obIsj0i0RHOaQK0t-PlWvbbgmqdDTdqAtOEqIFmYj2PtD5-jfaR4HkOPwzohyHfIbcIzQtB_HIPgm21hi1JBII3lKG8qXQWXWAY0s/s700/KidsTV.png" group-title="KARTUN & ANAK",Kids TV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -949,16 +949,16 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 # ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝
 🔷══════════════════════════════════════════════════════════════════ [KIDS] ══════════════════════════════════════════════════════════════════🔷
 
-#EXTINF:-1 tvg-id="ShauntheSheepFriends.uk@US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1e2118d-e2f3-4cfe-a227-2b0c7ab664e5/Shaunthesheepandfriends_a_476x476_-_cleo_Parfitt-StarRDXr.png" group-title="Animation;Kids",Shaun the Sheep & Friends (1080p)
+#EXTINF:-1 tvg-id="ShauntheSheepFriends.uk@US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1e2118d-e2f3-4cfe-a227-2b0c7ab664e5/Shaunthesheepandfriends_a_476x476_-_cleo_Parfitt-StarRDXr.png" group-title="KARTUN & ANAK",Shaun the Sheep & Friends (1080p)
 https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 
-#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids",Tom And Jerry
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="KARTUN & ANAK",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Comedy;Kids",Mr Bean Live Action (1080p)
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="KARTUN & ANAK",Mr Bean Live Action (1080p)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Jr.
+#EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="KARTUN & ANAK",Disney Jr.
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 
@@ -966,10 +966,10 @@ http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGGdY36wWFd-6p03a3cYXoQR5OwVPoBd5UJC-k_WY4AeWFYfQRiSIR-5g4lBiNfpaAKS7yK16HniKh1s7_xFlinw2Z7HL53_EI0Z0Yqv2pIay0CWyaymM0gFWTJvJdY6Pz4NZK71fbOSNEDPg9z8zcQOI60mUv-RyK_rpPU9qOarm04lDXUEitFEiadww/s700/Horee.png" group-title="Kids TV",Horee!
+#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGGdY36wWFd-6p03a3cYXoQR5OwVPoBd5UJC-k_WY4AeWFYfQRiSIR-5g4lBiNfpaAKS7yK16HniKh1s7_xFlinw2Z7HL53_EI0Z0Yqv2pIay0CWyaymM0gFWTJvJdY6Pz4NZK71fbOSNEDPg9z8zcQOI60mUv-RyK_rpPU9qOarm04lDXUEitFEiadww/s700/Horee.png" group-title="KARTUN & ANAK",Horee!
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg6fpgUFoLPACuHptTIdZnhQWoG2TiWdszN6lk4QepYpoCMedbhoZAH7cgeZojRcMWGJE_hE2Cnt2EHQSd05QCv0oXKfGG3qyJqhw-pt2fQ3-i3RYENZ-G81-P0cQiMj4yXqjgWJi5gDADhHTwY0MIBLh4_zgm01ZPmFupkCppSQ62eJhkcm_0u54GPWA/s700/HipHipHoree.png" group-title="Kids TV",Hip Hip Horee!
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg6fpgUFoLPACuHptTIdZnhQWoG2TiWdszN6lk4QepYpoCMedbhoZAH7cgeZojRcMWGJE_hE2Cnt2EHQSd05QCv0oXKfGG3qyJqhw-pt2fQ3-i3RYENZ-G81-P0cQiMj4yXqjgWJi5gDADhHTwY0MIBLh4_zgm01ZPmFupkCppSQ62eJhkcm_0u54GPWA/s700/HipHipHoree.png" group-title="KARTUN & ANAK",Hip Hip Horee!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://202.169.224.202:8800/udp/239.9.1.28:1234
@@ -984,17 +984,17 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
-#EXTINF:-1 group-title="Kids TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NVNe4ZOwkYlhgY6o_2DUVpI4mpiZ2p6QOYBxU-ez2gowBLy8qFJgCHW8MGkqTKkkWmUVJxsldUQPiPZFlstPi0vJuUHjHQz-PMkoKEoeyvvJWf4GuUL7KEVdMMOjKWcTSk1xUuybKFKOhUr1BwSvEtfTNyU8Et6oqH9jkOnAbzHSUff1TiMWYr7ZTc4/s700/BabyShark.png",Pingfong TV
+#EXTINF:-1 group-title="KARTUN & ANAK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NVNe4ZOwkYlhgY6o_2DUVpI4mpiZ2p6QOYBxU-ez2gowBLy8qFJgCHW8MGkqTKkkWmUVJxsldUQPiPZFlstPi0vJuUHjHQz-PMkoKEoeyvvJWf4GuUL7KEVdMMOjKWcTSk1xUuybKFKOhUr1BwSvEtfTNyU8Et6oqH9jkOnAbzHSUff1TiMWYr7ZTc4/s700/BabyShark.png",Pingfong TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KARTUN & ANAK",Biznet Kids (1080p)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
  
- #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5U-eFm5qDrx43QM82lMEzJlvOc_6YmNlfJZOarNR1ld3Dnnw5rJaZqYNGZKF0i1SDQSkTpbaonfRAwIK4ixpapBrWUR6ZiNHnEsun8np-WQXGO3_lpDdXGr5VTQC2wyz3ZlzLzMr1tlzrbZmli07Ti1M-bsvSq9BG8hE4j8ozjm1-OCmSHRrLyYemViU/s700/MatematikaTV.png" group-title="Kids TV" , Matematika TV
+ #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5U-eFm5qDrx43QM82lMEzJlvOc_6YmNlfJZOarNR1ld3Dnnw5rJaZqYNGZKF0i1SDQSkTpbaonfRAwIK4ixpapBrWUR6ZiNHnEsun8np-WQXGO3_lpDdXGr5VTQC2wyz3ZlzLzMr1tlzrbZmli07Ti1M-bsvSq9BG8hE4j8ozjm1-OCmSHRrLyYemViU/s700/MatematikaTV.png" group-title="KARTUN & ANAK" , Matematika TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch80.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsI3IieBzN9pkk6qoaN819ymhllQ_i0_QeW_B9q2a5AHIJCVv0rLkwPhbqKjiNOUUMv0grvG8ZEZIpKpnJJTc2lxXrWzDUNPFaLhIEwp9MX5IIe7C-3CPjjvmhoRlhq88_Dr_IC6x5Z7nRLfeSdDM_mYqqv_RJMfWmoy0RZEGeafkptyGAWhuNAgByh8c/s700/EnglishStudy.png" group-title="Kids TV" , English Study
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsI3IieBzN9pkk6qoaN819ymhllQ_i0_QeW_B9q2a5AHIJCVv0rLkwPhbqKjiNOUUMv0grvG8ZEZIpKpnJJTc2lxXrWzDUNPFaLhIEwp9MX5IIe7C-3CPjjvmhoRlhq88_Dr_IC6x5Z7nRLfeSdDM_mYqqv_RJMfWmoy0RZEGeafkptyGAWhuNAgByh8c/s700/EnglishStudy.png" group-title="KARTUN & ANAK" , English Study
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch83.m3u8
 
@@ -1006,16 +1006,16 @@ https://flv.intechmedia.net/live/ch83.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
-#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbuUPgW6lYls5ztcqf2_g2c0qu2fCK2-EfEZ7uN8yr7gcIxvuFt9Rmz8jlMmtVOY5P72brdnsJAUbpG9POQZD4ChYZdea7Wo4nXLZPwXhPJSrisIgQnb79sXXgH5sVNr5QgOO2cC_XY8zCk2POlKuCF4mqdQm4-z3yvm2NU79HrPx7zAJR5PPHTNU_2Es/s700/Nickelodeon.png" group-title="Kids TV",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbuUPgW6lYls5ztcqf2_g2c0qu2fCK2-EfEZ7uN8yr7gcIxvuFt9Rmz8jlMmtVOY5P72brdnsJAUbpG9POQZD4ChYZdea7Wo4nXLZPwXhPJSrisIgQnb79sXXgH5sVNr5QgOO2cC_XY8zCk2POlKuCF4mqdQm4-z3yvm2NU79HrPx7zAJR5PPHTNU_2Es/s700/Nickelodeon.png" group-title="KARTUN & ANAK",Nickelodeon
 https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
-#EXTINF:-1 tvg-id="NickJr.id" tvg-name="Nick Jr." tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMdvm0WHstWa0a4oYRUmFUPN5jNpteb-n4B-KCyRWSEoAhNcEi8aTtOCk60cYl3jxHavKOBWFO2gQHUzAZ3TwHIt5ZzfTSUEDWah6h5B1zOhcFXDdZdeFU1YauZtA4uwBBJfK8QV-ywyykTnCVhjaSJscKVH3dsW6Atlg7FbwRPY4-ZnlPvj0WX2EOdhE/s700/NickJr.png" group-title="Kids TV",Nick Jr.
+#EXTINF:-1 tvg-id="NickJr.id" tvg-name="Nick Jr." tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMdvm0WHstWa0a4oYRUmFUPN5jNpteb-n4B-KCyRWSEoAhNcEi8aTtOCk60cYl3jxHavKOBWFO2gQHUzAZ3TwHIt5ZzfTSUEDWah6h5B1zOhcFXDdZdeFU1YauZtA4uwBBJfK8QV-ywyykTnCVhjaSJscKVH3dsW6Atlg7FbwRPY4-ZnlPvj0WX2EOdhE/s700/NickJr.png" group-title="KARTUN & ANAK",Nick Jr.
 https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mediampd/NickJr.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJXsngAowndYuy-3suOhQoiwQzZ5OTa1BU2FX2__JAB6ZZk4nFQxBkdN10ashhAsHmCY0NSDN6EY27Fg_WfF22_ic06scdzdJAtWOlXkV4jh-eWEwmJfnXuZ6wo1s60WzrzNA4xf4_bHb6GTUDmVLfNIBUWwwF25r5BXYTjeOEoHUegRjo1vQ_ENU9ets/s700/Dreamworks.png" group-title="Kids TV",Dreamworks
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJXsngAowndYuy-3suOhQoiwQzZ5OTa1BU2FX2__JAB6ZZk4nFQxBkdN10ashhAsHmCY0NSDN6EY27Fg_WfF22_ic06scdzdJAtWOlXkV4jh-eWEwmJfnXuZ6wo1s60WzrzNA4xf4_bHb6GTUDmVLfNIBUWwwF25r5BXYTjeOEoHUegRjo1vQ_ENU9ets/s700/Dreamworks.png" group-title="KARTUN & ANAK",Dreamworks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1027,7 +1027,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9IFzYAjG6VlK4kTgYaVYlw_KiunjT8xMK3mHh1dHEfv40l2Pw9UjTjJRFzNmjAZhVJFx5e30GKnN3rbFA2CHncEvHtEUkAHsfdgXJTc0FPha24dBlKD0EoKyHbP0KOpI1xOcqBesvjfxoB0__f2tflaYnjwvD88jevHDT7ViNW0hhq2RcuDziEoautjg/s700/Kartoon%20Channel.png" group-title="Kids TV",Kartoon Channel
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9IFzYAjG6VlK4kTgYaVYlw_KiunjT8xMK3mHh1dHEfv40l2Pw9UjTjJRFzNmjAZhVJFx5e30GKnN3rbFA2CHncEvHtEUkAHsfdgXJTc0FPha24dBlKD0EoKyHbP0KOpI1xOcqBesvjfxoB0__f2tflaYnjwvD88jevHDT7ViNW0hhq2RcuDziEoautjg/s700/Kartoon%20Channel.png" group-title="KARTUN & ANAK",Kartoon Channel
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=kartoon&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
@@ -1040,7 +1040,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/ind
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids (1080p)
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="KARTUN & ANAK",Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBeebies.id" tvg-name="CBeebies HD" tvg-logo="https://mimipipi22.github.io/logo/kids/cbeebies.jpg" group-title="KARTUN & ANAK",CBEEBIES BBC
@@ -1055,29 +1055,29 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",Zoo Moo (Australia) (1080p)
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="KARTUN & ANAK",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqGMNQilL8qGq2qSLFa54WH-_7yVMMibnNq88YWja3jZswu9Hcl1kUic9W1IQKuFx0LSHhohn4iDYmx9c-9eLssFZhsMZtSd-kyK-F8CQPM2JiuEwP60232br0PaX9oL-b0j6_f74fSashFme0s6LBDqQNc-9k4UQhbDUgy-QzDktgAuAAUOKTb9fUnXU/s700/Treehouse.png" group-title="Kids TV",Treehouse
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqGMNQilL8qGq2qSLFa54WH-_7yVMMibnNq88YWja3jZswu9Hcl1kUic9W1IQKuFx0LSHhohn4iDYmx9c-9eLssFZhsMZtSd-kyK-F8CQPM2JiuEwP60232br0PaX9oL-b0j6_f74fSashFme0s6LBDqQNc-9k4UQhbDUgy-QzDktgAuAAUOKTb9fUnXU/s700/Treehouse.png" group-title="KARTUN & ANAK",Treehouse
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
 https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
 
-#EXTINF: -1 tvg-id="baby first" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkAmzjJ9rsSxUpJYUWf9iB5edoA8W_vrdZO7fGG6xo7TXu2Rx2kfxWM1OWUzdVMIlZqyi3aPfS0Xd0EebEVL2zkm2wL1HDRQ0pCKzSkLDOLkv3Y9ePjtgKl9E2w3cGrhxuw5ajR21tdxhkqghTviUReIy48ksZuqsTSuDo5cH0wSjlJQctfQbGs4DmW8/s700/BabyFirst.png" group-title="Kids TV", Baby First
+#EXTINF: -1 tvg-id="baby first" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkAmzjJ9rsSxUpJYUWf9iB5edoA8W_vrdZO7fGG6xo7TXu2Rx2kfxWM1OWUzdVMIlZqyi3aPfS0Xd0EebEVL2zkm2wL1HDRQ0pCKzSkLDOLkv3Y9ePjtgKl9E2w3cGrhxuw5ajR21tdxhkqghTviUReIy48ksZuqsTSuDo5cH0wSjlJQctfQbGs4DmW8/s700/BabyFirst.png" group-title="KARTUN & ANAK", Baby First
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #https://dl.dropboxusercontent.com/scl/fi/kf1cbn05ifbtluj16z7nf/babyfirst.m3u8?rlkey=gy08vupikxih1cefbb35qfsv9&amp;st=trz0g01o
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Uib8u6WC-v5A3kLK3tPQFUJ7CnCDhMh4DbJuhC8Dbz72IunIlHBrRC_yM0-qWFLwlMD4CMdUXO_TfL3GZP3pUcQAv5KxJJhTDV99mbgllawp6-BriXE297AMdEw3-0JH8tGTgf5W52OTVEKpqiLWzv4U5qOA0rnrO9fHP3w5WcLkXiAfwF_5fewz3QM/s700/DisneyChannel.png" group-title="Kids TV",Disney Channel
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Uib8u6WC-v5A3kLK3tPQFUJ7CnCDhMh4DbJuhC8Dbz72IunIlHBrRC_yM0-qWFLwlMD4CMdUXO_TfL3GZP3pUcQAv5KxJJhTDV99mbgllawp6-BriXE297AMdEw3-0JH8tGTgf5W52OTVEKpqiLWzv4U5qOA0rnrO9fHP3w5WcLkXiAfwF_5fewz3QM/s700/DisneyChannel.png" group-title="KARTUN & ANAK",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://i.postimg.cc/MKNssTyj/disneyxd.png" group-title="Kids",Disney XD (720p)
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://i.postimg.cc/MKNssTyj/disneyxd.png" group-title="KARTUN & ANAK",Disney XD (720p)
 http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 
 
@@ -1112,7 +1112,7 @@ http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 🔷══════════════════════════════════════════════════════════════════ [KNOWLEDGE & DOCUMENTARY] ══════════════════════════════════════════════════════════════════🔷
 
 
-#EXTINF:-1 tvg-id="Discovery Channel.co" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4BVurr5XlYUPqt0t1OIVQ9U5shnIsF-93pTmhLaUSm1pzCwYMtwUuCxj-lgAW26jbAI_27lxtvzH0fJVktEf7gr0Ia_j3H8c-HY3qrbh_aW5UyHM-D383YJTiQfrykhMtdYaLZFO88VqiaTlbOaCuL8GRCa7kDGvT-1_aXGpcMLBwEr9tH0y5lOFaHU/s700/Discovery.png" group-title="Knowledge",Discovery
+#EXTINF:-1 tvg-id="Discovery Channel.co" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4BVurr5XlYUPqt0t1OIVQ9U5shnIsF-93pTmhLaUSm1pzCwYMtwUuCxj-lgAW26jbAI_27lxtvzH0fJVktEf7gr0Ia_j3H8c-HY3qrbh_aW5UyHM-D383YJTiQfrykhMtdYaLZFO88VqiaTlbOaCuL8GRCa7kDGvT-1_aXGpcMLBwEr9tH0y5lOFaHU/s700/Discovery.png" group-title="EDUKASI & DOKUMENTER",Discovery
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7d4348407bf86d982076fb0ffa654e6:80acc54d3c56ed0770c4f12f91b53b68
@@ -1121,15 +1121,15 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#EXTINF:-1 tvg-id="Discovery Asia.id" tvg-name="Discovery Asia.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirovg8WD0guIZJu2fetCgbuXrmQoqN5pWQwVvwRl-ASlFDoOf4UNQfLTnBYvPSXstMYiYSG0OpYjN_0cPWPnMz1auSSVPbNea3yTNDiP0sIu9W_lxdYaKm_LxRafw1w1lYrhM0VfiZQSPWNd40N3Fgi9f2fgPJM2jwtTTMiZTydJNaTO25jQ1-xpHFpXQ/s700/DiscoveryAsia.png" group-title="Knowledge",Discovery Asia
+#EXTINF:-1 tvg-id="Discovery Asia.id" tvg-name="Discovery Asia.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirovg8WD0guIZJu2fetCgbuXrmQoqN5pWQwVvwRl-ASlFDoOf4UNQfLTnBYvPSXstMYiYSG0OpYjN_0cPWPnMz1auSSVPbNea3yTNDiP0sIu9W_lxdYaKm_LxRafw1w1lYrhM0VfiZQSPWNd40N3Fgi9f2fgPJM2jwtTTMiZTydJNaTO25jQ1-xpHFpXQ/s700/DiscoveryAsia.png" group-title="EDUKASI & DOKUMENTER",Discovery Asia
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJxeyZUgXRaAkpd2s7v9UK6nzNooV0jjT6lmF_9Wt4mskFGxK4Fy_hFVd2DlgX3ULSKjM6ERygX2hqizB5qGVgO6MoqHpqlpRHNoJPT0ZqBkQnDcSVMlOOHc5yNR1w6B_q1O18aFKGAyal0LMchD8hfBb865OILpv5hoa3EFGJI77TBUa4Q-SxynQWAGU/s700/DiscoveryScience.png",Discovery Science
+#EXTINF:-1 group-title="EDUKASI & DOKUMENTER" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJxeyZUgXRaAkpd2s7v9UK6nzNooV0jjT6lmF_9Wt4mskFGxK4Fy_hFVd2DlgX3ULSKjM6ERygX2hqizB5qGVgO6MoqHpqlpRHNoJPT0ZqBkQnDcSVMlOOHc5yNR1w6B_q1O18aFKGAyal0LMchD8hfBb865OILpv5hoa3EFGJI77TBUa4Q-SxynQWAGU/s700/DiscoveryScience.png",Discovery Science
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6a1dfce06caf463d29b91fc890baad1:4ce50c2ee03a4fbec5ddbf57bc8e6c8b
 https://zap-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhubX841l6SCLthfUnCFZr_Be3r_blSjn2Gu6G8FpiiDZx7BZnXK3c1KcjvG9W-Ox3AJGc_qZmp6Mf5toiqFo9-e9I4ftcBk_60rt80-RI17x1DN_1WANGbrRwvkiUd4qLHpQY1BnQK2NlLNvV2bMMocXVqo9fWt5y3_HObZPgv4q9oeuXUORx3ejp6Kv8/s700/DiscoveryTurbo.png",Discovery Turbo
+#EXTINF:-1 group-title="EDUKASI & DOKUMENTER" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhubX841l6SCLthfUnCFZr_Be3r_blSjn2Gu6G8FpiiDZx7BZnXK3c1KcjvG9W-Ox3AJGc_qZmp6Mf5toiqFo9-e9I4ftcBk_60rt80-RI17x1DN_1WANGbrRwvkiUd4qLHpQY1BnQK2NlLNvV2bMMocXVqo9fWt5y3_HObZPgv4q9oeuXUORx3ejp6Kv8/s700/DiscoveryTurbo.png",Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4bae4a7baa977c5b1a253adc589b6a7:ed5aa984b371395293b2c2a27125509c
 https://zap-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
@@ -1137,7 +1137,7 @@ https://zap-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
-#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsKh-zwX6z4LVIj6rvzAytujqWV-Yup9iQMX9Cy31v5mh9vX9vqALFoojCyyDwsfzC_NehyphenhyphenRaA3lMBHw60hFnd_64iOCXGN9lokCkEL7F5XbQI62GWvO4sYhhNGeI2vq1rOzqRtE-SZmRKP6UsOsR54zl1cwqZhQCDNux_-YcCU7LEmdLEyZLSYLP8aOw/s700/LoveNature.png" group-title="Knowledge",Love Nature
+#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsKh-zwX6z4LVIj6rvzAytujqWV-Yup9iQMX9Cy31v5mh9vX9vqALFoojCyyDwsfzC_NehyphenhyphenRaA3lMBHw60hFnd_64iOCXGN9lokCkEL7F5XbQI62GWvO4sYhhNGeI2vq1rOzqRtE-SZmRKP6UsOsR54zl1cwqZhQCDNux_-YcCU7LEmdLEyZLSYLP8aOw/s700/LoveNature.png" group-title="EDUKASI & DOKUMENTER",Love Nature
 https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mediampd/LoveNatureHD.mpd
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 
 
@@ -1281,53 +1281,53 @@ https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
-#EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfNfgzt5c4Lk_FI3RQV-v1ppdI2QOsnb8yxyOz6i895OIqIhDFcEZxVaZisWIyM5qxD2YdAtqFx-PPAaGuqmCOtNsGHCH3Nq7bVQ0OqSE6LziYZKRGcapjDPaqH2TKNknO9vbJD_ynCBBdb9C-flO7ZwklolEv-5FdoioDzMacaJommzUg0_5LIpJH7I/s700/CNNINT.png" group-title="News TV",CNN Int
+#EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfNfgzt5c4Lk_FI3RQV-v1ppdI2QOsnb8yxyOz6i895OIqIhDFcEZxVaZisWIyM5qxD2YdAtqFx-PPAaGuqmCOtNsGHCH3Nq7bVQ0OqSE6LziYZKRGcapjDPaqH2TKNknO9vbJD_ynCBBdb9C-flO7ZwklolEv-5FdoioDzMacaJommzUg0_5LIpJH7I/s700/CNNINT.png" group-title="BERITA",CNN Int
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
-#EXTINF:-1 tvg-id="BBCNews.id" tvg-name="BBC News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBGV5hCJRjjZ7uypo1i5TbszWEk0Dw0WKhC2CCAWtI_PUIwR3e_iBYDLPS3MFUYhTppjfBz8NiGqk9fTKQSbMWoyn_L0m22O3gCWx48_UffinedAMhZS75Xu4DTfkriJZzXIviq48PU-SQGGdDB76cF4LbCPV1iPlvYHPcd53WGM7-xjkXpr_sltvxy_c/s700/BBCNews.png" group-title="News TV",BBC News
+#EXTINF:-1 tvg-id="BBCNews.id" tvg-name="BBC News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBGV5hCJRjjZ7uypo1i5TbszWEk0Dw0WKhC2CCAWtI_PUIwR3e_iBYDLPS3MFUYhTppjfBz8NiGqk9fTKQSbMWoyn_L0m22O3gCWx48_UffinedAMhZS75Xu4DTfkriJZzXIviq48PU-SQGGdDB76cF4LbCPV1iPlvYHPcd53WGM7-xjkXpr_sltvxy_c/s700/BBCNews.png" group-title="BERITA",BBC News
 https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
-#EXTINF:-1 tvg-id="DWEnglish.id" tvg-name="DW English" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR0giv1TZL34dSUQ-gPmBY3tpQ23Vizd1rb2_hyphenhyphennuspR4_tz0r3KnCDYuyoQRECzIiZawWU7Du4xqtOlKK42Vo7Nv2QDzWOjYinRHTGzdaH4-U75BPPD-KRE9FmtfHaUGs9SMHqPiv_uP1GfsGsIjI-zYgzJ3nVQ3ZRWJZf6WEoEzsxH3t3sZqVX6x8Ww/s700/DWNews.png" group-title="News TV",DW Eng
+#EXTINF:-1 tvg-id="DWEnglish.id" tvg-name="DW English" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR0giv1TZL34dSUQ-gPmBY3tpQ23Vizd1rb2_hyphenhyphennuspR4_tz0r3KnCDYuyoQRECzIiZawWU7Du4xqtOlKK42Vo7Nv2QDzWOjYinRHTGzdaH4-U75BPPD-KRE9FmtfHaUGs9SMHqPiv_uP1GfsGsIjI-zYgzJ3nVQ3ZRWJZf6WEoEzsxH3t3sZqVX6x8Ww/s700/DWNews.png" group-title="BERITA",DW Eng
 https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c325414b6254a3ba4bcb2a31d4b1318:ae6c5d2b86727b478da73ffd0795c417
-#EXTINF:-1 tvg-id="TRT World.id" tvg-name="TRT World" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuLglZUkXg_B9AvvJaWpWTxwV2BazJNMfsZaEfoIKX0qIPgRpF1KsE1uPhxV_nM4odjNBYAuyVqe79iNLwOrA-P0r5tZegag6HuWfKFHaBUJdPE-toGe82yiSZDtYrbmTBf9vUpvBeUTK6ujEKcvWRqcvTyChb_N2ATAqWh3BpdvAb9v6HnNRW7buhBY0/s700/TRTWorld.png" group-title="News TV",TRT World
+#EXTINF:-1 tvg-id="TRT World.id" tvg-name="TRT World" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuLglZUkXg_B9AvvJaWpWTxwV2BazJNMfsZaEfoIKX0qIPgRpF1KsE1uPhxV_nM4odjNBYAuyVqe79iNLwOrA-P0r5tZegag6HuWfKFHaBUJdPE-toGe82yiSZDtYrbmTBf9vUpvBeUTK6ujEKcvWRqcvTyChb_N2ATAqWh3BpdvAb9v6HnNRW7buhBY0/s700/TRTWorld.png" group-title="BERITA",TRT World
 https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mediampd/TRTWorldHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQgp57sUQGy-4RGWG6IFdyRq63LMpVoAV14YQMSGZCmJy8G5rqoi8Zu7pOP9ykmumaGD4LZNthvLLrEZBCtUgHuVf_gNPbDplBqrt8G7242Fse8xv8SRGNK93fFcTCqwUQLmCq9Oh_6-zc0pPByLm60x367yK96fgWPy2yd0V4dgTuo8yI8_iLHDvmWgg/s700/AlJazeera.png" group-title="News TV",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQgp57sUQGy-4RGWG6IFdyRq63LMpVoAV14YQMSGZCmJy8G5rqoi8Zu7pOP9ykmumaGD4LZNthvLLrEZBCtUgHuVf_gNPbDplBqrt8G7242Fse8xv8SRGNK93fFcTCqwUQLmCq9Oh_6-zc0pPByLm60x367yK96fgWPy2yd0V4dgTuo8yI8_iLHDvmWgg/s700/AlJazeera.png" group-title="BERITA",Al Jazeera
 https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mediampd/AlJazeeraIntHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bf84ef1f79a4135bd20b7bb363ecb98:b15ad052e1d0e04f7b7bdf500fecd0e5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="CNA.id" tvg-name="CNA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0qO4JI00XqSUzSJ5PNkDQW2hAtUj35FMZ5Y4iQ3JIODzmohev-piCWaE1gPnzVNJXbsmgR1Eiqul2wr79sQ_sA5maal51rbU-oJZn0Sf5b_ho1D6thPfJ36n03ErevZCfiAKmmtRZJxqqKvHAfENQRb29Myg6aEtsM77vrWmgX8l3k9rn8gF_wi8hDZ8/s700/Acna.png" group-title="News TV",CNA
+#EXTINF:-1 tvg-id="CNA.id" tvg-name="CNA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0qO4JI00XqSUzSJ5PNkDQW2hAtUj35FMZ5Y4iQ3JIODzmohev-piCWaE1gPnzVNJXbsmgR1Eiqul2wr79sQ_sA5maal51rbU-oJZn0Sf5b_ho1D6thPfJ36n03ErevZCfiAKmmtRZJxqqKvHAfENQRb29Myg6aEtsM77vrWmgX8l3k9rn8gF_wi8hDZ8/s700/Acna.png" group-title="BERITA",CNA
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mediampd/CNAHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvJJpia4b4gO_GuLrv_TlCuh9ZobeW-TLDOpbewGW3FP7K7k3t-IO1qQQiabk1MVuAYwWe4__WbbhJ7GG6cb3RIPhl95weZsPL790_AQOY8GlTMadkJwNgXlqMsp0ex1PmDIht-34BsbAH6n1kQAiQ8D8YeOmytLKUcB4h9DfGlbQOn2w_ChiH4UFnOk/s700/CNBCInt.png" group-title="News TV",CNBC Asia
+#EXTINF:-1 tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvJJpia4b4gO_GuLrv_TlCuh9ZobeW-TLDOpbewGW3FP7K7k3t-IO1qQQiabk1MVuAYwWe4__WbbhJ7GG6cb3RIPhl95weZsPL790_AQOY8GlTMadkJwNgXlqMsp0ex1PmDIht-34BsbAH6n1kQAiQ8D8YeOmytLKUcB4h9DfGlbQOn2w_ChiH4UFnOk/s700/CNBCInt.png" group-title="BERITA",CNBC Asia
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="BloombergTV.id" tvg-name="Bloomberg TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaROauS0lZbDnQOpzlcaM05ldJidLwOKapKeWOVQG76Imx59-OKOql0xVyPsuOPw4bA0IGYsbxJ2SKLzJ22j1mBxFPBGJmQqPUA0gaHDK_gaG7lwp7q2QghRGYzOLfl-mmDLwxcCplAc0wJUy8Aq5NNfwrZcxAcHoxl4kCo09K5iI7eVt_eGZ3IktEqVQ/s700/Bloomberg.png" group-title="News TV",Bloomberg
+#EXTINF:-1 tvg-id="BloombergTV.id" tvg-name="Bloomberg TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaROauS0lZbDnQOpzlcaM05ldJidLwOKapKeWOVQG76Imx59-OKOql0xVyPsuOPw4bA0IGYsbxJ2SKLzJ22j1mBxFPBGJmQqPUA0gaHDK_gaG7lwp7q2QghRGYzOLfl-mmDLwxcCplAc0wJUy8Aq5NNfwrZcxAcHoxl4kCo09K5iI7eVt_eGZ3IktEqVQ/s700/Bloomberg.png" group-title="BERITA",Bloomberg
 https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwCwuQgRs_qMm6iYmHhsnGWlDt_Lx8QRw8nB592I5GeYJcoaQ5G7wm7Z235NaTNSIgbEiYbCEiRBzsFUkAEv_GipnzA79aMz40vherKCMs-EUXU5Nc8RZ6AGH0YA5bAeYObl3Uybp_CD3J8QxaA-A4dYXFA3MFgG_2A6YuPvPEbDTg48ptNufb1i2ksfg/s700/TastyTrade.png" group-title="News TV",Tastytrade
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwCwuQgRs_qMm6iYmHhsnGWlDt_Lx8QRw8nB592I5GeYJcoaQ5G7wm7Z235NaTNSIgbEiYbCEiRBzsFUkAEv_GipnzA79aMz40vherKCMs-EUXU5Nc8RZ6AGH0YA5bAeYObl3Uybp_CD3J8QxaA-A4dYXFA3MFgG_2A6YuPvPEbDTg48ptNufb1i2ksfg/s700/TastyTrade.png" group-title="BERITA",Tastytrade
 https://bcovlive-a.akamaihd.net/r77df0dffb8c44094b029f1f924124818/us-west-2/us-west-2/6057994532001/profile_1/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_ARIRANG_2025_03_17_14_45_16.png" group-title="BERITA",Arirang
@@ -1370,14 +1370,14 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6GjniYgn__r2LYYhPiDptq7ZSLFijQAbJ4DextSCvOJE3jGhIEFfs06RYThjXzE995nPUE7YIh2oRetJpiYxK0Ip6mMzq_M0ADZZ95uWprAWRRMg_HJBPaTcAnU7fm6nlCRTKlkkBP4b42ORKl2l2b_ZXq1aD9zyNOBhf1mS3sfV9dDLm_cJ01LYCQmY/s700/History.png" group-title="News TV",History
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6GjniYgn__r2LYYhPiDptq7ZSLFijQAbJ4DextSCvOJE3jGhIEFfs06RYThjXzE995nPUE7YIh2oRetJpiYxK0Ip6mMzq_M0ADZZ95uWprAWRRMg_HJBPaTcAnU7fm6nlCRTKlkkBP4b42ORKl2l2b_ZXq1aD9zyNOBhf1mS3sfV9dDLm_cJ01LYCQmY/s700/History.png" group-title="BERITA",History
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
-#EXTINF:-1 group-title="News TV" tvg-id="CrimeInvestigation.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgne6fUx9oGa2ZR76ZVIXHOlMVM6U1B-QTDw7Xw7hmb4cKld-HnqAcnxj9Z2iORrkS_dQatH5q27pw_gh3UM8LBBg8qqZ9MbpqGPCuoTCMIEuL_N0fe8kzEzG1b_MDfgSQ1Sff081AI-dB0Yuawe2ob4fmDyx4YCWEKhCLN0TUXgOUtBkDbdWMrpHijJG8/s700/CrimeInvest.png",Crime Investigation 
+#EXTINF:-1 group-title="BERITA" tvg-id="CrimeInvestigation.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgne6fUx9oGa2ZR76ZVIXHOlMVM6U1B-QTDw7Xw7hmb4cKld-HnqAcnxj9Z2iORrkS_dQatH5q27pw_gh3UM8LBBg8qqZ9MbpqGPCuoTCMIEuL_N0fe8kzEzG1b_MDfgSQ1Sff081AI-dB0Yuawe2ob4fmDyx4YCWEKhCLN0TUXgOUtBkDbdWMrpHijJG8/s700/CrimeInvest.png",Crime Investigation 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/CrimeInvestigationHD.mpd
 
 
