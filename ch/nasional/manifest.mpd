@@ -19,8 +19,8 @@
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
 
       <SegmentTemplate timescale="10000000"
-                       initialization="balitv-$RepresentationID$-init.mp4"
-                       media="balitv-$RepresentationID$-$Time$.mp4">
+        initialization="https://cdn10jtedge.indihometv.com/atm/DASH/balitv/balitv-$RepresentationID$-p=339822571000000-init.mp4"
+        media="https://cdn10jtedge.indihometv.com/atm/DASH/balitv/balitv-$RepresentationID$-p=339822571000000-$Time$.mp4">
 
         <SegmentTimeline>
           <S d="20000000" r="30"/>
@@ -50,8 +50,8 @@
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
 
       <SegmentTemplate timescale="10000000"
-                       initialization="balitv-$RepresentationID$-init.mp4"
-                       media="balitv-$RepresentationID$-$Time$.mp4">
+        initialization="https://cdn10jtedge.indihometv.com/atm/DASH/balitv/balitv-$RepresentationID$-p=339822571000000-init.mp4"
+        media="https://cdn10jtedge.indihometv.com/atm/DASH/balitv/balitv-$RepresentationID$-p=339822571000000-$Time$.mp4">
 
         <SegmentTimeline>
           <S d="20000000" r="30"/>
@@ -70,4 +70,3 @@
   </Period>
 
 </MPD>
-
