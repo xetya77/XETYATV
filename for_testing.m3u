@@ -56,6 +56,162 @@ https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_250000=10000-mp4a_64
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/ch/nasional/manifest.mpd
 
+#EXTINF:-1 tvg-id="TVRI.id@Yogyakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI GRUP",TVRI Yogyakarta
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_250000=10005-mp4a_64000=20002.m3u8
+
+🔷════════════════════════════════════════════════════════════ [TV NASIONAL TVRI & DAERAH] ════════════════════════════════════════════════════════════🔷
+
+
+
+
+
+
+
+🔷════════════════════════════════════════════════════════════ [EMTEK GROUP] ════════════════════════════════════════════════════════════🔷
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/indosiar.png" group-title="TV NASIONAL",Indosiar
+http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/sctv.png" group-title="TV NASIONAL",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/moji.png" group-title="TV NASIONAL",MOJI 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/moji.png" group-title="TV NASIONAL",MOJI TV
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8?app_type=web&userid=lite&chname=Moji
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/rtv.png" group-title="TV NASIONAL",RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/kompastv.png" group-title="TV NASIONAL",Kompas TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/kompastv.png" group-title="TV NASIONAL",Kompas TV (DensTV)
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8?app_type=web&userid=lite&chname=kompas-tv
+
+🔷════════════════════════════════════════════════════════════ [EMTEK GROUP] ════════════════════════════════════════════════════════════🔷
+
+
+
+
+
+
+
+🔷════════════════════════════════════════════════════════════ [TRANS GROUP] ════════════════════════════════════════════════════════════🔷
+
+#EXTINF:-1 ,TRANS TV
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="TV NASIONAL",Trans 7
+#EXTVLCOPT:http-referrer=https://sevenhub.id/live 
+https://live.eu-north-1a.cf.dmcdn.net/sec2(0gJznV-QKmFHYhv4g3S8KTZJHjXGM5p3KzuVglOhuvdGWq3kqfINNWFRkiBPcjiDfeYvYJ5j4zQ0A_fEI70eMj8scyGd00ug_Wnknq31YhKOitgZbrTWVviW4pnEo1OS)/dm/3/x8qckyq/d/live-720.m3u8#cell=lcf-eu-north-1a
+#EXTINF:-1 ,Detik TV
+https://video.detik.com/20detik/smil:20detik-live.smil/chunklist_w1557005437_b192000_sleng.m3u8
+
+#EXTINF:-1 ,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1712758481_b192000_sleng.m3u8
+
+#EXTINF:-1 ,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w571302847_b192000_sleng.m3u8
+
+🔷════════════════════════════════════════════════════════════ [TRANS GROUP] ════════════════════════════════════════════════════════════🔷
+
+
+
+
+
+
+
+🔷════════════════════════════════════════════════════════════ [TV NASIONAL & LOKAL INDONESIA LAINNYA] ════════════════════════════════════════════════════════════🔷
+
+#EXTINF:-1 ,Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w609553061_b2256000_slen.m3u8
+
+#EXTINF:-1 ,Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w439277003_b2256000_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="TV NASIONAL",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w528727893_b628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="TV NASIONAL",Metro TV (DensTV)
+http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8?app_type=web&userid=lite&chname=metro-tv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/magna.png" group-title="TV NASIONAL",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1781439913_b628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/bn.png" group-title="TV NASIONAL",BN Channel
+http://op-group1-swiftservehd-1.dens.tv/h/h39/02.m3u8?app_type=web&userid=lite&chname=BN-TV
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/mdtv.png" group-title="TV NASIONAL",MDTV
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8?app_type=web&userid=lite&chname=MDTV
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/garudatv.png" group-title="TV NASIONAL",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/ntv.png" group-title="TV NASIONAL",Nusantara TV
+https://op-group1-swiftservehd-1.dens.tv/h/h37/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvone.png" group-title="TV NASIONAL",tvOne
+http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8?app_type=web&userid=lite&chname=tvone
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/btv.png" group-title="TV NASIONAL",BTV
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/hvideo-640x360.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/btv.png" group-title="TV NASIONAL",BTV (DensTV)
+http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8?app_type=web&userid=lite&chname=BTV
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/beritasatu.png" group-title="TV NASIONAL",Berita Satu
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/hvideo-640x360.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/elshintatv.png" group-title="TV NASIONAL",Elshinta TV
+http://op-group2-swiftservesd-1.dens.tv/s/s12/S1/mnf.m3u8?app_type=web&userid=lite&chname=ElshintaTV
+
+#EXTINF:-1 tvg-logo="https://storage.tvku.tv/tvkuweb/v2/assets/ourexpertise/2022-02-28-22-29-44.png" group-title="TV NASIONAL",TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMVlUEbIrsKpinPD8NiEnSoXRTvPqgKbXJA&s" group-title="TV NASIONAL",MIC
+https://mic.siar.us/mic/live/mic_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYwb-J56FuoH787wGgenRndQJDObSl1SA60g&s" group-title="TV NASIONAL",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL9y3oew5DWUadU6bPctTmdluJqlyr7FamA&s" group-title="TV NASIONAL",BRTV
+https://wms.klikhost.net:443/brtv/brtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_74eMoOFR45rP1UdX726APaUZeBKZe_haSw&s" group-title="TV NASIONAL",Makkah TV
+http://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_74eMoOFR45rP1UdX726APaUZeBKZe_haSw&s" group-title="TV NASIONAL",Makkah 
+http://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKApvoK_CkeV9ArM103jslchQVf_fVFo08Kw&s" group-title="TV NASIONAL",DMI TV
+https://tvstreamcast.com/tawaftv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwnXrn9_1pTWaOjLQXtC7iWSQnmNjWKnOZWw&s" group-title="TV NASIONAL",TVMU
+https://e.siar.us/live/tvmu.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/jowo.png" group-title="TV NASIONAL",JOWO TV
+http://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtwNrC4GaGJBPkotMU608T-IDGVxlibUPgw&s" group-title="TV NASIONAL",Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 ,Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 
 
