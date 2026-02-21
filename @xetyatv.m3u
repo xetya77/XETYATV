@@ -186,13 +186,15 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w79892327_b344100_slen
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/cnnindo.png" group-title="TV NASIONAL;BERITA",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1206516038_b192000_sleng.m3u8
+
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/cnbcindo.png" group-title="TV NASIONAL;BERITA",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w173758592_b192000_sleng.m3u8
+
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
