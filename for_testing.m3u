@@ -448,3 +448,8 @@ https://yahoofinance-localnow.amagi.tv/playlist.m3u8
 #EXTINF:0,Young Hollywood
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
 
+
+
+
+#EXTINF:-1 ,Go2Travel
+https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/ch/world/go2travel.m3u8
