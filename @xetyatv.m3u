@@ -193,12 +193,8 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_o
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="TV.One.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvone.png" group-title="TV NASIONAL;BERITA",TVOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvone.png" group-title="TV NASIONAL",tvOne
+http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8?app_type=web&userid=lite&chname=tvone
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -208,31 +204,22 @@ https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w528727893_b628000_sl
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/ntv.png" group-title="TV NASIONAL",Nusantara TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h37/02.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/mdtv.png" group-title="TV NASIONAL",MDTV
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/MDTV.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8?app_type=web&userid=lite&chname=MDTV
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/garudatv.png" group-title="TV NASIONAL;BERITA",GARUDA TV
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/garudatv.png" group-title="TV NASIONAL",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/bn.png" group-title="TV NASIONAL;BERITA",BN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/bn.png" group-title="TV NASIONAL",BN Channel
+http://op-group1-swiftservehd-1.dens.tv/h/h39/02.m3u8?app_type=web&userid=lite&chname=BN-TV
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -269,15 +256,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8?app_type=web&userid=lite
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/btv.png" group-title="TV NASIONAL;BERITA",BTV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/btv.png" group-title="TV NASIONAL",BTV
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/hvideo-640x360.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/magna.png" group-title="TV NASIONAL",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1781439913_b628000_sleng.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -302,8 +287,8 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="BeritaSatuEnglish.id@SD" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/beritasatu.png" group-title="TV NASIONAL;BERITA",BeritaSatu
-https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/beritasatu.png" group-title="TV NASIONAL",Berita Satu
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/hvideo-640x360.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -900,7 +885,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [TV OLAHRAGA LAINNYA]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="GBBD2300003IK" tvg-logo="https://mimipipi22.github.io/logo/sports/redbulltv.jpg" group-title="OLAHRAGA" channel-id="samsung-GBBD2300003IK"  tvg-chno="4513",RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport1.jpg" group-title="OLAHRAGA",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -945,8 +930,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 # ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝
 🔷══════════════════════════════════════════════════════════════════ [KIDS] ══════════════════════════════════════════════════════════════════🔷
 
-#EXTINF:-1 tvg-id="ShauntheSheepFriends.uk@US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1e2118d-e2f3-4cfe-a227-2b0c7ab664e5/Shaunthesheepandfriends_a_476x476_-_cleo_Parfitt-StarRDXr.png" group-title="KARTUN & ANAK",Shaun the Sheep & Friends (1080p)
-https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+#EXTINF:-1 tvg-id="ShauntheSheepFriends.uk@US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1e2118d-e2f3-4cfe-a227-2b0c7ab664e5/Shaunthesheepandfriends_a_476x476_-_cleo_Parfitt-StarRDXr.png" group-title="KARTUN & ANAK",Shaun the Sheep & Friends 
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun_360p.m3u8
 
 #EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="KARTUN & ANAK",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -981,7 +966,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 #EXTINF:-1 group-title="KARTUN & ANAK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NVNe4ZOwkYlhgY6o_2DUVpI4mpiZ2p6QOYBxU-ez2gowBLy8qFJgCHW8MGkqTKkkWmUVJxsldUQPiPZFlstPi0vJuUHjHQz-PMkoKEoeyvvJWf4GuUL7KEVdMMOjKWcTSk1xUuybKFKOhUr1BwSvEtfTNyU8Et6oqH9jkOnAbzHSUff1TiMWYr7ZTc4/s700/BabyShark.png",Pingfong TV
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+https://newidco-babysharktv-1-us.roku.wurl.tv/1200.m3u8
 
 #EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KARTUN & ANAK",Biznet Kids (1080p)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
