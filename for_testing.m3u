@@ -1,4 +1,150 @@
 #EXTM3U
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL_GsTNRuzchRQlsD_7b68fX9ogDMoSxJfEC8IhbMnb0f3fDzhS-mMjWnv6axC-XkMOU5fQL_tb7dgoE6STPNXJBYgZprjmI8be3TSykKrviv6JPiYu5o7y6UPM2sWCivJWIm5-RvJDin7xaKDnGbigctaZFxy-xhOXL7ym-yuiJ0NfqSfPSBKrRrC8gs/s700/HBO.png" group-title="Movies TV",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTINF:-1 tvg-id="HBO Hits"  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEI09ecSh8WlPkE7MHM3KIzB-qu1462srtgMmcm6uApPbpEVo6rNKSMFDhdhT5WM5mMRwXNPfjoGQByGFU7QbLCyPnHeJdWV4BSDumCwoJXD_hbAyKOnruZ0lZHTnTFbfMTveQx2Z6TPLSOkeNo7avXpgoAYg4w9bAI5LiyELfRQP7SON1noFxsGVyqVU/s700/HBOHits.png" group-title="Movies TV",HBO Hits
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTINF:-1 tvg-id="HBO Family" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT6ZGkTYZ9BYgelZgrDZNZfH7GdxwxDpgpwNp6BXLvSjtumd-acdky-UqCo5NY2yrbaYcJxWC6-j6ekvet3JCgKeHhrYFdy3-qOmfck-4rhEiQJGFZWtFEFfx3HCNXk2XxlKijjuZS5rUHCTgwZjf0G_HGc5b40h8TL1RHX4MZuXbcgbAg8fSXV9cUPfw/s700/HBOFamily.png" group-title="Movies TV",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWG8wDYBOLaopAK60T4lPmWm-bFxJilps1N15IaE9TsVUqTMEjwk7R1tlZpSjUqnjqjolbgkikEQmFeSUHKLu95DFiuWEzkZmOr_ErBGZjUFVOOMIie8Rl2dN3_6-JD9iQOOK47cJIJjTq6wfNC0faNvQHksySQW88JhzoUo0UERywj-n-KCJBsTnPde4/s700/HBOSignature.png" group-title="Movies TV",HBO Signature
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrczOAhi91JPnNj266sbSCpJXkgGUGPtkU8GwcPDMHoXp8uFJ71s9xDbKh_RQC4B8tVbXuv2jbbMBE3wr4El6IY7gfyAFzK2MxYRPveREzLjdcydAb3USkbHTDlEkUR1y5aXInWw7RDRRAWUlNEAcSqiMF_ute6h9OhymiKecbf1bT5eElWn_2qAMuglM/s700/Cinemax.png" group-title="Movies TV",Cinemax
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="PH Discovery" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4BVurr5XlYUPqt0t1OIVQ9U5shnIsF-93pTmhLaUSm1pzCwYMtwUuCxj-lgAW26jbAI_27lxtvzH0fJVktEf7gr0Ia_j3H8c-HY3qrbh_aW5UyHM-D383YJTiQfrykhMtdYaLZFO88VqiaTlbOaCuL8GRCa7kDGvT-1_aXGpcMLBwEr9tH0y5lOFaHU/s700/Discovery.png" group-title="Knowledge",Discovery Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja8N1jALWIsKlNSfVr0Q729xo08fWZymhbHxrgO0Dw7EGo4BsfKkseR9_r5ERMFRbcm0vOZB7dCyiP5VBPkPM873t6bPS_TegZ9ugF67_tX0OjaEu3OVe9EOFFeSevJjuz6ofGYtdVrp2eHOcMeBIyAGsJJI2E1WjwZpUqeEheF8M5cOoqPhkU0DZi6qQ/s700/MetroTV.png" group-title="National",Metro TVᴰᴳ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/21
+
+#EXTINF:-1 tvg-id="" tvg-name="MD TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUjgGwVRIz2ZmgTGC-0la6hFxx4skt9YxZ2c1HX9paWJJCPaK8u8RtJXoz4mDlLG2-1n7mh-xIC1BuCap2raz-ahMBQJe4c6F7MdHPsJpVREq5Ik7rVKJGfSm8W4kYv6wUpTwS8hKp5Z0-uVqWxM2WPQSvcdxULdcKhvFWD_gECX4a9aew1p8nx-6kU4/s700/MDTV.png" group-title="National",MDTVᴴᴰ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/19
+
+#EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbOJgjelV-Ojv0fQ3iQ9W5xpmaFPToX1PzRBvDiLFwDvNMuU5Kvc2ji7J-r_UZf6wfIp9B75noIiLwidl2cQJxflqhUQgH6fmZcpLP44nFsxYLiObBpF9024xvhLIRWVSFJwUBGfDHXO-25KI9_dbKkwXduuULdsYvbes8faTG_XciFjnoqC0wDJ_KrP4/s700/20260222_154119.png" group-title="National",KTV
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/17
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpc9fbG79uZOmieX7ri7X4248xNtPaUM7sTvUQMWJ3tEIURjM6BJFNISBEfqKHthvIWtNbenBt5SkDfap-a09-pzXm5P5v_KvzmEAlwTcJcj-Stko4lvWXE3WwdFV6hbLTwyV3Vrcb5HU70OnttE72yeqejhC-I161jymx9uSXnutX768UuHfLNzaLenk/s700/ANTV.png" group-title="National",ANTVᴰᴳ
+http://filex.me:8080//live/MAS101A/MAS101AABB/302206.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ID: AniPlus" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQGSUJVjomtgIeNzmKI193GHHDnraBkLFfIqpJSuW672ci0Rg2B1BFZGNK7Lfd-c0RQVuOoN4GQ3-V_vYnmsxl9MxPIRQAbYMg0SDvipzH6_A2biSagk4k9rIikiI-9wBTkUOQcdlfJH5S7ZkV9yW2WsHZHvZV-4J_ZXG8p0FQyzz0gcMiFMaSlVIqTDo/s700/Aniplus.png" group-title="Kids TV",Aniplus
+https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEEO6SWV1WPoW8gRIu3El7rlIcYunLvZFeXFHBa7FSwc42nHa4n2dJ4hsurz_pocrPyQftbubIeKHxM-jSTaHKddXr8wES-FNQT3zDERVs81bLfExatGyHJHv5KKxR_vdX7_2K4wWJCDNgPf2oiTlpQT1SYFZzivB4UYQN7zy5INTLbrDoWb_3FDHaS94/s700/GTVv2.png" group-title="National",GTVᴴᴰ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/9
+
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXwidwXi8K3rIvOAzFa6cRAwnjmuYcb09LNq-gJgsyEoibjlQyh_8CJ-o-nYWEVAxb8dd4DThEBGTEh1RBZmrfcxfBbjBSxcn2w63qrFXvPmF-UKBAiHxxrMlhAKMDqTgy-VhitYUfA7r-T7eD4ewnO7u0fEcF7kWtUiW5OD5BmfSQhpbI8fzyrEhBcJg/s700/Inews.png" group-title="National",iNewsᴴᴰ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/12
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5ZxnsrB6Bdo-dJPFQPt0JbVIaKuqsUQ64IPxgn2LbGS06VpZXdPiO8lzKSWutPXpCN6b77TL0Syhnvi74YUTmQU5tVUt4RFjsYGORHETAqtXMI3TFmBrYeHX6crmo4LN_SjNuso0Lr7rz6JXcBfdSwytD6bNrezPCQpehO3rcxHlDQIBC-WjqbnmG-XA/s700/SCTV.png" group-title="National",SCTVᴰᴳ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/30
+
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDH9fdJcCyHmxEtNgxnVBDricERsbs-Um-VxtGjIdM1TUDOKhg_K-jqzFGRAxjHp8TzQ6LC7UHWzeEzZSVAioAtqgeFVE0E9TM1QmcAwBU9VxxbLPnfAFl3FjpxiwZThPLn3xskcWKZ6QoyGhh3NuLWr9G7-YdJxUuEqm3a0fP2Hejdu9XNxmYrlTV3Ss/s750/Indosiar.png" group-title="National",Indosiarᴴᴰ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/11
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibtXXF5nXrNjgBYGqC8DJ_ruymqVmSm4PHet-HHaS4vzIegOHd8KGa-vgqxz3Q5DVFlJXK8UUoWbhyphenhyphenKmB8l6zeGIeYfkRlm2nQGqdD_Cuw42CSQqxOiHD5KR3lluoLbyGaja0r81cPcIAF3IsuJiEOsaDu84VMdG6C6lTUx0a3pZqDSv-zZnlvOTi0GFM/s700/TransTVLogo.png" group-title="National",Trans TVᴴᴰ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/34
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinj8KT_z7FwUCMwNyFGKXAeKPA9rnkwJ6yXvTuVjcu7YHzu6VjdkN1JDbNadY7gTSsQ6IdyRWYfqMjLvE6ftHORYm6GcaOJDyGASuoWrAon-ThWWnlOblD0Ptaq5ZhCxubAxSf_xn_F8wFh_-YS_hhHxjnp-ePfiPIqTJB-Lgt3iE49h9hp-qlzRbDhsM/s700/Trans7Logo.png" group-title="National",Trans 7ᴴᴰ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/33
+
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" group-title="National" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQcby8jiaM2_fDORVUNTrMK0TIzWT93WSal1b8onGEW5NBdYJtYHedd7Gtfyz5XI4_ArnQ-4tmFKMe2I6aM7eVSoSnR6GW59e-DA60vYY7ym5f-o1S_i2Hyl76Mlt5tLpuFme66QNqc8zT_G_wjT3TtlAKfKGWzDXq1vKLcKeObjyf-M72weMGrHBBY7w/s700/AnTVSports.png",ANTVˢᵖᵒʳᵗˢ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/1
+
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKfJ5RRZOF3TWOhJa375DNaHAPToZ3uHwJQr2X5VJwYEE-SuC0UKEqtS1p2Wh6KENiiMnqDQbAW_1I6seQjE_0YaWAjze82RB-MY_6SbZRxWayxVLl3Q_5lqXd_RwIlx2Ikvp91Hi0renWDz1KbjoWnKTQDV9pN90kn09yWOK7fhWx6s9RSCJTinEqDxo/s700/KompasTV.png" group-title="National",Kompas TVᴴᴰ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/16
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja8N1jALWIsKlNSfVr0Q729xo08fWZymhbHxrgO0Dw7EGo4BsfKkseR9_r5ERMFRbcm0vOZB7dCyiP5VBPkPM873t6bPS_TegZ9ugF67_tX0OjaEu3OVe9EOFFeSevJjuz6ofGYtdVrp2eHOcMeBIyAGsJJI2E1WjwZpUqeEheF8M5cOoqPhkU0DZi6qQ/s700/MetroTV.png" group-title="National",Metro TVᴴᴰ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/21
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Metro.TV.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieYz_s044W-tsD8cxL5Ofl2QmeUq7fYJw7jPywoTQrn0AuF9S2dm8oNqsJ9YmnvwHpEoSY23FVql-lGjv3NqXNbTfqzS6ky37zmuRlbmD2mXXFbRGwRylS25Gzhd2RJycTyZ2-UJV3aS08kxPRXfFo4vUQa580kpvLs91bwh_lMb0UofeMFdA6oqiUFck/s700/MetroTVHD.png" group-title="National",Metro TVᴴᴰ
+https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihGq3yBVm_5mI5xqxyxCra_DJuJUMhN2hNs5RcPHhzh-anWutaQraldx4FcOXYCKFrv-qt8r8FERxv1COb_vk6KLKo7Ap8W6i5AKlh54Q8fOR4z5d2md2XL2S6F74QP3LWheGOrHTXEIuAOYJ9j8D_LQAuC279TKyOLwCmVpD863oh6ZrYgwamaaF_p_g/s700/CNNIndo.png" group-title="National",CNN Indonesiaᴴᴰ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/5
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvJJpia4b4gO_GuLrv_TlCuh9ZobeW-TLDOpbewGW3FP7K7k3t-IO1qQQiabk1MVuAYwWe4__WbbhJ7GG6cb3RIPhl95weZsPL790_AQOY8GlTMadkJwNgXlqMsp0ex1PmDIht-34BsbAH6n1kQAiQ8D8YeOmytLKUcB4h9DfGlbQOn2w_ChiH4UFnOk/s700/CNBCInt.png" group-title="National",CNBC Indonesiaᴴᴰ
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEildzotlUGcWyCz1PglhOlnz3Vb6-pt0KkQN9BERU-udjD12zQCEloJEHDv7Jo0LHFBRTJOL9eK6Q9ontEptTIBzPhs5pv-vh8B7FSjwW9azjeza1vm1zciqMj69jw6HmLz5l2CqOlQuwyvOoT-LfUPiyNg2i5T6WUPi4enN8TGDzUr7B_n737Fs2FtYOg/s700/MentariTV.png" group-title="Kids TV",Mentari TV
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/20
+
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibbB00DgesUeV2rkFDgiNxyXztv4syqMO2Kg7oJ_cbmHnCD5-bcGtjUxfadmsqERWlzKhJV3Ttq6fzsCyywQ8WoN6XmqMKO7Bh1F3DvFzQVR2mf6HalNR2vWt__dmzdX0tSsiCJIXnD1D-sjfM_tUNclfgtlVkQrG58JUN4AhGJ0M51uZX18abpfQwfec/s700/CTV1.png" group-title="Astro Sports",Champions TV 1
+http://202.169.224.202:8800/udp/239.9.1.9:1234 
+
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3FUcGlFxJixFYWTlaL5CvvNBp9AVVshk-lzhI42sc_GQ2ya3puhb0H6I6f5NBr90jhJNLs49dSiUyte50mSFAPra0fH5DBbneTUxPv9Mqm2xTiHLzt8HpO3Xx48vqUWF1corPfr9dLH3_S409PePbcNU6YOWQweypR5ZPhqDa3q-7AMAQV3px9P4ZiNE/s700/CTV2.png" group-title="Astro Sports",Champions TV 2
+http://202.169.224.202:8800/udp/239.9.1.10:1234 
+
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_TN6dWqed83tAYA9tq8MouZhpqkZK0hM_4EhWSKZ2_srQMYTIMqy1mDdJO5U-gg5UB87I1_Cxxpxl2ugNeBrmPdR9YXgpAukoIhDXDUHPBbOLciSTilAqMsobW4eiPOVyDhaHC2VJUIEbEDb5HPWty2xLLN2KdnFtDnZknYzGbmqWr2HtGpWh7AGwpWE/s700/CTV3.png" group-title="Astro Sports",Champions TV 3
+http://202.169.224.202:8800/udp/239.9.1.11:1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0,AccuWeather
 https://amg00684-accuweatherinc-accuweather-stirr-69yvl.amagi.tv/playlist.m3u8
 #EXTINF:0,Amazing TV
