@@ -111,14 +111,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/rcti.png" group-title="TV NASIONAL",RCTI (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Jx-YVU3OoeDhv3FURqDvJbU-BQzEb-ueYO5FXxQvwAaKBqrHNBLTCG_07w9yx4m0qiDKsEIcq48JOXN7B9KBJWcpSN0Cs1sOZ1L1CVlCjxDTNYbmKhYSHyjBh6YMurrgKGVrA8yYObJtAdlOAB89kO33uIohDwoqBxXeyXRgS5i-Q33dabWxitIgquI/s750/RCTI%20Sports.png" group-title="TV NASIONAL",RCTI Sports
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/rcti.png" group-title="TV NASIONAL",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -131,12 +127,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/gtv.png" group-title="TV NASIONAL",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/gtv.png",GTV 
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -2859,6 +2852,7 @@ https://xetya77.github.io/XETYAVIDEO/music-video/oneokrock/dystopia/index.m3u8
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/06/the-spongebob-movie_-search-for-squarepants-2025.jpg?w=1600&h=900&fit=crop" group-title="FILM", The SpongeBob Movie - Search for SquarePants
 https://www.googleapis.com/drive/v3/files/1jvV8VKbOLq0TFy26y1jSysyajcq8GbLd?alt=media&key=AIzaSyBTpS1krqTwjb35hFHOQJJLBCtZjgGvurw
 
+🔷══════════════════════════════════════════════════════════════════ [VIDEO ON DEMAND] ══════════════════════════════════════════════════════════════════🔷
 
 
 
@@ -2866,7 +2860,35 @@ https://www.googleapis.com/drive/v3/files/1jvV8VKbOLq0TFy26y1jSysyajcq8GbLd?alt=
 
 
 
+🔷══════════════════════════════════════════════════════════════════ [TV CADANGAN] ══════════════════════════════════════════════════════════════════🔷
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHx_skAn6anM8qj6Ahex7AJxWZHtIp0B0_4J35c52cqIUwtXSwv0LqnkwYuG0B83B3LaA0D18Q9qR6j1YVJOTWSeW3TfKeT1yC1chLnKPzu1fwyii-AsTOAKy4WMssIFm19LtZfJVE7gtqsls0PY72HMT2HGghmvnEWOtvYceTMa3V7bMGR3Tzrfcu7o/s700/RCTIplus.png" group-title="TV NASIONAL",RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWXLEjqZOOO2LT5C_1aBWyMBW7K3X8UaK2r3jmKvNbuXaWpei7VO_9LR1lfKqXhTIvYjciKBzFsa2ENtKRmI5snupnZUB4zdLh-mzhgQwwryclFl-OCE-auGTDPhjOog0Wv36dnGXU1WJTG3T9yT-ZcWj7ddXMMZTLilzzt8rrZd7zLmHd221buxvteyRU/s700/GTV.png",GTV 
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/rcti.png" group-title="TV NASIONAL",RCTI (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Jx-YVU3OoeDhv3FURqDvJbU-BQzEb-ueYO5FXxQvwAaKBqrHNBLTCG_07w9yx4m0qiDKsEIcq48JOXN7B9KBJWcpSN0Cs1sOZ1L1CVlCjxDTNYbmKhYSHyjBh6YMurrgKGVrA8yYObJtAdlOAB89kO33uIohDwoqBxXeyXRgS5i-Q33dabWxitIgquI/s750/RCTI%20Sports.png" group-title="TV NASIONAL",RCTI Sports
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/gtv.png" group-title="TV NASIONAL",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+🔷══════════════════════════════════════════════════════════════════ [TV CADANGAN] ══════════════════════════════════════════════════════════════════🔷
 
 
 
