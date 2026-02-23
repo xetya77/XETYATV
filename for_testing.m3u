@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/mnctv.png" group-title="TV NASIONAL",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/inews.png" group-title="TV NASIONAL",iNews
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_T0l_3bIUfn5V9-b_uuHGEjNYpo3WlbFFa5lBcQzS2O5uqbQat5G0sCowtbyJBGrrSkWe2oa1zeLwU_ERHNEZ2Kxt_87NdV5mfs4hoh8QoskVof1W8WzpM9nqCEAGkEV2NyjK_xx0Sihwb1UWvMZl6Awxz9wMXeQp35N-WY5hwmjGKA3rzgdC4I60l3jD/s700/MOONBUG.png" group-title="Channel Anak",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
