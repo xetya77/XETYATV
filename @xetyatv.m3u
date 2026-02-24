@@ -2891,6 +2891,12 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGGEPkFbOq2zNIQS4Imeq4avBxklOVTmQ5p8n3-9o3D-GdIMAwZ_HkeZz&s=10" group-title="TV NASIONAL",SCTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+
 🔷══════════════════════════════════════════════════════════════════ [TV CADANGAN] ══════════════════════════════════════════════════════════════════🔷
 
 
