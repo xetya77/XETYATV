@@ -35,6 +35,12 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_250000=1
 #EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/balikpapantv.png" group-title="SEMUA TV ONLINE",Balikpapan TV
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/balitv.png" group-title="TV NASIONAL",Bali TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
+
+
 🔷════════════════════════════════════════════════════════════ [TV NASIONAL TVRI & DAERAH] ════════════════════════════════════════════════════════════🔷
 
 
@@ -94,12 +100,15 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 🔷════════════════════════════════════════════════════════════ [TRANS GROUP] ════════════════════════════════════════════════════════════🔷
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/transtv.png" group-title="SEMUA TV ONLINE",TRANS TV
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/transtv.png" group-title="TV NASIONAL",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w928110591_b344100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="SEMUA TV ONLINE",Trans 7
-#EXTVLCOPT:http-referrer=https://sevenhub.id/live 
-https://live.eu-north-1a.cf.dmcdn.net/sec2(XfNJ2cUDHC0UIOu6k6xS27oC1YJXAeqxN7id8M3rxSIA3OnePeuugsGJAkOZZFYY1yrO_ep8MFr1sCmAjXrHPFG6c3PvmK8F-476Doh6VSmC_WHw9H4SgRmHXHCi3kzX)/dm/3/x8qckyq/d/live-240.m3u8#cell=lcf-eu-north-1a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="TV NASIONAL",Trans 7 
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w79892327_b344100_sleng.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvDZoQeJYSHEASuX1YA-CU8d7UMzviBDEwg&s" group-title="SEMUA TV ONLINE",Detik TV
 https://video.detik.com/20detik/smil:20detik-live.smil/chunklist_w1557005437_b192000_sleng.m3u8
