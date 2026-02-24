@@ -86,10 +86,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8?app_type=web&userid=lite&
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTINF:-1 group-title="SEMUA TV ONLINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWXLEjqZOOO2LT5C_1aBWyMBW7K3X8UaK2r3jmKvNbuXaWpei7VO_9LR1lfKqXhTIvYjciKBzFsa2ENtKRmI5snupnZUB4zdLh-mzhgQwwryclFl-OCE-auGTDPhjOog0Wv36dnGXU1WJTG3T9yT-ZcWj7ddXMMZTLilzzt8rrZd7zLmHd221buxvteyRU/s700/GTV.png",GTV 
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/mnctv.png" group-title="TV NASIONAL",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/gtv.png",GTV 
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 🔷════════════════════════════════════════════════════════════ [MNC] ════════════════════════════════════════════════════════════🔷
 
 
