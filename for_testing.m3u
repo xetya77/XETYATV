@@ -1,5 +1,34 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeQcZtkagA7UgXKjSbBBw9tt46mKBKGfIheq9lo_slWMZAzEIjkt2wHD0mZiucy4gXXi_ffXn_HI_ADboIq0snxj9bxLFfng-ihx2Sf6bNASANc4e0z83QA7bzJz0Za_wb-PRXP_58hS_JC45pDIuGun8aO2NcqnucyxDqgtUNE-TEXtt5X_dMxzr0TOs/s700/BeinSports6.png" group-title="OLAHRAGA",Bein Sports 6
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156626&extension=ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHq8zp1IzCyfAtmEfwvacJdmy_eZE-JCvzHr5rmUVOgnQhPoTvlkjkz9hYQq5hfrPytF_Iv7_UPttPtIMPyBFenIdmHm_x0mX8SMKU2hRpw4zlQKQwcFrGTn52xBOy8ubzK_RSv7MOKAAQ-lKWDnElJhw7MpPrNvThcfsnfQyZBgZ_bc-ZnZPeuvcQANI/s700/BeinSports7.png" group-title="OLAHRAGA",Bein Sports 7
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156625&extension=ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsVasMt5NgT2K4-ZBHzlbJzzY_8M31IoJQKQD8qUrkWOvb9bMmnwBqlG5HTERVVn7coXRZ9hrkj-yjRNyAtFx0Ma6V36Oqc4_TG0u7tBVnQ58dgeFxrcWJh03O6A5ZFakgh9c8bwSVPjCykz7h6fVH8HWq5-Nv1Rl7GEO2TkYznr-0pt2-VNfBuktMtuU/s700/BeinSports8.png" group-title="OLAHRAGA",Bein Sports 8
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156624&extension=ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6HJbyluly-PpWrctkMU4_VDAaUEaa2bBDTSTwZj6YvkM-KvKN2Vx2rJayZIYCFscfC_MbVFd1lhWeYRY_0HU8SRmtu6w1pwrRFCBJI1lxzXJYYzBMuaVFRb6b2BQOsmY9ro6uaRJ4h_pKOeN5KapXztaHSw63LYobxv1HAx2cU2Os-3n1Oc2vNgFAwq8/s700/BeinSports9.png" group-title="OLAHRAGA",Bein Sports 9
+http://dm.lion-ott.com/play/live.php?mac=00:1A:79:17:20:25&stream=1156623&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/mnctv.png" group-title="TV NASIONAL",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
