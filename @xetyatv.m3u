@@ -161,10 +161,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="KARTUN & ANAK",Mr Bean Live Action (1080p)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZooMoo.id" tvg-name="Zoomoo" tvg-logo="https://mimipipi22.github.io/logo/kids/zoomoo.jpg" group-title="KARTUN & ANAK",ZOO MOO
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="KARTUN & ANAK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm8n0m15dXKFPvkf9SlhZCLlnnWL9ROZAB-z52g9KbwAl8kFquuVEtZm2S2GEazIDantBXNx8mf1DpC25grzUjP8obIsj0i0RHOaQK0t-PlWvbbgmqdDTdqAtOEqIFmYj2PtD5-jfaR4HkOPwzohyHfIbcIzQtB_HIPgm21hi1JBII3lKG8qXQWXWAY0s/s700/KidsTV.png" group-title="KARTUN & ANAK",Kids TV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -192,11 +194,57 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
+#EXTINF:-1 tvg-id="GBBD2300003IK" tvg-logo="https://mimipipi22.github.io/logo/sports/redbulltv.jpg" group-title="OLAHRAGA" channel-id="samsung-GBBD2300003IK"  tvg-chno="4513",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPyPi-6dDg4Y8sZ0QqX95r4FKNZfhvd-vmZyHNEPwFDUY7XtS_9c6ZwIvcCk5mdiKzD1v9e-nTmzY60pCTZ0EML2TwVpK7wR_Canr0XTtKFS1USYc37zNpHm_q0KFw-CK6ZcDBxJrjK_6F8WupuEpL-HrVgMzFH0C0syvRjIxhsbE1UiXHhXyqIpRB4CM/s700/BRI%20Super%20League%202.jpg" group-title="OLAHRAGA",BRI Super League
 https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/11
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjodxGG9zuYzyvYjh_4T_VNxnQp7k_RayvxyH2kPTjFR2pXjCmW2bZS5yjinrBM4VhGQeipBh80ovapjBM6VlqZ4mahViLZy0YmMXsZG9SgdjAVnafvsN14GQrRji_G1bWih8M1DxvxFVjqeMFIzev0m5oah2qVOC2VI3UhLILrAefcahMdv3J6DzGM-3g/s700/MotoGP2026.png" group-title="OLAHRAGA",MotoGP Thailand 2026
 https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/33
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="fishing_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", Fishing Vision 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+
+#EXTINF:-1 tvg-id="TravelXP4k.mv" tvg-name="Travel XP" tvg-logo="https://8upload.com/image/6857bb65966ba/travelxphilay.png" group-title="EDUKASI & DOKUMENTER",Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/1200.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#EXTINF:-1 tvg-id="Discovery Asia.id" tvg-name="Discovery Asia.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirovg8WD0guIZJu2fetCgbuXrmQoqN5pWQwVvwRl-ASlFDoOf4UNQfLTnBYvPSXstMYiYSG0OpYjN_0cPWPnMz1auSSVPbNea3yTNDiP0sIu9W_lxdYaKm_LxRafw1w1lYrhM0VfiZQSPWNd40N3Fgi9f2fgPJM2jwtTTMiZTydJNaTO25jQ1-xpHFpXQ/s700/DiscoveryAsia.png" group-title="EDUKASI & DOKUMENTER",Discovery Asia
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
+#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsKh-zwX6z4LVIj6rvzAytujqWV-Yup9iQMX9Cy31v5mh9vX9vqALFoojCyyDwsfzC_NehyphenhyphenRaA3lMBHw60hFnd_64iOCXGN9lokCkEL7F5XbQI62GWvO4sYhhNGeI2vq1rOzqRtE-SZmRKP6UsOsR54zl1cwqZhQCDNux_-YcCU7LEmdLEyZLSYLP8aOw/s700/LoveNature.png" group-title="EDUKASI & DOKUMENTER",Love Nature
+https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mediampd/LoveNatureHD.mpd
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 group-title="GAYA HIDUP" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAtihXyZH0vxHwDEIW0HtVMQvWg0up-qbExvMDZ7LN8oWuMiLew82l0NuVtLVNmd-V0Gaa8uVLPvpXBGPaEqZ96m1c4cWDFEpFZxWlYY_iek-n0Z8wdX_gi9a_2OapQrf_Fxoe539WTCQZwK-kgNe_ATJttbLbR8nQNucDeVAMgqcbALlJD5lqtMrHdVI/s700/TLC.png", TLC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
+
+#EXTINF:-1 tvg-id="Tastemade.us@US" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="GAYA HIDUP",Tastemade International
+https://amg00047-tastemade-tmintlaus-samsungnz-wve9z.amagi.tv/ts-eu-w1-n2/playlist/amg00047-tastemade-tmintlaus-samsungnz/cb553d1a7b6c678f99d43e6ed2ef41a7da243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c09e0a957f378bbdbe306f2c180680585ee2be5da5edf50f45da3aa9b21b1a882f10e2d45fc8d54aba9ddc0fc8449b7fa4159ac1f48a8043d4809201e46d915ca59c2607fba95dd1a074b8de95673c8f782934713f8482a08e85b81b253938d9ecc2be1f8e7b0b3521f30b15ba0e924e963d8b78a307e59b266b56bfad206a0adeb4686e32b4ede0a1fa393ab067f5b6e8d3391ccbb27cec24b88f5a85d3e366976b6de0f57bdb64e6b994237019d39844d4b0b388eea39e4b8e1f07a69e97104d546a080e8712f7d43d9b61ea71a6ca1c364f0d6a99da0494c8890570554688d60a8f5303ef8fc2c3fe1e2bc6652c5fea4bd04f4a399f63222fb36db1b11458a40a46c53934f05d75a747ffb323bce7f8ed1434b8db8813ab3aa1e54482b852e95e3d5f03a1fb630a161b3383b814785a13f44cead7c5f6644951bc85aad0f41369577747284fe184c07f9489cc2c6766e25b346f791557db44e160d10446173d8b79f7a91a7f9109312784f469bd3be837491de7fc01674ab8a32e259cf2fcd291e134f7/36/640x360_1020800/index.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us@Australia" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="GAYA HIDUP",Tastemade Australia 
+https://tmint-aus-samsungau.amagi.tv/playlist360p.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollective.us@Italy" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="GAYA HIDUP;TV ITALIA",The Pet Collective
+https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+
+
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -876,9 +924,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [TV OLAHRAGA LAINNYA]🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="GBBD2300003IK" tvg-logo="https://mimipipi22.github.io/logo/sports/redbulltv.jpg" group-title="OLAHRAGA" channel-id="samsung-GBBD2300003IK"  tvg-chno="4513",RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport1.jpg" group-title="OLAHRAGA",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -924,13 +969,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 
 #EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="KARTUN & ANAK",Disney Jr.
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="KARTUN & ANAK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm8n0m15dXKFPvkf9SlhZCLlnnWL9ROZAB-z52g9KbwAl8kFquuVEtZm2S2GEazIDantBXNx8mf1DpC25grzUjP8obIsj0i0RHOaQK0t-PlWvbbgmqdDTdqAtOEqIFmYj2PtD5-jfaR4HkOPwzohyHfIbcIzQtB_HIPgm21hi1JBII3lKG8qXQWXWAY0s/s700/KidsTV.png" group-title="KARTUN & ANAK",Kids TV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 
 
@@ -1021,6 +1059,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
+#EXTINF:-1 tvg-id="ZooMoo.id" tvg-name="Zoomoo" tvg-logo="https://mimipipi22.github.io/logo/kids/zoomoo.jpg" group-title="KARTUN & ANAK",ZOO MOO
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
 #EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="KARTUN & ANAK",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
@@ -1084,12 +1127,6 @@ http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e7d4348407bf86d982076fb0ffa654e6:80acc54d3c56ed0770c4f12f91b53b68
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_CHANNEL_HD)/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#EXTINF:-1 tvg-id="Discovery Asia.id" tvg-name="Discovery Asia.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirovg8WD0guIZJu2fetCgbuXrmQoqN5pWQwVvwRl-ASlFDoOf4UNQfLTnBYvPSXstMYiYSG0OpYjN_0cPWPnMz1auSSVPbNea3yTNDiP0sIu9W_lxdYaKm_LxRafw1w1lYrhM0VfiZQSPWNd40N3Fgi9f2fgPJM2jwtTTMiZTydJNaTO25jQ1-xpHFpXQ/s700/DiscoveryAsia.png" group-title="EDUKASI & DOKUMENTER",Discovery Asia
-https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
-
 #EXTINF:-1 group-title="EDUKASI & DOKUMENTER" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJxeyZUgXRaAkpd2s7v9UK6nzNooV0jjT6lmF_9Wt4mskFGxK4Fy_hFVd2DlgX3ULSKjM6ERygX2hqizB5qGVgO6MoqHpqlpRHNoJPT0ZqBkQnDcSVMlOOHc5yNR1w6B_q1O18aFKGAyal0LMchD8hfBb865OILpv5hoa3EFGJI77TBUa4Q-SxynQWAGU/s700/DiscoveryScience.png",Discovery Science
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6a1dfce06caf463d29b91fc890baad1:4ce50c2ee03a4fbec5ddbf57bc8e6c8b
@@ -1100,11 +1137,6 @@ https://zap-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=e4bae4a7baa977c5b1a253adc589b6a7:ed5aa984b371395293b2c2a27125509c
 https://zap-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
-#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsKh-zwX6z4LVIj6rvzAytujqWV-Yup9iQMX9Cy31v5mh9vX9vqALFoojCyyDwsfzC_NehyphenhyphenRaA3lMBHw60hFnd_64iOCXGN9lokCkEL7F5XbQI62GWvO4sYhhNGeI2vq1rOzqRtE-SZmRKP6UsOsR54zl1cwqZhQCDNux_-YcCU7LEmdLEyZLSYLP8aOw/s700/LoveNature.png" group-title="EDUKASI & DOKUMENTER",Love Nature
-https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mediampd/LoveNatureHD.mpd
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_ANIMALPLANET_2025_03_17_15_27_22.png" group-title="EDUKASI & DOKUMENTER",Animal Planet
@@ -1146,13 +1178,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 # ╚██████╔╝██║  ██║   ██║   ██║  ██║    ██║  ██║██║██████╔╝╚██████╔╝██║     
 #  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚═╝     
 🔷══════════════════════════════════════════════════════════════════ [TV GAYA HIDUP] ══════════════════════════════════════════════════════════════════🔷
-
-
-#EXTINF:-1 group-title="GAYA HIDUP" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAtihXyZH0vxHwDEIW0HtVMQvWg0up-qbExvMDZ7LN8oWuMiLew82l0NuVtLVNmd-V0Gaa8uVLPvpXBGPaEqZ96m1c4cWDFEpFZxWlYY_iek-n0Z8wdX_gi9a_2OapQrf_Fxoe539WTCQZwK-kgNe_ATJttbLbR8nQNucDeVAMgqcbALlJD5lqtMrHdVI/s700/TLC.png", TLC
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
-https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGI6WIIg1IouqnBvJB_6K65bcutmkMf5jFjqHOeC_d36lPSbRiHv06kPCRsOOADjV1RyMvNvkxvkJ4qgTStaUfrxBNo3_AHJMHIJSsI7cYcizPH3eS3BtZStEAZdBnpiXGHo7uGScjlJPtB-LI8hcg-wZMwMwisJWRck-yMOi49Rl7KAxhKb8rP7mDfek/s700/BBCLifestyle.png" group-title="GAYA HIDUP",BBC Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
