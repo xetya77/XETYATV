@@ -83,7 +83,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/sctv.png" group-title="TV NASIONAL",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
-
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/moji.png" group-title="TV NASIONAL",MOJI 
@@ -95,6 +94,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67656300005f1fa66f20bfe92705cf33d22b57" group-title="LUAR ANGKASA",SPACE LIVE
+https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/2b4e1630-d2a8-4e0b-a43a-c87000d238e5/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/rtv.png" group-title="TV NASIONAL",RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
