@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,RADIO AR BALI
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/I2BBTjDaZ-4qFlyLFNoM1Xqv9FcdOlcb69SFXnKmYglELId-9OLl49Ng0goXQ6j44g" group-title="RADIO" ,RADIO AR BALI
 https://live.radioarbali.com:8450/radioar
 
 
