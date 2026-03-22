@@ -236,10 +236,14 @@ http://stream.werdimedia.com:8200/;
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/I2BBTjDaZ-4qFlyLFNoM1Xqv9FcdOlcb69SFXnKmYglELId-9OLl49Ng0goXQ6j44g" group-title="RADIO" ,RADIO AR BALI
 https://live.radioarbali.com:8450/radioar
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nsjujqhxfrch.jpg" group-title="RADIO" ,SUARA MAHAKAM
+https://i.klikhost.com/8010/stream
 
+#EXTINF:-1 tvg-logo="https://radio-online.id/assets/image/radio/180/kum-samarinda.jpg" group-title="RADIO" ,KUMALA SAMARINDA
+https://ina.vinhostmedia.com:8000/kumalaradio
 
-
-
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/396/ardan-fm.46d7b4ee.jpg" group-title="RADIO" ,ARDAN FM
+https://stream.rcs.revma.com/ugpyzu9n5k3vv
 
 
 
