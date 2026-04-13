@@ -81,19 +81,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8?app_type=web&userid=lite&
 
 
 🔷════════════════════════════════════════════════════════════ [MNC] ════════════════════════════════════════════════════════════🔷
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHx_skAn6anM8qj6Ahex7AJxWZHtIp0B0_4J35c52cqIUwtXSwv0LqnkwYuG0B83B3LaA0D18Q9qR6j1YVJOTWSeW3TfKeT1yC1chLnKPzu1fwyii-AsTOAKy4WMssIFm19LtZfJVE7gtqsls0PY72HMT2HGghmvnEWOtvYceTMa3V7bMGR3Tzrfcu7o/s700/RCTIplus.png" group-title="SEMUA TV ONLINE",RCTI+
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/mnctv.png" group-title="TV NASIONAL",MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-
-
+#EXTINF:-1 tvg-id="086" tvg-name="adptv-086" tvg-logo="https://i.ibb.co.com/8DjXZMWJ/rcti.png" group-title="MAXSTREAM",RCTI
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+#EXTINF:-1 tvg-id="105" tvg-name="adptv-105" tvg-logo="https://i.ibb.co.com/N2JZS0DB/mnc.png" group-title="MAXSTREAM",MNCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1 tvg-id="064" tvg-name="adptv-064" tvg-logo="https://i.ibb.co.com/wNcY4KNk/gtv.png" group-title="MAXSTREAM",GTV
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 🔷════════════════════════════════════════════════════════════ [MNC] ════════════════════════════════════════════════════════════🔷
