@@ -94,9 +94,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/gtv.png",GTV 
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTINF:-1 tvg-id="064" tvg-name="adptv-064" tvg-logo="https://i.ibb.co.com/wNcY4KNk/gtv.png" group-title="MAXSTREAM",GTV
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 🔷════════════════════════════════════════════════════════════ [MNC] ════════════════════════════════════════════════════════════🔷
 
 
