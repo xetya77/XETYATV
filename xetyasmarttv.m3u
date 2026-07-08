@@ -23,6 +23,9 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_250000=10000-m
 #EXTINF:-1 tvg-id="TVRINasional.go.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvri.png" group-title="SEMUA TV ONLINE",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_250000=10014-mp4a_64000_eng=20003.m3u8
 
+#EXTINF:-1 tvg-id="TVRINasional.go.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvri.png" group-title="SEMUA TV ONLINE",TVRI Nasional (YOUTV)
+https://flv.intechmedia.net/live/ch113.m3u8
+
 #EXTINF:-1 tvg-id="TVRI.id@EastKalimantan" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvrikaltim.png" group-title="SEMUA TV ONLINE",TVRI Kalimantan Timur
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_250000=10008-mp4a_64000=20002.m3u8
 
@@ -31,9 +34,6 @@ https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_250000=10000-mp4a_64
 
 #EXTINF:-1 tvg-id="TVRI.id@Yogyakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="SEMUA TV ONLINE",TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_250000=10005-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/balikpapantv.png" group-title="SEMUA TV ONLINE",Balikpapan TV
-https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/balitv.png" group-title="TV NASIONAL",Bali TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -65,8 +65,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/kompastv.png" group-title="SEMUA TV ONLINE",Kompas TV
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+https://flv.intechmedia.net/live/ch102.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPoxcw6YvJnsYmYCi3ePHb2b1qQ_UmpTXRsov_75Ntw&s" group-title="SEMUA TV ONLINE",VTV
+https://flv.intechmedia.net/live/ch107.m3u8
 🔷════════════════════════════════════════════════════════════ [EMTEK GROUP] ════════════════════════════════════════════════════════════🔷
 
 
@@ -116,9 +118,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w571302847_b1
 🔷════════════════════════════════════════════════════════════ [TRANS GROUP] ════════════════════════════════════════════════════════════🔷
 
 
-
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67656300005f1fa66f20bfe92705cf33d22b57" group-title="SEMUA TV ONLINE",SPACE LIVE
-https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/2b4e1630-d2a8-4e0b-a43a-c87000d238e5/4.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",RTB ANEKA
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
@@ -170,44 +169,44 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8?app_type=web&userid=lite
 
 🔷════════════════════════════════════════════════════════════ [TV NASIONAL & LOKAL INDONESIA LAINNYA] ════════════════════════════════════════════════════════════🔷
 
-#EXTINF:-1 group-title="SEMUA TV ONLINE" ,Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w609553061_b2256000_slen.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="SEMUA TV ONLINE",Metro TV (YOUTV)
+https://flv.intechmedia.net/live/ch101.m3u8
 
-#EXTINF:-1 group-title="SEMUA TV ONLINE" ,Biznet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w439277003_b2256000_slen.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="SEMUA TV ONLINE",Metro TV
-https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w528727893_b628000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="SEMUA TV ONLINE",Metro TV (DensTV)
-http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8?app_type=web&userid=lite&chname=metro-tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="SEMUA TV ONLINE",Metro TV (DENS)
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/magna.png" group-title="SEMUA TV ONLINE",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1781439913_b628000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/magna.png" group-title="SEMUA TV ONLINE",Magna Channel (YOUTV)
+https://flv.intechmedia.net/live/ch111.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/bn.png" group-title="SEMUA TV ONLINE",BN Channel
-http://op-group1-swiftservehd-1.dens.tv/h/h39/02.m3u8?app_type=web&userid=lite&chname=BN-TV
+https://flv.intechmedia.net/live/ch112.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/mdtv.png" group-title="SEMUA TV ONLINE",MDTV
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8?app_type=web&userid=lite&chname=MDTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/garudatv.png" group-title="SEMUA TV ONLINE",Garuda TV
-https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
+https://flv.intechmedia.net/live/ch104.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/ntv.png" group-title="SEMUA TV ONLINE",Nusantara TV
-https://op-group1-swiftservehd-1.dens.tv/h/h37/02.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/ntv.png" group-title="SEMUA TV ONLINE",Nusantara TV (DENS)
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/jagantara.png" group-title="SEMUA TV ONLINE",JAGANTARA
+https://flv.intechmedia.net/live/ch119.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvone.png" group-title="SEMUA TV ONLINE",tvOne
-http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8?app_type=web&userid=lite&chname=tvone
+https://flv.intechmedia.net/live/ch109.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/btv.png" group-title="SEMUA TV ONLINE",BTV
-https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/hvideo-640x360.m3u8
+https://flv.intechmedia.net/live/ch105.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/btv.png" group-title="SEMUA TV ONLINE",BTV (DensTV)
-http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8?app_type=web&userid=lite&chname=BTV
+https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/v0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/beritasatu.png" group-title="SEMUA TV ONLINE",Berita Satu
-https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/hvideo-640x360.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/beritasatu.png" group-title="SEMUA TV ONLINE",Berita Satu (DENS)
+https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/v0/stream.m3u8
 
 #EXTINF:-1 tvg-id="KTV.id@SD" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/ktv.png" group-title="SEMUA TV ONLINE" http-referrer="https://youtv.live/",KTV 
 #EXTVLCOPT:http-referrer=https://youtv.live/
