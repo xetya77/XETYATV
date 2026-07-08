@@ -21,7 +21,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_250000=100
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_250000=10000-mp4a_64000=20001.m3u8
 
 #EXTINF:-1 tvg-id="TVRINasional.go.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvri.png" group-title="SEMUA TV ONLINE",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_500000=10001-mp4a_64000_eng=20003.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_250000=10014-mp4a_64000_eng=20003.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id@EastKalimantan" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvrikaltim.png" group-title="SEMUA TV ONLINE",TVRI Kalimantan Timur
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_250000=10008-mp4a_64000=20002.m3u8
@@ -55,22 +55,17 @@ https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/sctv.png" group-title="SEMUA TV ONLINE",SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/moji.png" group-title="SEMUA TV ONLINE",MOJI 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/moji.png" group-title="SEMUA TV ONLINE",MOJI TV
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8?app_type=web&userid=lite&chname=Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/rtv.png" group-title="SEMUA TV ONLINE",RTV
-https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/kompastv.png" group-title="SEMUA TV ONLINE",Kompas TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/kompastv.png" group-title="SEMUA TV ONLINE",Kompas TV (DensTV)
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8?app_type=web&userid=lite&chname=kompas-tv
 
 🔷════════════════════════════════════════════════════════════ [EMTEK GROUP] ════════════════════════════════════════════════════════════🔷
 
@@ -82,11 +77,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8?app_type=web&userid=lite&
 
 🔷════════════════════════════════════════════════════════════ [MNC] ════════════════════════════════════════════════════════════🔷
 #EXTINF:-1 tvg-id="086" tvg-name="adptv-086" tvg-logo="https://i.ibb.co.com/8DjXZMWJ/rcti.png" group-title="MAXSTREAM",RCTI
-https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
+
 #EXTINF:-1 tvg-id="105" tvg-name="adptv-105" tvg-logo="https://i.ibb.co.com/N2JZS0DB/mnc.png" group-title="MAXSTREAM",MNCTV
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
+
 #EXTINF:-1 tvg-id="064" tvg-name="adptv-064" tvg-logo="https://i.ibb.co.com/wNcY4KNk/gtv.png" group-title="MAXSTREAM",GTV
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 🔷════════════════════════════════════════════════════════════ [MNC] ════════════════════════════════════════════════════════════🔷
 
 
