@@ -26,19 +26,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_250000=10014
 #EXTINF:-1 tvg-id="TVRINasional.go.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvri.png" group-title="SEMUA TV ONLINE",TVRI Nasional (YOUTV)
 https://flv.intechmedia.net/live/ch113.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id@EastKalimantan" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvrikaltim.png" group-title="SEMUA TV ONLINE",TVRI Kalimantan Timur
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_250000=10008-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Bali" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvribali.png" group-title="SEMUA TV ONLINE",TVRI Bali
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_250000=10000-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Yogyakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="SEMUA TV ONLINE",TVRI Yogyakarta
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_250000=10005-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/balitv.png" group-title="TV NASIONAL",Bali TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 
 🔷════════════════════════════════════════════════════════════ [TV NASIONAL TVRI & DAERAH] ════════════════════════════════════════════════════════════🔷
@@ -69,6 +56,11 @@ https://flv.intechmedia.net/live/ch102.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPoxcw6YvJnsYmYCi3ePHb2b1qQ_UmpTXRsov_75Ntw&s" group-title="SEMUA TV ONLINE",VTV
 https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrSxoeiCy0TZQEmoxEulhOpj-Lyus238XGa7B1rTLKR-XU_xH4MQyyWeWIo-B3ODRgAm01ZSDcltLYV92erQLeb-xUqURaJ7gF4AZ1BlCveRRORRNNcIO3NscgnC0mLBv9Qs40bIqr0ZqhFT1yBq5d3zMRzq4462asa0v9lQ90v3H9Pefo4CObNv1Xfls/s700/IndonesianaTV.png" group-title="SEMUA TV ONLINE",Indonesiana TV
+https://tvstreamcast.com/indonesiana.m3u8
+
 🔷════════════════════════════════════════════════════════════ [EMTEK GROUP] ════════════════════════════════════════════════════════════🔷
 
 
@@ -119,55 +111,14 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w571302847_b1
 
 
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",RTB ANEKA
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",RTB GO LIVE
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
-
-
-
-🔷════════════════════════════════════════════════════════════ [DENS TV] ════════════════════════════════════════════════════════════🔷
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="DENS Food Channel.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/dfc.png" group-title="SEMUA TV ONLINE",DENS FOOD CHANNEL
-https://op-group1-densxvisionhd-1.dens.tv/h/h248/02.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjojXch53uEr8LRXODCIUc4JluvHqC0bmPlfaWHmq690bEkxE1Xj-aW8RmwbYHLRTDdTOSM_gpchy-1Jo2axy3COWu7TejPY_Uqfx4mXqBYWAjugRKCURNdcUla_5X-imAM5H2IRm1kIAk00pmqFwf2IEQPmJTdRpFgkQsV5W9GZYLCmbwySfgTAP0xhU4/s700/Densplay.png" group-title="SEMUA TV ONLINE",Dens Play
-https://op-group1-densxvisionhd-1.dens.tv/h/h225/02.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Showbiz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQa-fZ3GWyicB-nkWuBeigWzYXw3hFKktEBliGFPQ_ch0jJR4xPasOlLD6hfY3xCsPLoU7wLHe95YeThIxkJEza0UnilYL_NjU66fe2g2j7f85y3DeDza2msO8Xq_V5S6KXOEil6zdozB1Lkz_d0n4M9w1LPcLqC27KzdlF8_XpDwjwfo4VQ1svbA6LQc/s700/DensShowbiz.png" group-title="SEMUA TV ONLINE",Dens Showbiz
-https://op-group1-densxvisionhd-1.dens.tv/h/h203/02.m3u8
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/dk.png" group-title="SEMUA TV ONLINE",Dens Knowledge
-https://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8?app_type=web&userid=lite&chname=DensKnowledge
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNJWB4-Vnk6YGdZrW8nZZN4C1tZS2PkjTLrf2bkClBNg99TuLIfbIqbHdxMsk_S2WgUNrbDLS0AFSZbj4ipQei8_yZWByrJNRMVeAfKiOC5SZ5V5DiYXeuqK-CUpvoeu3OgMl8AMClMfBFXJwooIiIbM9M8yq8NiAxUMrHpaWiDghYJYFdFyHJj1ZnPo/s700/DensLifestyle.png" group-title="SEMUA TV ONLINE",Dens Lifestyle
-https://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
-
-🔷════════════════════════════════════════════════════════════ [DENS TV] ════════════════════════════════════════════════════════════🔷
-
-
-
-
-
-
 
 🔷════════════════════════════════════════════════════════════ [TV NASIONAL & LOKAL INDONESIA LAINNYA] ════════════════════════════════════════════════════════════🔷
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg" group-title="SEMUA TV ONLINE",DAAI TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h16/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/jaktv.png" group-title="SEMUA TV ONLINE",JAKTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h218/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="SEMUA TV ONLINE",Metro TV (YOUTV)
 https://flv.intechmedia.net/live/ch101.m3u8
@@ -212,7 +163,49 @@ https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch118.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjECAm5J39CAu-o7lK4KAvBLP2eAR3YDJ8jBM8X_Iiw6SBZEdPJ0D6BYKeNs5X7uAjDjvHsGDaMgvJssqMXJGNBNgieDM2LB5K9isBS5S5iDm1PrypPev7ClSKMpYuwYmXREu0tLKuEeCTqhn5vaqPJ0pOO4gMFtSGxoJ3J2hv6DCXQ4cV3TrahCt48dUo/s700/OxygenTV.png" group-title="SEMUA TV ONLINE", Oxygen TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8|referer=https://oxygentv.id/&amp;origin=https://oxygentv.id&amp;user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 tvg-id="Elshinta.id@SD" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/elshinta.png" group-title="SEMUA TV ONLINE" ,ELSHINTA
+https://op-flashcon-digdayahd-1.dens.tv/h/h228/01.m3u8
+
+
 🔷════════════════════════════════════════════════════════════ [TV NASIONAL & LOKAL INDONESIA LAINNYA] ════════════════════════════════════════════════════════════🔷
+
+
+
+
+
+
+🔷════════════════════════════════════════════════════════════ [DENS TV] ════════════════════════════════════════════════════════════🔷
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="DENS Food Channel.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/dfc.png" group-title="SEMUA TV ONLINE",DENS FOOD CHANNEL
+https://op-group1-densxvisionhd-1.dens.tv/h/h248/02.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjojXch53uEr8LRXODCIUc4JluvHqC0bmPlfaWHmq690bEkxE1Xj-aW8RmwbYHLRTDdTOSM_gpchy-1Jo2axy3COWu7TejPY_Uqfx4mXqBYWAjugRKCURNdcUla_5X-imAM5H2IRm1kIAk00pmqFwf2IEQPmJTdRpFgkQsV5W9GZYLCmbwySfgTAP0xhU4/s700/Densplay.png" group-title="SEMUA TV ONLINE",Dens Play
+https://op-group1-densxvisionhd-1.dens.tv/h/h225/02.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Showbiz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQa-fZ3GWyicB-nkWuBeigWzYXw3hFKktEBliGFPQ_ch0jJR4xPasOlLD6hfY3xCsPLoU7wLHe95YeThIxkJEza0UnilYL_NjU66fe2g2j7f85y3DeDza2msO8Xq_V5S6KXOEil6zdozB1Lkz_d0n4M9w1LPcLqC27KzdlF8_XpDwjwfo4VQ1svbA6LQc/s700/DensShowbiz.png" group-title="SEMUA TV ONLINE",Dens Showbiz
+https://op-group1-densxvisionhd-1.dens.tv/h/h203/02.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/dk.png" group-title="SEMUA TV ONLINE",Dens Knowledge
+https://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8?app_type=web&userid=lite&chname=DensKnowledge
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNJWB4-Vnk6YGdZrW8nZZN4C1tZS2PkjTLrf2bkClBNg99TuLIfbIqbHdxMsk_S2WgUNrbDLS0AFSZbj4ipQei8_yZWByrJNRMVeAfKiOC5SZ5V5DiYXeuqK-CUpvoeu3OgMl8AMClMfBFXJwooIiIbM9M8yq8NiAxUMrHpaWiDghYJYFdFyHJj1ZnPo/s700/DensLifestyle.png" group-title="SEMUA TV ONLINE",Dens Lifestyle
+https://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
+
+🔷════════════════════════════════════════════════════════════ [DENS TV] ════════════════════════════════════════════════════════════🔷
 
 
 
