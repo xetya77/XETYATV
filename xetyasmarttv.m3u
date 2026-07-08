@@ -112,6 +112,31 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w571302847_b1
 
 
 
+
+🔷════════════════════════════════════════════════════════════ [MAX GROUP] ════════════════════════════════════════════════════════════🔷
+
+#EXTINF:-1 tvg-id="MAXReels.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK0a80bu433_Ww4u1zeoQDm2PZYn69uoeKrZO2GxaGyO7zxwYLlwbrEnaZrsMRALjLkZBgkBypsHfBeCp_w4edNX8J0zRB_Pit3lCMAwcXad78G8fZte1UDSuIc2ARj-N765MEgiOx6cZoS0E1t63xfNFragaUbkoGY-z_erenO9otffSaThJKnarUTHk/s700/MaxReels.png" group-title="Max Group",Max Reels
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="MAXKids.id@SD" group-title="Max Group" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrRhC4mViYyqJ8L0Qn66qoKegVeXN48AS94bgGzsbXUBx_5SKYY2uO9QH46ml1blZm-rUYEmJ8Da7PxeLAQ5Rmfv98WK9YK3De0acFF3GgZYvzdHH6r8FhIW6rcIDXf5yM15jZLwHW27V51K5eZtAN35wh2_X4lTOTUFE4JMP2XWOZI1u8RH_BZ-MpZzY/s700/MaxKids.jpg",Max Kids
+https://cdnbal1.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="MAXEats.id@SD" group-title="Max Group" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm8gQ-li7QgYM8SyTGHEqaR9zshakFdSAiqZ6CT-qsgWe8QaHbYqBTh4BemzeKhGkpUT2GPfglgqchnrJLnAStTCMH2NbN3JIdNj4_6ZbbZxbk8EHGm0rk6l_Iydd_leN8rH69O-3rZBJ7vJ1Lc8dyGbO9QE5PYPtjYp9G6zHjovyK3NuEEuxFab4VkkU/s700/MaxEats.png",Max Eats
+https://cdnbal1.indihometv.com/atm/DASH/maxeats/maxeats-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="MAXStreak.id@SD" group-title="Max Group" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpp4HJvMo4sqI0P2XeVyV7-hHkI-lAmZyQ-BG_g5Z4AVkKVBHUycBscqFqqAWOJAzQ_JmPTjcQ8Mi8bH4Yqw3Fzpz2dtG_bGe_2C5gmXpQjW3WpR_J1aWOX1frbY5euUUdbJgX2HGjw7Z0QpJXC8AkyAMiWWSlumzOSgGOmPV0S3klcAUd1MdDpndsGWU/s700/MaxStreak.png",Max Streak
+https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="MAXSports.id@SD" group-title="Max Group"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZnY419xIP_5KZFlUbt0i6LJpNQoKYmeyx7iLgnDF-D767qVtpw0207VNV9uQDYFjNYJEuJBp0DgDjMi9L7Gt5AuFUvuFWz725kXkln39914ov2inDuXQbSy24bE-xjqerKJPmbSu0HNlY50exWuByciCP7PFr4WKghobEHvpl-uzTnT1_BFTUy4Tz2wE/s700/MaxSports.png",Max Sports
+https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
+
+🔷════════════════════════════════════════════════════════════ [MAX GROUP] ════════════════════════════════════════════════════════════🔷
+
+
+
+
+
+
 🔷════════════════════════════════════════════════════════════ [TV NASIONAL & LOKAL INDONESIA LAINNYA] ════════════════════════════════════════════════════════════🔷
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg" group-title="SEMUA TV ONLINE",DAAI TV
@@ -180,30 +205,38 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h228/01.m3u8
 
 🔷════════════════════════════════════════════════════════════ [DENS TV] ════════════════════════════════════════════════════════════🔷
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="DENS Food Channel.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/dfc.png" group-title="SEMUA TV ONLINE",DENS FOOD CHANNEL
-https://op-group1-densxvisionhd-1.dens.tv/h/h248/02.m3u8
+#EXTINF:-1 tvg-id="DensPlay.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjojXch53uEr8LRXODCIUc4JluvHqC0bmPlfaWHmq690bEkxE1Xj-aW8RmwbYHLRTDdTOSM_gpchy-1Jo2axy3COWu7TejPY_Uqfx4mXqBYWAjugRKCURNdcUla_5X-imAM5H2IRm1kIAk00pmqFwf2IEQPmJTdRpFgkQsV5W9GZYLCmbwySfgTAP0xhU4/s700/Densplay.png" group-title="DENS GRUP",Dens Play
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjojXch53uEr8LRXODCIUc4JluvHqC0bmPlfaWHmq690bEkxE1Xj-aW8RmwbYHLRTDdTOSM_gpchy-1Jo2axy3COWu7TejPY_Uqfx4mXqBYWAjugRKCURNdcUla_5X-imAM5H2IRm1kIAk00pmqFwf2IEQPmJTdRpFgkQsV5W9GZYLCmbwySfgTAP0xhU4/s700/Densplay.png" group-title="SEMUA TV ONLINE",Dens Play
-https://op-group1-densxvisionhd-1.dens.tv/h/h225/02.m3u8
+#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHtEpw4BcqR4K9WVIkEFAt7NZ1ZHREbZ6bAt8ly6zYNsFp7wMULpQ6SfH8y8LEEzFfga2RZp1QlQoTyF9-sH31QQOzJ9KL6L__ZYigvaWLjxbCRuABp7Q8C3qWXMzTEJaV0Zs-TyCOMKO6CUSQrJbQnnJUOJL9xB0lnNKZCRF6kXmgLBIlT3x1_Zt567Y/s700/Densfood.png" group-title="DENS GRUP",Densfood
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=lite&chname=DensFood_Channel
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Showbiz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQa-fZ3GWyicB-nkWuBeigWzYXw3hFKktEBliGFPQ_ch0jJR4xPasOlLD6hfY3xCsPLoU7wLHe95YeThIxkJEza0UnilYL_NjU66fe2g2j7f85y3DeDza2msO8Xq_V5S6KXOEil6zdozB1Lkz_d0n4M9w1LPcLqC27KzdlF8_XpDwjwfo4VQ1svbA6LQc/s700/DensShowbiz.png" group-title="SEMUA TV ONLINE",Dens Showbiz
-https://op-group1-densxvisionhd-1.dens.tv/h/h203/02.m3u8
+#EXTINF:-1 tvg-id="DensLearningKnowledge.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7afaggzXsFpbtEW04FfOee77dBYDDPmM74H3IBm1MdxVewBJUsl8xqAPSrlMoyRj3RF1LsyngWgQJFE58YQdKLvZFISjKzhUpJh9D5K3Cy8PGh3CMe0VN6i9zgOwyvBHdWb93MZ5mKRs042E_WzCAs0uGK619GcwjuJ2m4VUyQX-Rj-UPGWiNeveZy0Y/s700/DensKnowledge.png" group-title="DENS GRUP",Dens Knowledge
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge
 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/dk.png" group-title="SEMUA TV ONLINE",Dens Knowledge
-https://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8?app_type=web&userid=lite&chname=DensKnowledge
+#EXTINF:-1 tvg-id="DensShowBiz.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQa-fZ3GWyicB-nkWuBeigWzYXw3hFKktEBliGFPQ_ch0jJR4xPasOlLD6hfY3xCsPLoU7wLHe95YeThIxkJEza0UnilYL_NjU66fe2g2j7f85y3DeDza2msO8Xq_V5S6KXOEil6zdozB1Lkz_d0n4M9w1LPcLqC27KzdlF8_XpDwjwfo4VQ1svbA6LQc/s700/DensShowbiz.png" group-title="DENS GRUP",Dens Showbiz
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lite&chname=DensShowBiz
 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNJWB4-Vnk6YGdZrW8nZZN4C1tZS2PkjTLrf2bkClBNg99TuLIfbIqbHdxMsk_S2WgUNrbDLS0AFSZbj4ipQei8_yZWByrJNRMVeAfKiOC5SZ5V5DiYXeuqK-CUpvoeu3OgMl8AMClMfBFXJwooIiIbM9M8yq8NiAxUMrHpaWiDghYJYFdFyHJj1ZnPo/s700/DensLifestyle.png" group-title="SEMUA TV ONLINE",Dens Lifestyle
-https://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
+#EXTINF:-1 tvg-id="DensLifeStyle.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNJWB4-Vnk6YGdZrW8nZZN4C1tZS2PkjTLrf2bkClBNg99TuLIfbIqbHdxMsk_S2WgUNrbDLS0AFSZbj4ipQei8_yZWByrJNRMVeAfKiOC5SZ5V5DiYXeuqK-CUpvoeu3OgMl8AMClMfBFXJwooIiIbM9M8yq8NiAxUMrHpaWiDghYJYFdFyHJj1ZnPo/s700/DensLifestyle.png" group-title="DENS GRUP",Dens Lifestyle
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="🟠GAYA HIDUP", First Lifestyle 
+https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
+
 
 🔷════════════════════════════════════════════════════════════ [DENS TV] ════════════════════════════════════════════════════════════🔷
 
