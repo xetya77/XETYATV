@@ -89,6 +89,9 @@ https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707
 🔷════════════════════════════════════════════════════════════ [TRANS GROUP] ════════════════════════════════════════════════════════════🔷
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/transtv.png" group-title="TV NASIONAL",Trans TV
+http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/transtv.png" group-title="TV NASIONAL",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w928110591_b344100_sleng.m3u8
