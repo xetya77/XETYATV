@@ -1713,40 +1713,133 @@ https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 
 #AUTO_UPDATE_START
 #EXTINF:-1,Shannxi Satellite TV
-http://stream.snrtv.com/sxbc-star-gotxK7.m3u8
+http://stream.snrtv.com/sxbc-star-cfkDFG.m3u8
+
+#EXTINF:-1,Hunan TV Kids
+https://phonealihd.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9NTIuMTczLjIzNy4zNSZ0ZXJtPTQmbWFjaWQ9ZTZjZWZmYTQtZjBkNy00YmRmLWIyNmQtYjAwNTM2ODE2MjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9mZiZjZG5leF9pZD1hbF9waG9uZTQmZXM9MTc4NDQ1NDg1MiZ1dWlkPTFmZDM3YWU3NTczYTNmZGI3ZTc0MWFjYjAwODQ3OTUwLTM0YWRlZDIzJnM9M2ZlZTJlNWM5M2Q1MWNlMTljODIzNDgyN2RmMzAzNWImdWlkPSZuZHY9cGNfd2ViLWltZ290di1wY2g1LTEuMi4zJnY9MiZhcz0wJl9jYXJDb2RlPTA,/JYKTMPP360.m3u8?sftc=v6.8.16ds0_vtp2&ftc=webP1
 
 #EXTINF:-1,Fujian Comprehensive CH
-https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=ac9fc3b51784304430
+https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=3f3e3a311784335214
 
 #EXTINF:-1,Fujian News TV
-https://live1-fuyun.fjtv.net/xwpd/hd/live.m3u8?_upt=601daf041784304875
+https://live1-fuyun.fjtv.net/xwpd/hd/live.m3u8?_upt=ef5c61021784335299
 
 #EXTINF:-1,Fujian Travel TV
-https://live1-fuyun.fjtv.net/dspd/hd/live.m3u8?_upt=2b984e8c1784304890
+https://live1-fuyun.fjtv.net/dspd/hd/live.m3u8?_upt=d7bb423f1784335315
 
 #EXTINF:-1,Fujian Kids TV
-https://live2-fuyun.fjtv.net/child/hd/live.m3u8?_upt=2af4817f1784304937
+https://live2-fuyun.fjtv.net/child/hd/live.m3u8?_upt=279583121784335362
 
 #EXTINF:-1,Fujian Straits TV
-https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=648132ff1784304953
+https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=4b2c3eb41784335377
 
 #EXTINF:-1,Shannxi Urban Youth TV
-http://stream.snrtv.com/sxbc-2-wyBUV8.m3u8
+http://stream.snrtv.com/sxbc-2-BDFLNO.m3u8
 
 #EXTINF:-1,Shannxi News TV
-http://stream.snrtv.com/sxbc-1-fqtzEY.m3u8
+http://stream.snrtv.com/sxbc-1-prL258.m3u8
 
 #EXTINF:-1,Shannxi Silver Age CH
-http://stream.snrtv.com/sxbc-3-fMN017.m3u8
+http://stream.snrtv.com/sxbc-3-elpDY8.m3u8
 
 #EXTINF:-1,Qinqiang Channel
-http://stream.snrtv.com/sxbc-5-cgqBW0.m3u8
+http://stream.snrtv.com/sxbc-5-jABFWZ.m3u8
 
 #EXTINF:-1,Shannxi Sports TV
-http://stream.snrtv.com/sxbc-7-ltAHL5.m3u8
+http://stream.snrtv.com/sxbc-7-beNSZ5.m3u8
 
 #EXTINF:-1,SNRTV Agriculture
-http://stream.snrtv.com/sxbc-nl-aoszB4.m3u8
+http://stream.snrtv.com/sxbc-nl-epuMV2.m3u8
+
+#EXTINF:-1,Ugo Shop TV
+https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=1784325510-0-0-bc7a86e8096ed41f31c345fd6400025d
+
+#EXTINF:-1,Macau TV
+https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+
+#EXTINF:-1,Macau Infomation TV
+https://globallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+
+#EXTINF:-1,Macau Sports TV
+https://globallive.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1,Macau Entertainment TV
+https://globallive.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+
+#EXTINF:-1,Ou Mun-Macau Satéllite
+https://globallive.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+
+#EXTINF:-1,Canal Macau
+https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+
+#EXTINF:-1,Guangdong Satellite TV
+https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=6c20007190c4bb88603bbb6407f095ef-8yoiWxXSsqhxQj%2Bp3JjFMWrfATk6Bw%2BUUISY20PGypZduk6Ew98OG%2BTOCuvgRRH6R246BVXD7sojkMBCIXngW90Q4iRciSwtxpge%2BRhTUb9g4qiyyUfqPwnbpn8TFBr%2F5DbR6qZCodQFqLRG3X5zYXA1oQE4INJUeYbRtV2VNL4Ir7MtvkdYu0pvuI8Wtz2zFYFyVGJdFld8m0egbiMbN0siV1COyTJ6%2FvzeDLdGDgYIj73v0ZyIYIXg5ZzWQp2CC8YFTvqAlgBXytPseU7kfR7hy1WMRUkL3gQk9i8rNFkV4Jh0jkjFL5FeAc96ougk4OxKrKX7uC3O%2FuDABNx0hw%3D%3D
+
+#EXTINF:-1,Great Bay Area TV
+https://tcdn.itouchtv.cn/live/gdgj.m3u8?t_token=3830021961c48b2da8ae00251664ede3-pRug2IE4qIThEWWKYnk0k0msm0nau%2Fr5vb%2B0LltVNIfi2zYEp%2F6z676YiFq5q88OA9%2FtxLkF7P1o2ukhtLFL7EqlOS9oaFJjfLB4KAbi0GgyiLmjHOhZ%2BALuEtolcgRA70XUUd3NG8RhlyB2g2UjtLFQWQnawl7Zud0ZBVChNEfvgNddnajaLWoxuRkJDWrexh1UHhvNbeugMFV%2F%2B8odCwrUz6aiEo5R%2BGc672cPiA3%2BQFJH%2FVZ%2BrgKv9qCnh5vw0ITQu%2BD%2BsSDc9tcbZd7eBF6doQ036GtUGyD5%2BMZJmWWeBl%2BXpsL0boTBvZIIpobRN8LWeukvU3U4KwnnRwcymQ%3D%3D
+
+#EXTINF:-1,Lingnan Opera TV
+https://tcdn.itouchtv.cn/live/lnxq.m3u8?t_token=9a329ff502247da3fcf360fd09f03965-URY2x0qfgf2vaRBqT72OwY2sGvMITfzCnrZFlPaTNhqWWUZLKNky7wrv9SlUi3Ty6IPYqK5aBGDilwAfA2DBrIQ9EUKXM8oYpt6HMbfHb4tk42pWT%2B6IaJX%2FzhKvmKQjG9iXNLkb9RtKTUBcFSZCmz%2FMY1y%2BsWWwTdaZ%2Fj7L1YyQtIRzyHvhQJgvyYWLt24TJJa4IdXl8WvOROtZQsqdGuz%2BYmM%2BdNo2X5SiFTWJkJdFjcGI2mMSz9rGw6badAdJvAPjwqRl04mUss1nqUaCGTdsitBnkf%2FlQdiPwT9sneEIhTNmpZzKqK6IOokP4Liq%2Fm0FavaJcQbLOqtO6f6ZUg%3D%3D
+
+#EXTINF:-1,Guangdong Pearl River TV
+https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=cc8934e8816d9f284cd048ea8b1e4e24-3A49SBYlcWWVJmC9C2s%2B3gV9KwWvG8X0YHlxAPM9nTwc8e2sdUrwSiG0tH8mOBIdiSI%2BRmG9EJeaoNJ%2BNUN9L2QoFu2YZ4cAEeXzEMw37uZg2SXcxNOoadKhu7KWgO7yodPimF228VMwOrZGTdHA%2FEAo9SMmDWbr2Thdo4QRdwxYHdZRGlupqyD%2BAFqeP3vWlS0M4z4lX%2FXHalUTNiw1m7TxdeZmcVN6OceigC6YWbLWLfxdymRT0J%2Fe2kjXJ8QnwVIafUTM95fpK1aX9ez6lU1qDTA%2FEgjWAmdYSSjwo40g%2BllZw3rEFHSHL9SVgingLc14qBP6wjjBifeerWVRGg%3D%3D
+
+#EXTINF:-1,Guangdong Film TV
+https://tcdn.itouchtv.cn/live/gdys.m3u8?t_token=0b175dfc1c52c3e4ddac4b927bd728bb-QiLgDu6jirM2gKJSUpoMYoTi6hD0eFfCUJPDz89NP6N2SKDEZ8KWaGzq203kZa5rCKwJ2gh%2FTPl9cn8iuXnCRPhWHpT9krW3by6Xspx01Asp03gXxjqaxCRUjzVOK1fTAlQGGQQsuO9%2FPonhOHmb0%2BucGAYduIHP%2BdCBBhINifi1La9Gh4ysxfAu1b1FMBOYt1kyDXlZWrnwD4sTWPz18O7t2aoSnT8NSJZfEgIyJfqYVr%2BtHUivCgCfEyKDXV4Ev1O0CD8WaV3b41AbfNDKnRkYb2L0wTjc9Mg8HFxU20xK6PFXOfO0nIZgahk%2B1SoyANBGVgkaWtApad2DF2F6og%3D%3D
+
+#EXTINF:-1,Guangdong Mobile TV
+https://tcdn.itouchtv.cn/live/ydpd.m3u8?t_token=df31504702bd0d007da3265a5c9dc9f1-VnrHONGiIw1PD6YtVHO8rkopHPQZ7duJo5tpbiQpNw8aZOBTU%2FXSzsKJGaxU9WooC7DmACqnd5ivYMloCqCvl1kRpMS5oTpcUO6qH%2Bsd5c3BVtCHVlcS7BwHGNef4Ou2l2j9Rg4PCXoy4jLrnWCIUOcxgIOqjHKZBIvRc3bThqor6T98%2F7ObSklL5Pu9%2FIQHi3ApV3uT9ZlFeyoLsw4GVjvP8yeOdUsoC0jb%2FRfgyDUcZ6qe8JDlG2DM2BKa95R4rNbFqKyysKM1zI2S6A0Yw4hiWCfeUNd%2BwNRm886hEJw%3D
+
+#EXTINF:-1,GRTN Life TV
+https://tcdn.itouchtv.cn/live/life.m3u8?t_token=645dc3c512b6b87167ea96b01d102336-9Yyj%2Bfpe4SGPOfzXsJFHGMbEonkxmEktjhJyCR7PlgWdKrcA3YfBXHnX2RHxUOakc7AfqykawSHmoVG7S1nkhuPTIsBHy6u8HZP16wxqB%2BhU3SOyQVQ0t9T9eaM9ikWh1TXMNicrBg6SxCvtF1GNqE%2FgmlU5Krp3Bi0OzNq%2FYNvfZgg0ZEsmtP2Xm%2BSxZISuTRnAl13p9uceVri%2B%2FXYwSunVj5Lt2UJjC6QrQLJXUp%2F287ACm8N25bWpmUHcca%2Bo%2FupDqe%2Fk9TfFIzbtUA6vtzDZx0Vgjxtj%2BIGBNpXsExnnD2fINJ5OlNI%2F8A1rLNh0eBktMoyelursdVUXfYqQuw%3D%3D
+
+#EXTINF:-1,GRTN News TV
+https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=e32caef46dbfdcbe2e291d3e60e3c8f3-Aq%2F5nXOpYy7Ommuevo%2BquoBIHEb%2FWYMYvo3BLB41qJsgYaBi8CyATosQ14UrD5VRZdxKAXPU2TJNr2QWbNokh4FqT0j%2F4F5kvkP6BAc1BN2HyugxOiPtP%2B%2BMkQT6o0rQX8OtPvZcMxON%2BsBkb21vkKK6MapTLWySRgSDx0s5WccMWQAb7lm4DoYB3TXZLRLPNLn0dwmg96R4DhT1Sk0%2FoX7D1jm0CWlq2P7wGREuTM%2FmTYzm4MLLT9zrGaybbokGzGRqGYDC7X8ZpgtLm2owEJlAKPjiL0I77fAt5W54BBEHLYQqa4qaNBpWRcDJI0fqoYVC%2Bi0x5%2ByS4XtiZnQbsA%3D%3D
+
+#EXTINF:-1,GRTN 4K TV
+https://tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=fca140bbe28949409273647795ff098d-zT1EbSu2L%2FpJQKx4LTNatpFuWKqLhIDyyDEBVVPF6VsXEwFhiF17uNXJp3OwwsQ5V0ryz1WSwJLYI5uQhiBWPQQ7LU7EefhbFWA5kl4qKgYAif4ZM1%2BGc%2Bcf27eqrAmUtsrh9eXPpX%2B9pdsfywEXAa9lTITeboOqZ7ylDLUR%2BV4ZwcV7rxN4a%2Bp0WYIVrHLpn%2Fa%2BCFBcfQPwQiKrdtlO0d%2F%2Bx9AjkEvL8sgiNAOUxxWFwH1sbMbwpZUxtNXPaqoQbSCNW0JnvA%2F7h0L7ce2iUqXQ83ABkn5Z8wWATJ1fJkg%3D
+
+#EXTINF:-1,Guangdong People TV
+https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=212777a7138a330ffcbba74ac1a69aa9-HyVJC5OR1v6axlx%2BlBANzKz%2F8iHl%2BNSG4ORAI1b84Ozs%2F%2FWt2cbHFTiWvIxI0lbxsUqlPb09EcPDYbbaQwhKwJD0L2PxPzBZPO5PrOYyDYjZD2aK3CLzCCre5SUkgLPahd6HgWTIyAQwxMx%2FBU354Yz4b7JzjT2GEGU7hpXqitj%2FuX2ttxXsxIN73%2BkQKZGf%2FOG%2BwcyEXCFa3eEEoKFFG%2BdjjTfQUZe2RfETykvwSAJaY84IO3C7cTvuN8PoAzcnnanvs6JdPTDRHyIbpu33tX9%2FpANVLxn8axYruTn9ZB64FZK1QY5O%2BsZWagewe1BI509H1z1xShDoKj2vb7bz7w%3D%3D
+
+#EXTINF:-1,Guangdong Children TV
+https://tcdn.itouchtv.cn/live/gdse.m3u8?t_token=c60fdd529edef685f4e295affe08738f-d7on38VMOudLxlyexBF%2BVGLUeYt7HyOKps5T%2FMu8HP0YrB41qfDTmNsF1TDZg%2F5owl%2Fn3X27uWLouJdvUIk6LqqhNalVt%2FFINHz6UX9xx%2Bk9xIg9tnIArtYa8K9OjJFK%2F4dq7rw3zF3MmqAQ2wyjQH9UelBJcNBZQU25SemvMLFFgaxijTInH7SZIKixh%2F%2B6u%2Ba7gytWxJv3hzoFbC4CXyqvSktHdj6gMr01piE7%2FiD0d4gU7A6gXQcR9TaADdtqYe21a9JCK3SnOTj8qsvjwBZTBxudK5LzDYn9WrbBaRY%3D
+
+#EXTINF:-1,Guangdong Drama Classic TV
+https://tcdn.itouchtv.cn/live/lizhi.m3u8?t_token=beb2bb25ccca7e59691b3427f53e63dd-IFb7NEtog8ujdnGnXhd1quAordjNSAu%2Bw8ZmNN%2FqYQYnAz36RoSKmX2b0Cza9pCSlcPbjh%2B7S%2BDgKpy4rwwjSSRD%2FbhLurBqyT0F2EcJk6i3chdBFsB761C4yRdFhQ3EzJBqHin6ePuK6sna70MFUJI7T1k8%2FB085HrS7O7qXDTyUlq%2FJHgdvhVYg3IDjQps7qQoIfOMIlXTwbfiKJS1ZZmMQIbylMXAWGM%2BU2kMx5BbxZzaNkKfY880cM9xaeQNVy14dEZvdmYf%2B3C3jbWHJSzWEuIS38PTx1A39F8PpGI6I5VmXAKvSEf5bxG%2BHNWStUFDfyre%2B6GKXt9PDorD1g%3D%3D
+
+#EXTINF:-1,Guangdong Sports TV
+https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=50f025f11a7b897fc4749602ec276c37-11aj1DhFX6SOb3Fm6FTlBnZ1LqEn0uQxSzmxOQaf9w5hQudXt36PpIzwZQipLyxUuPUYN1PX%2BrH5f%2BVwzXnBpq6xNJ%2BLbkMWyD1BqGPUkzHthTiHhJxy9nSeZT4JNM6fdnB8aiJGQHGNv8gwk1ioA9fxuZmIhw4SJTztlLbDWaAVr5gmanJqGBXSf29whKKw6FUxU62lK0A%2Fdc1OT791x9OMwmWgXjAVSyQn%2BFeM0pke01MYYiTEuh1Mb7UM38yV1aQDScDvaetMaqQMSAdA8c98U84b8zLnbKLlV4llR%2Fokf5%2FFYGDNI9w2QIDGO%2BAAKI3byHKqsNl2ClNanLA8bg%3D%3D
+
+#EXTINF:-1,Guangdong Shopping TV
+https://tcdn.itouchtv.cn/live/nfgw.m3u8?t_token=6a5d4d5a08ea163502e2cb9954391ddf-yWDqhi64trlHAlzPDNN8LC5j6tfdWf1RUsTNYtaBxlE2BBJGf2D%2FA6BP4bq1hnPqXjDd1R6SZcmEhvey0F4%2BPr8pYoQNOKKEa7g8pevJ72nPySdKiGgSWr5HrDu8g5ZFJsidLcEU1qo9j9U89My%2FZiC%2FQnMVWrgQJ5M7TE8rOqgl2n4vYDwj2TIpCOggkEf4uifjq%2FbqHmMy9fSbSTMFxg6L8PBiXPNHTKZ0gYw3jJvgrmDfJvxBnqWtOCeB34DZuvA9I%2BuxofYdTA9MtwCXUMo94H8%2BmXgUlfYkGmgB17k%3D
+
+#EXTINF:-1,Henan Satellite TV
+https://tfxn1gr3uomttgr31hcj18yzdnct1fi48ca5rpaz8g7d1cios4c3qpbzge7y.100ycdn.com/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1adc22a00e5c98929780f934000b7eb6&wsTime=1784340191&wsSession=2a25eac9655f60bdf6ffa3ec-178432585777853&wsIPSercert=8350b89596adbf6b9b7c09604c36c8f8&wsBindIP=2&wsserid=1168243343870168317
+
+#EXTINF:-1,Chenzhou TV
+https://live.ngcz.tv/aczxw/20221028/live.m3u8?auth_key=1784333080-0-0-8ca7d16d58817faf0685861f03584497
+
+#EXTINF:-1,Nanchang News TV
+https://live.nctv.net.cn/live/nctv1.m3u8?txSecret=ee26613635670a38119e6d589cab2a05&txTime=6A5AC3A5
+
+#EXTINF:-1,Harbin News TV
+https://stream.hrbtv.net/xwzh/sd/live.m3u8
+
+#EXTINF:-1,Harbin Life TV
+https://stream.hrbtv.net/shpd/sd/live.m3u8
+
+#EXTINF:-1,Harbin Movie TV
+https://stream.hrbtv.net/yspd/sd/live.m3u8
+
+#EXTINF:-1,Huaian Public TV
+https://35696-live.hlsplay.aodianyun.com/tv_radio_35696/tv_channel_808.m3u8?auth_key=1784412752-0-0-a5b34cbd9961f6ee9b34d44fb65400ab&extra_key=0-5arjIf-JytBZKa7KiojBA8IwIadk-CJ9wv5VOVdqQMNqrD97LfvsAYw7dPgDE-gWv5vpVnC76aE1hqFkTA5lkH4fLtCob42XEPIAwywuXK_16BXAxXgYPGCXk6FdNFZU3VtuU57ZBg0jq-CR-ULYGX9HUtRAT2fASlqNNRNxg
+
+#EXTINF:-1,ZHEJIANG INTERNATIONAL TV
+https://zwebl02.cztv.com/live/channel10720Pnew.m3u8?auth_key=1784326560-0b309126a60e45aaaa78a105944f31cc-0-b1f82fe9565dc4763857686f2a6229aa
+
+#EXTINF:-1,GUANGXI TV
+https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b-1.m3u8
 
 #AUTO_UPDATE_END
 
