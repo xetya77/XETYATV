@@ -62,7 +62,22 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ZVYJ5VbrTjjUqVM7x2xILxhpmYeFv076zJJMKY10b3fy_DhXnOk85fFNz-PNYiyHhYmdRu1_a0VrXQOsraN1yzTKlz-4ILemXla8Tac7yP2ohgnZc1PisPl3gUlotpKLy9znTDwwPRmOM6l93ITUsKPJGwN3XBz7SJGt4IORa-6u-vABkmRk4Mzq8Qk/s700/BiznetKids.png" group-title="SEMUA TV ONLINE",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 
+#EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkjJQwE5jnI7lw_eKYLTgsnrx-Z2eqlmcTjKN0JXS8Y3hGJlErDgi6YoPimYFOhaI8dZY0PyeTfYS15SAUHcfCT-Pt4MRFP6Ccf0WKPi0cWqcaiPAJFbPmWrvaTZ83gqpbN1XG4qiqV3Szt-O27na-_h78voB8njGs5xsISPxOvVR6mSyQ1HRIr8D893s/s700/BAdventure.png" group-title="SEMUA TV ONLINE",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jWGMdq85wZsacNqIpEg0dYkXebmNp_ynKhxRjZYNdqQpH4Eq8ZZyX3AaNr98CprUhufgaqJw___l0WStdiehw-X_Noz0pvkc13zpnuWfiKR6lnaw6CY3cIeYU7d1P4C2sfTHZ6YeMdkJoDUIr-rLlt9sOdrGOYZN2k4rIsH4Naqa6sgNewqtc33dIQY/s700/BKids.png" group-title="SEMUA TV ONLINE",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.mana2" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="SEMUA TV ONLINE",The Indonesia Channel
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=nbyNcn6zyXaUxFnXPYkdhw
+
+#EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="SEMUA TV ONLINE",Samarinda TV
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 
 
 
@@ -88,7 +103,7 @@ https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/transtv.png" group-title="SEMUA TV ONLINE",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w928110591_b344100_sleng.m3u8
+http://gvisiontv.channell.my.id/ch/id/transtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="SEMUA TV ONLINE",Trans 7 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -753,6 +768,40 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w649453452_b584000.m3u8
 
 🔷════════════════════════════════════════════════════════════ [TV VIETNAM] ════════════════════════════════════════════════════════════🔷
 
+
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/938/iswara-jakarta.3c482bf1.jpg" group-title="SEMUA RADIO" ,ISWARA JAKARTA
+https://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cpu44hap66fa.jpg" group-title="SEMUA RADIO" ,GENTA BALI
+http://stream.werdimedia.com:8200/;
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1NcVs0K80YC8tRfsJFEdj-Km2hbN8zQVnrA&s" group-title="SEMUA RADIO" ,DELTA FM
+https://stream.rcs.revma.com/k02rmq48kxcwv
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/I2BBTjDaZ-4qFlyLFNoM1Xqv9FcdOlcb69SFXnKmYglELId-9OLl49Ng0goXQ6j44g" group-title="SEMUA RADIO" ,AR BALI
+https://live.radioarbali.com:8450/radioar
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ7TXax5TuaQj82_aQ_geqhioa2dWf9YqNug&s" group-title="SEMUA RADIO" ,HARDROCK
+https://n03.radiojar.com/7csmg90fuqruv.mp3?1673348819=&rj-ttl=5&rj-tok=AAABnR566LMA2s3lMxXMEMuryA
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nsjujqhxfrch.jpg" group-title="SEMUA RADIO" ,SUARA MAHAKAM
+https://i.klikhost.com/8010/stream
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/NCUHGk4XRJ.png" group-title="SEMUA RADIO" ,RRI PRO 3
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/94TuYcUwex.png" group-title="SEMUA RADIO" ,RRI PRO 1 JAKARTA
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/396/ardan-fm.46d7b4ee.jpg" group-title="SEMUA RADIO" ,ARDAN FM
+https://stream.rcs.revma.com/ugpyzu9n5k3vv
+
+#EXTINF:-1 tvg-logo="https://radio-online.id/assets/image/radio/180/kum-samarinda.jpg" group-title="SEMUA RADIO" ,KUMALA SAMARINDA
+https://ina.vinhostmedia.com:8000/kumalaradio
+
+#EXTINF:-1 tvg-logo="https://www.pramborsfm.com/_ipx/q_100/img/logo_circle.png" group-title="SEMUA RADIO" ,PRAMBORS
+https://stream.rcs.revma.com/h77wwp48kxcwv
 
 
 
