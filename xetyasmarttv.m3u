@@ -1,19 +1,4 @@
 #EXTM3U
-
-
-
-
-╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│ Tidak Boleh Diperjualbelikan, Apalagi Dibagikan Sembarangan, Kami Tidak Mengambil Keuntungan Dari Playlist Ini │
-╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-
-
-
-
-
-
-🔷════════════════════════════════════════════════════════════ [TV NASIONAL TVRI & DAERAH] ════════════════════════════════════════════════════════════🔷
-
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvriworld.png" group-title="SEMUA TV ONLINE",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_250000=10000-mp4a_64000=20001.m3u8
 
@@ -22,18 +7,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_500000=10001
 
 #EXTINF:-1 tvg-id="TVRINasional.go.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvri.png" group-title="SEMUA TV ONLINE",TVRI Nasional (YOUTV)
 https://flv.intechmedia.net/live/ch113.m3u8
-
-
-
-🔷════════════════════════════════════════════════════════════ [TV NASIONAL TVRI & DAERAH] ════════════════════════════════════════════════════════════🔷
-
-
-
-
-
-
-
-🔷════════════════════════════════════════════════════════════ [EMTEK GROUP] ════════════════════════════════════════════════════════════🔷
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/indosiar.png" group-title="SEMUA TV ONLINE",Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
@@ -58,10 +31,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrSxoeiCy0TZQEmoxEulhOpj-Lyus238XGa7B1rTLKR-XU_xH4MQyyWeWIo-B3ODRgAm01ZSDcltLYV92erQLeb-xUqURaJ7gF4AZ1BlCveRRORRNNcIO3NscgnC0mLBv9Qs40bIqr0ZqhFT1yBq5d3zMRzq4462asa0v9lQ90v3H9Pefo4CObNv1Xfls/s700/IndonesianaTV.png" group-title="SEMUA TV ONLINE",Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
 
-🔷════════════════════════════════════════════════════════════ [EMTEK GROUP] ════════════════════════════════════════════════════════════🔷
-
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ZVYJ5VbrTjjUqVM7x2xILxhpmYeFv076zJJMKY10b3fy_DhXnOk85fFNz-PNYiyHhYmdRu1_a0VrXQOsraN1yzTKlz-4ILemXla8Tac7yP2ohgnZc1PisPl3gUlotpKLy9znTDwwPRmOM6l93ITUsKPJGwN3XBz7SJGt4IORa-6u-vABkmRk4Mzq8Qk/s700/BiznetKids.png" group-title="SEMUA TV ONLINE",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 
@@ -79,9 +48,6 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_
 #EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="SEMUA TV ONLINE",Samarinda TV
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 
-
-
-🔷════════════════════════════════════════════════════════════ [MNC] ════════════════════════════════════════════════════════════🔷
 #EXTINF:-1 tvg-id="086" tvg-name="adptv-086" tvg-logo="https://i.ibb.co.com/8DjXZMWJ/rcti.png" group-title="SEMUA TV ONLINE",RCTI
 https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
@@ -89,17 +55,7 @@ https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-327770703000000
 https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="064" tvg-name="adptv-064" tvg-logo="https://i.ibb.co.com/wNcY4KNk/gtv.png" group-title="SEMUA TV ONLINE",GTV
-https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
-🔷════════════════════════════════════════════════════════════ [MNC] ════════════════════════════════════════════════════════════🔷
-
-
-
-
-
-
-
-🔷════════════════════════════════════════════════════════════ [TRANS GROUP] ════════════════════════════════════════════════════════════🔷
-
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/transtv.png" group-title="SEMUA TV ONLINE",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
@@ -108,7 +64,6 @@ http://gvisiontv.channell.my.id/ch/id/transtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="SEMUA TV ONLINE",Trans 7 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://github.com/xetya/xetiativi/raw/refs/heads/main/video/alert/siaran-gangguan.mp4
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvDZoQeJYSHEASuX1YA-CU8d7UMzviBDEwg&s" group-title="SEMUA TV ONLINE",Detik TV
 https://video.detik.com/20detik/smil:20detik-live.smil/chunklist_w1557005437_b192000_sleng.m3u8
