@@ -7,11 +7,13 @@ Dijalankan otomatis oleh .github/workflows/update-trans7.yml
 
 import re
 import sys
+from pathlib import Path
 from playwright.sync_api import sync_playwright
 
 TARGET_PAGE = "https://sevenhub.id/live"
 PLAYLIST_PATH = "xetyasmarttv.m3u"
 CHANNEL_MARK = "Trans 7"
+DEBUG_DIR = Path("debug")
 
 # Pola ketat: ID video Dailymotion (x8qckyq) biasanya tetap, yang berubah cuma token sec2(...)
 STRICT_PATTERN = re.compile(
@@ -20,14 +22,41 @@ STRICT_PATTERN = re.compile(
 # Pola longgar buat diagnostik kalau pola ketat tidak cocok lagi (mis. ID video berubah)
 LOOSE_PATTERN = re.compile(r"https://[^\s\"']*\.cf\.dmcdn\.net/[^\s\"']*\.m3u8[^\s\"']*")
 
+UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
+
+
+def dump_debug(page, note: str) -> None:
+    DEBUG_DIR.mkdir(exist_ok=True)
+    try:
+        page.screenshot(path=str(DEBUG_DIR / "screenshot.png"), full_page=True)
+    except Exception as e:
+        print(f"Gagal ambil screenshot: {e}")
+    try:
+        (DEBUG_DIR / "page.html").write_text(page.content(), encoding="utf-8")
+    except Exception as e:
+        print(f"Gagal simpan HTML: {e}")
+    print(note)
+
 
 def sniff_m3u8() -> str:
     strict_hits: list[str] = []
     loose_hits: list[str] = []
+    bad_responses: list[str] = []
 
     with sync_playwright() as p:
         browser = p.chromium.launch()
-        page = browser.new_page()
+        # locale/timezone id-ID -- bukan jaminan lolos geo-block berbasis IP,
+        # tapi mengurangi kemungkinan diblokir oleh deteksi client-side sederhana
+        context = browser.new_context(
+            user_agent=UA,
+            locale="id-ID",
+            timezone_id="Asia/Jakarta",
+            viewport={"width": 1366, "height": 768},
+        )
+        page = context.new_page()
 
         def on_request(request):
             url = request.url
@@ -38,19 +67,42 @@ def sniff_m3u8() -> str:
                 if url not in loose_hits:
                     loose_hits.append(url)
 
-        page.on("request", on_request)
+        def on_response(response):
+            if response.status >= 400:
+                bad_responses.append(f"{response.status} {response.url}")
 
-        # PENTING: jangan pakai wait_until="networkidle" -- halaman live stream
-        # selalu ada request jalan terus, jadi networkidle tidak akan pernah tercapai.
+        page.on("request", on_request)
+        page.on("response", on_response)
+
+        main_status = None
         try:
-            page.goto(TARGET_PAGE, wait_until="domcontentloaded", timeout=45000)
+            main_response = page.goto(TARGET_PAGE, wait_until="domcontentloaded", timeout=45000)
+            main_status = main_response.status if main_response else None
         except Exception as e:
             print(f"Peringatan saat goto (dilanjutkan): {e}")
 
-        # beri waktu player mulai memutar & memanggil manifest m3u8
+        print(f"Status halaman utama: {main_status}")
+
+        # coba klik video/tombol play kalau ada -- buat kasus autoplay diblokir headless
+        for selector in ["video", "button[aria-label*='play' i]", "[class*='play' i]"]:
+            try:
+                page.click(selector, timeout=3000)
+                print(f"Berhasil klik elemen: {selector}")
+                break
+            except Exception:
+                continue
+
         page.wait_for_timeout(15000)
 
+        if not strict_hits and not loose_hits:
+            dump_debug(page, "Tidak ada m3u8 tertangkap -- menyimpan screenshot & HTML ke debug/ untuk dianalisis.")
+
         browser.close()
+
+    if bad_responses:
+        print("Response HTTP error yang tertangkap (>=400):")
+        for r in bad_responses[:20]:
+            print(f"  - {r}")
 
     if strict_hits:
         preferred = [u for u in strict_hits if "live-480" in u]
@@ -64,7 +116,7 @@ def sniff_m3u8() -> str:
         sys.exit(1)
 
     print("Tidak ada request m3u8 dari cf.dmcdn.net yang tertangkap sama sekali.")
-    print("Kemungkinan: player butuh interaksi klik dulu, ada consent popup, atau IP runner diblokir.")
+    print("Lihat artifact 'debug-sevenhub' pada run ini (screenshot.png + page.html) untuk tahu penyebabnya.")
     sys.exit(1)
 
 
