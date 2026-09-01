@@ -2,7 +2,7 @@ name: Update Trans 7 stream URL
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # tiap 30 menit (jadwal GitHub bisa meleset beberapa menit)
+    - cron: '*/15 * * * *'   # tiap 15 menit (jadwal GitHub bisa meleset beberapa menit)
   workflow_dispatch:          # tombol Run workflow manual di tab Actions
 
 permissions:
@@ -27,6 +27,14 @@ jobs:
 
       - name: Sniff & update URL Trans 7
         run: python scripts/update_trans7.py
+
+      - name: Upload debug artifact (kalau gagal)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-sevenhub
+          path: debug/
+          retention-days: 7
 
       - name: Commit & push jika ada perubahan
         run: |
