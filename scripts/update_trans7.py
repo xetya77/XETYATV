@@ -13,39 +13,59 @@ TARGET_PAGE = "https://sevenhub.id/live"
 PLAYLIST_PATH = "xetyasmarttv.m3u"
 CHANNEL_MARK = "Trans 7"
 
-# ID video Dailymotion (x8qckyq) biasanya tetap, yang berubah cuma token sec2(...)
-URL_PATTERN = re.compile(
+# Pola ketat: ID video Dailymotion (x8qckyq) biasanya tetap, yang berubah cuma token sec2(...)
+STRICT_PATTERN = re.compile(
     r"https://live[.\w-]*\.cf\.dmcdn\.net/sec2\([^)]+\)/dm/3/x8qckyq/d/live-\d+\.m3u8(?:#cell=[\w-]+)?"
 )
+# Pola longgar buat diagnostik kalau pola ketat tidak cocok lagi (mis. ID video berubah)
+LOOSE_PATTERN = re.compile(r"https://[^\s\"']*\.cf\.dmcdn\.net/[^\s\"']*\.m3u8[^\s\"']*")
 
 
 def sniff_m3u8() -> str:
-    found = []
+    strict_hits: list[str] = []
+    loose_hits: list[str] = []
 
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page()
 
         def on_request(request):
-            m = URL_PATTERN.search(request.url)
-            if m and request.url not in found:
-                found.append(request.url)
+            url = request.url
+            if STRICT_PATTERN.search(url):
+                if url not in strict_hits:
+                    strict_hits.append(url)
+            elif LOOSE_PATTERN.search(url):
+                if url not in loose_hits:
+                    loose_hits.append(url)
 
         page.on("request", on_request)
 
-        page.goto(TARGET_PAGE, wait_until="networkidle", timeout=45000)
+        # PENTING: jangan pakai wait_until="networkidle" -- halaman live stream
+        # selalu ada request jalan terus, jadi networkidle tidak akan pernah tercapai.
+        try:
+            page.goto(TARGET_PAGE, wait_until="domcontentloaded", timeout=45000)
+        except Exception as e:
+            print(f"Peringatan saat goto (dilanjutkan): {e}")
+
         # beri waktu player mulai memutar & memanggil manifest m3u8
-        page.wait_for_timeout(8000)
+        page.wait_for_timeout(15000)
 
         browser.close()
 
-    if not found:
-        print("Gagal menangkap URL m3u8 Trans 7 dari halaman sumber.")
+    if strict_hits:
+        preferred = [u for u in strict_hits if "live-480" in u]
+        return preferred[0] if preferred else strict_hits[0]
+
+    if loose_hits:
+        print("Pola ketat (ID video x8qckyq) tidak cocok, tapi ada m3u8 dmcdn.net lain:")
+        for u in loose_hits:
+            print(f"  - {u}")
+        print("Kemungkinan ID video berubah -- sesuaikan STRICT_PATTERN di script ini.")
         sys.exit(1)
 
-    # prioritaskan kualitas yang sama dengan yang sudah ada di playlist (480)
-    preferred = [u for u in found if "live-480" in u]
-    return preferred[0] if preferred else found[0]
+    print("Tidak ada request m3u8 dari cf.dmcdn.net yang tertangkap sama sekali.")
+    print("Kemungkinan: player butuh interaksi klik dulu, ada consent popup, atau IP runner diblokir.")
+    sys.exit(1)
 
 
 def update_playlist(new_url: str) -> None:
