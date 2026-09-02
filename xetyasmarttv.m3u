@@ -43,6 +43,11 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/kompastv.png" group-title="SEMUA TV ONLINE",Kompas TV
 https://flv.intechmedia.net/live/ch102.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/transtv.png" group-title="SEMUA TV ONLINE",Trans TV
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1001171386_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODgzMzAzMDE3MDkmd293emF0b2tlbmhhc2g9YW5aQktrVU1xUHFFQmxzdmRjbU5MaWVtV190d0FrSXJyLUVScEZCOUJCMD0=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="SEMUA TV ONLINE",Trans 7 
 https://live.eu-north-1a.cf.dmcdn.net/sec2(_zZQxQPVU4bRVlYMrg5HRmeDwg8iCmhjED9JHbwqeyKvxdMaFmLH5hbSkABEzQ2pKm9pXqKts94jwui_iTCVZAnxvIucBgrw5aYBbVB--appVaPlWBBbohKVLeZ_M5Pa)/dm/3/x8qckyq/d/live-240.m3u8
 #http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://github.com/xetya/xetiativi/raw/refs/heads/main/video/alert/siaran-gangguan.mp4
