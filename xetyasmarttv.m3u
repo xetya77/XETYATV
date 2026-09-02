@@ -23,8 +23,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=li
 http://gvisiontv.channell.my.id/ch/id/transtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="SEMUA TV ONLINE",Trans 7 
-https://live.eu-north-1a.cf.dmcdn.net/sec2(_zZQxQPVU4bRVlYMrg5HRmeDwg8iCmhjED9JHbwqeyKvxdMaFmLH5hbSkABEzQ2pKm9pXqKts94jwui_iTCVZAnxvIucBgrw5aYBbVB--appVaPlWBBbohKVLeZ_M5Pa)/dm/3/x8qckyq/d/live-240.m3u8
-#http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://github.com/xetya/xetiativi/raw/refs/heads/main/video/alert/siaran-gangguan.mp4
+#EXTVLCOPT:http-referrer=https://sevenhub.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTHTTP:{"Referer":"https://sevenhub.id/","Origin":"https://sevenhub.id"}
+https://raw.githubusercontent.com/xetya77/XETYATV/main/streams/trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/metrotv.png" group-title="SEMUA TV ONLINE",Metro TV
 https://flv.intechmedia.net/live/ch101.m3u8
@@ -42,10 +44,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
 https://flv.intechmedia.net/live/ch102.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="SEMUA TV ONLINE",Trans 7 
-#EXTVLCOPT:http-referrer=https://sevenhub.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTHTTP:{"Referer":"https://sevenhub.id/","Origin":"https://sevenhub.id"}
-https://raw.githubusercontent.com/xetya77/XETYATV/main/streams/trans7.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(_zZQxQPVU4bRVlYMrg5HRmeDwg8iCmhjED9JHbwqeyKvxdMaFmLH5hbSkABEzQ2pKm9pXqKts94jwui_iTCVZAnxvIucBgrw5aYBbVB--appVaPlWBBbohKVLeZ_M5Pa)/dm/3/x8qckyq/d/live-240.m3u8
+#http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://github.com/xetya/xetiativi/raw/refs/heads/main/video/alert/siaran-gangguan.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPoxcw6YvJnsYmYCi3ePHb2b1qQ_UmpTXRsov_75Ntw&s" group-title="SEMUA TV ONLINE",VTV
 https://flv.intechmedia.net/live/ch107.m3u8
