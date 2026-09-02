@@ -38,8 +38,9 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="SEMUA TV ONLINE",Trans 7 
-#EXTVLCOPT:http-referrer=https://sevenhub.id/live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://sevenhub.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTHTTP:{"Referer":"https://sevenhub.id/","Origin":"https://sevenhub.id"}
 https://trans7-resolver.nubuuys77.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPoxcw6YvJnsYmYCi3ePHb2b1qQ_UmpTXRsov_75Ntw&s" group-title="SEMUA TV ONLINE",VTV
