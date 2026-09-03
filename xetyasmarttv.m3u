@@ -296,6 +296,124 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",FTF SPORT
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",GOLF CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",FIGHT BOX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",FAST AND FUNBOX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+http://69.30.245.50/live/cctv5.m3u8
+http://74.91.26.218:82/live/cctv5hd.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",CCTV5+
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+http://69.30.246.194/live/cctv5p.m3u8
+http://74.91.26.218:82/live/cctv5p.m3u8
+
+#EXTINF:-1 group-title="SEMUA TV ONLINE" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",MNB SPORT
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+
+
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE", Prima Sport 1 
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE", Prima Sport 2 
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE", Prima Sport 3 
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE", Prima Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
+
+#EXTINF:-1 group-title="SEMUA TV ONLINE" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",AL IRAQIA SPORT
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+
+#EXTINF:-1 group-title="SEMUA TV ONLINE" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",NSPORT FLAS
+https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
+
+#EXTINF:-1 group-title="SEMUA TV ONLINE" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",TVRSPORT
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",ACE TV
+https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",HOMERUN
+https://amg00585-amg00585c11-sportstribal-emea-5520.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-homeruntv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",GOAL TV
+https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",PICKLEBALL TV
+https://amg01444-amg01444c3-freelivesports-emea-11542.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelfast-pickleball-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",ACCDN 
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",ACI Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",CCTV-Billiards 
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",CCTV-Golf & Tennis 
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",DiviSport 
+http://stream.mcquack.net/457/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",FCK Løvinderne
+https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",FloHockey 
+https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",FloRacing 
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",Game+ 
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",ge Fast
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",GLORY Kickboxing 
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",Golazo Network
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="SEMUA TV ONLINE",Mr Bean Live Action 
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb543d1a7b6c678f99d43961cef047a0f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7257db80148b61299bce8c37683f03409a5e5afba358b1ebe90e45da6ea9b94855957a46e19f43c8821da688820e995e8e70f21cc894a482d0168a87f32e93748a98cd5c581fb0a43bfae053b2d5946c2a95705a297437c790e335caa1e43d277debf6cac51497d6728d57ea4236b50a995d89319962a44bdd89855ba9c9bd697243d4f7547433a8a58b8bf73c3ebc68efa3e797132edd9e801b362bef7fdaf0cefa5db270b2ad5844731fa5fe043c2bc9900ab69cb982fca38c58a6e8abadfbb53258476f0803c908ecca2d931ed476acc104321c6370edcb058ad6821e076b41d0d405940b4ded92cba2cf1e37cf571e58c369cd14503f9b7a3f2aa565d2b20841a56a4a893c36fe18128541f7b765b584d3f70936b0919616aa21bffb5a9ca6429a6c3a5810babd790c12022e869c13675a4eca4be0dcddf23758509e90e3ca80026849696d1166edc5e87f9c82c5536d35c941296d71505ad633df67db0f5e136cae3ad6bf02608a162b4eb7f667bd3bd241481de7050de87366485e01bd5d049c202d32e7/118/426x240_411840/index.m3u8
