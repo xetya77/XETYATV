@@ -609,16 +609,20 @@ http://stream.mcquack.net/357/index.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",UMC TV 
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 
+#EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",AUTENTIC TRAVEL
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 
+#EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",TV5 MONDE CHEF
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 
+#EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",TASTEMADE INTERNATIONAL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeinternationalenglish24i-ono/playlist.m3u8
 
+#EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",TRAVEL XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-
-
-
-
-
-
+#EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",Tochka RF
+http://stream.mcquack.net/161/index.m3u8
 
 #EXTINF:-1 tvg-id="CGTN.id" tvg-name="CGTN" tvg-logo="https://mimipipi22.github.io/logo/news/cgtn.jpg" group-title="SEMUA TV ONLINE",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_3.m3u8
