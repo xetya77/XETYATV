@@ -278,6 +278,9 @@ https://moonbug-rokuus.amagi.tv/240p-cc/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="SEMUA TV ONLINE",Zoo Moo (Australia) 
 https://zoomoo-samsungau.amagi.tv/playlist360p.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",DISCOVERING CINA
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/cb563d1b7c6c648e84c22167d6f262ffa65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600a6641267edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42bb5020067cddf359bd0b0d97d956de6f4adafb8c2360625f5c98435ee3b24af1fdb05a13dc64f4ac191d962658e68314c8c94ebdd4d346cd16d374a717cfc4f88ad043e0feab5c91a34925733a084ddbe55392d95cb8a8f5035bbd42588d9ac884d9f7df5d35873d231698ad8bd7618efda81953a9d8169b790afda932fa7dab29ed8b6fb3a4ba90764e32bdcb618346caea8d85e13c3fb167b4f7a78d3334b5ff1a6d5f922df92c2f2a9ff4cf54d5934ed69d6ac595790d34c5a64099b6bb97a0e5de1dd2769c87bcb31576634f48428a54a99f2dfc2cde73a7875302545f4ba09f1a95d58010602c1fc8d01ef91c19b0d78ec3ec0f3dcb721215bd338e15563abe59061bc423fd8833658d5468d465479b5256d114a8584d7176425560c5fe9e84d5ffe2ba962f7af8d354e7ff/164/1280x720_2851200/index.m3u8
+
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="SEMUA TV ONLINE",CHINA TRAVEL
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
@@ -307,6 +310,46 @@ https://english-livebkali.cgtn.com/live/encgtn_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="SEMUA TV ONLINE",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_20.m3u8
 
+#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",WHEATER CHANNEL
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",METEO NEWS
+https://streaming.meteonews.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",WHEATHERSPY
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",ACCU WEATHER
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",FOX WEATHER
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="NorCastWeather.us@HD" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",NorCast Weather
+https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",Sky News Weather 
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",Weathernews 
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
+#EXTINF:-1 tvg-id="WeatherSpy.au@SD" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",WeatherSpy 2
+https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeatherSpy.mx@SD" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",WeatherSpy 3
+https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeatherSpy.us@SD" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",WeatherSpy 4
+https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="SEMUA TV ONLINE",360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+
 
 
 
@@ -333,8 +376,14 @@ https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 tvg-id="PeaceTVChinese.ae@SD" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" group-title="SEMUA TV ONLINE",Peace TV Chinese
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/tracks-v4a1/mono.m3u8?sid=AF7uoYM6zU6-AtyYbsaOZQ&bvr_flags=1&bvr_ch=PeaceTvChinese&bvr_bw=510000
 
-#EXTINF:-1 tvg-id="WXTV.tw@SD" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="SEMUA TV ONLINE",唯心電視
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",FUJI TV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",NTV
+https://ntv5.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",TBS
+https://tbs5.mov3.co/hls/tbs.m3u8
 
 #EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" tvg-logo="https://i.imgur.com/5LNZeVq.png" http-referrer="http://japan.cgntv.net/HD_player_jp.html" group-title="SEMUA TV ONLINE",CGNTV Japan 
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
