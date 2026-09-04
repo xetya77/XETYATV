@@ -20,7 +20,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/transtv.png" group-title="SEMUA TV ONLINE",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
-http://gvisiontv.channell.my.id/ch/id/transtv.m3u8
+https://ln.run/TRANSTV-FHD
+#http://gvisiontv.channell.my.id/ch/id/transtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="SEMUA TV ONLINE",Trans 7 
 #EXTVLCOPT:http-referrer=https://sevenhub.id/
