@@ -4,6 +4,8 @@
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRINasional.go.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvri.png" group-title="SEMUA TV ONLINE",TVRI Nasional
+#EXTVLCOPT:http-referrer=https://flv.intechmedia.net/live/ch113.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 https://flv.intechmedia.net/live/ch113.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/magna.png" group-title="SEMUA TV ONLINE",Magna Channel
