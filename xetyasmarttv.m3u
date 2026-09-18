@@ -68,19 +68,20 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 #EXTVLCOPT:http-origin=http://www.biznetvideo.net
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="SEMUA TV ONLINE",Trans 7 
-#EXTVLCOPT:http-referrer=https://sevenhub.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTHTTP:{"Referer":"https://sevenhub.id/","Origin":"https://sevenhub.id"}
-https://live.eu-north-1a.cf.dmcdn.net/sec2(q1sWGuudc1soBeZZSJ10sLiW2DSVZP4RD63OYUSUVtJZO5I_0lL0tL1h6eXjKP3Nyv4s_aRddNBIJgDBe4KWudkxYut0RsVyi-94EbDSgHxPLS7odA-FGqaHm_NOI6_s)/dm/3/x8qckyq/d/live-480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="SEMUA TV ONLINE",SCTV (VIDIO)
+https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
-#EXTINF:-1 tvg-id="Skysport" group-title="SEMUA TV ONLINE" tvg-logo="https://yt3.googleusercontent.com/wx92ZcQ6XBDQkXw_0VRDKyuOlsioJxgjHW2CTi_W6wXBjvzz80Ryx8teHmtRav1nGFrDrN28mQ=s900-c-k-c0x00ffffff-no-rj", SKY SPORTS |MotoGP|
-http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19133/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="SEMUA TV ONLINE",INDOSIAR (VIDIO)
+https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",ANTV 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="SEMUA TV ONLINE",ANTV (VIDIO)
 #https://beetv.my.id/stream/vd.m3u8?ch=antv
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
