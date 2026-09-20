@@ -115,6 +115,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h218/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.aichi-nagoya2026.org/wp-content/uploads/2026/08/AG-Honohon-with-Flag-1024x683.png" group-title="YOUTUBE",RANS TV
+https://www.youtube.com/live/OF_vd4ZO0lY?si=ucrpsZfsz3IGL3Ep
+
+#EXTINF:-1 tvg-logo="https://www.aichi-nagoya2026.org/wp-content/uploads/2026/08/AG-Honohon-with-Flag-1024x683.png" group-title="YOUTUBE",RANS SPORTS TV
+https://www.youtube.com/live/i0bQIRZx9Cc?si=t1MNlLGz5qrP96QD
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/moji.png" group-title="SEMUA TV ONLINE",MOJI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
@@ -210,7 +216,7 @@ http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsYSRq7mGszGOPeUqLbCRdHA-NSBwXTXLjF2n28h3aUpoaxhrFK537qXm5&s=10" group-title="SEMUA TV ONLINE",Timnas TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsYSRq7mGszGOPeUqLbCRdHA-NSBwXTXLjF2n28h3aUpoaxhrFK537qXm5&s=10" group-title="YOUTUBE",Timnas TV
 https://www.youtube.com/live/OZ8yYy1rOPA?si=ovM4Kr7Gy02ZNcG3
 
 #EXTINF:-1 group-title="SEMUA TV ONLINE" tvg-logo="https://i.postimg.cc/SQTLjRnj/ezgif-4e840dec9df68523.png",MUSICA
